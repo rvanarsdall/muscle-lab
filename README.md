@@ -68,3 +68,14 @@ Learn the landmarks, Watch & Listen, and pin-round setup each offer **In order /
 Canonical repository: https://github.com/rvanarsdall/muscle-lab. GitHub Pages is deployed by `.github/workflows/pages.yml`; enable GitHub Actions as the Pages publishing source. The earlier ChatGPT Sites pilot can remain available during migration.
 
 **Expand lesson** opens a screen-filling player overlay that also works when a phone browser does not support native element fullscreen. The overlay keeps speed controls available, supports Escape/Close, and keeps keyboard focus inside while open. Turning the phone sideways gives a larger landscape view.
+
+## Routing
+
+React Router provides bookmarkable routes with browser Back/Forward support. Hash routing keeps direct links and refreshes working on GitHub Pages without a server rewrite:
+
+- `#/learn` — learning overview
+- `#/learn/rectus`, `#/learn/lateralis`, `#/learn/medialis`, `#/learn/intermedius`, `#/learn/sartorius`, `#/learn/gracilis` — individual muscles
+- `#/watch` — narrated tour and demonstrations
+- `#/challenge` — pin challenge setup
+
+The app layout and progress remain shared across routes. Unknown routes and unknown muscle IDs return to Learn. The hash is part of the client route, so local audio/image paths continue to resolve under `/muscle-lab/` on GitHub Pages.
