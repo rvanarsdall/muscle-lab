@@ -1,0 +1,378 @@
+[
+  {
+    "id": "scalp",
+    "title": "Scalp & forehead",
+    "week": 8,
+    "summary": "Two muscle bellies connected across the top of the head.",
+    "ids": [
+      "occipitofrontalis",
+      "frontalis",
+      "occipitalis",
+      "epicranial-aponeurosis"
+    ],
+    "video": "Pages/8_1_5_kaylie_muscles_face_head_video.html",
+    "course": "https://content.byui.edu/file/e3a64f7a-dc9d-4b72-b6c6-c12e1427a8cb/1/head-trunk-muscles-lab/index.html"
+  },
+  {
+    "id": "eyes-nose",
+    "title": "Eyes & nose",
+    "week": 8,
+    "summary": "A ring, an eyebrow wrinkler, and two nose landmarks.",
+    "ids": [
+      "corrugator-supercilii",
+      "orbicularis-oculi",
+      "nasalis",
+      "procerus"
+    ],
+    "video": "Pages/8_1_5_kaylie_muscles_face_head_video.html",
+    "course": "https://content.byui.edu/file/e3a64f7a-dc9d-4b72-b6c6-c12e1427a8cb/1/head-trunk-muscles-lab/index.html"
+  },
+  {
+    "id": "cheeks-smile",
+    "title": "Cheeks & smile",
+    "week": 8,
+    "summary": "Follow the cheek muscles toward the mouth.",
+    "ids": [
+      "buccinator",
+      "risorius",
+      "zygomaticus-major",
+      "zygomaticus-minor"
+    ],
+    "video": "Pages/8_1_5_kaylie_muscles_face_head_video.html",
+    "course": "https://content.byui.edu/file/e3a64f7a-dc9d-4b72-b6c6-c12e1427a8cb/1/head-trunk-muscles-lab/index.html"
+  },
+  {
+    "id": "lips-chin",
+    "title": "Lips & chin",
+    "week": 8,
+    "summary": "Separate the lip movers from the mouth-corner movers.",
+    "ids": [
+      "orbicularis-oris",
+      "depressor-anguli-oris",
+      "depressor-labii-inferioris",
+      "levator-labii-superioris",
+      "mentalis"
+    ],
+    "video": "Pages/8_1_5_kaylie_muscles_face_head_video.html",
+    "course": "https://content.byui.edu/file/e3a64f7a-dc9d-4b72-b6c6-c12e1427a8cb/1/head-trunk-muscles-lab/index.html"
+  },
+  {
+    "id": "jaw",
+    "title": "Chewing muscles",
+    "week": 8,
+    "summary": "Four jaw movers: outside, above, and deep inside.",
+    "ids": [
+      "masseter",
+      "temporalis",
+      "lateral-pterygoid",
+      "medial-pterygoid"
+    ],
+    "video": "Pages/8_1_5_kaylie_muscles_face_head_video.html",
+    "course": "https://content.byui.edu/file/e3a64f7a-dc9d-4b72-b6c6-c12e1427a8cb/1/head-trunk-muscles-lab/index.html"
+  },
+  {
+    "id": "mouth-floor",
+    "title": "Under the jaw",
+    "week": 8,
+    "summary": "Find the two bellies and the floor beneath the mouth.",
+    "ids": [
+      "digastric",
+      "anterior-belly-of-digastric",
+      "posterior-belly-of-digastric",
+      "mylohyoid",
+      "stylohyoid"
+    ],
+    "video": "Pages/8_1_5_kaylie_muscles_neck_video.html",
+    "course": "https://content.byui.edu/file/e3a64f7a-dc9d-4b72-b6c6-c12e1427a8cb/1/head-trunk-muscles-lab/index.html"
+  },
+  {
+    "id": "neck",
+    "title": "Neck landmarks",
+    "week": 8,
+    "summary": "A prominent strap, a two-belly ribbon, and a surface sheet.",
+    "ids": [
+      "sternocleidomastoid",
+      "omohyoid",
+      "platysma"
+    ],
+    "video": "Pages/8_1_5_kaylie_muscles_neck_video.html",
+    "course": "https://content.byui.edu/file/e3a64f7a-dc9d-4b72-b6c6-c12e1427a8cb/1/head-trunk-muscles-lab/index.html"
+  },
+  {
+    "id": "scapula",
+    "title": "Shoulder-blade movers",
+    "week": 8,
+    "summary": "Six landmarks that position the shoulder blade.",
+    "ids": [
+      "levator-scapulae",
+      "rhomboideus-major",
+      "rhomboideus-minor",
+      "pectoralis-minor",
+      "serratus-anterior",
+      "trapezius"
+    ],
+    "video": "Pages/8_1_5_kaylie_muscles_post_trunk_video.html",
+    "course": "https://content.byui.edu/file/e3a64f7a-dc9d-4b72-b6c6-c12e1427a8cb/1/head-trunk-muscles-lab/index.html"
+  },
+  {
+    "id": "abdomen",
+    "title": "Abdominal wall",
+    "week": 8,
+    "summary": "Four muscle layers and two connective-tissue landmarks.",
+    "ids": [
+      "external-abdominal-oblique",
+      "internal-abdominal-oblique",
+      "transverse-abdominis",
+      "rectus-abdominis",
+      "linea-alba",
+      "inguinal-ligament"
+    ],
+    "video": "Pages/8_1_5_kaylie_muscles_ant_trunk_video.html",
+    "course": "https://content.byui.edu/file/e3a64f7a-dc9d-4b72-b6c6-c12e1427a8cb/1/head-trunk-muscles-lab/index.html"
+  },
+  {
+    "id": "back",
+    "title": "Deep back",
+    "week": 8,
+    "summary": "Learn the back columns from lateral to medial.",
+    "ids": [
+      "quadratus-lumborum",
+      "erector-spinae",
+      "iliocostalis",
+      "longissimus",
+      "spinalis"
+    ],
+    "video": "Pages/8_1_5_kaylie_muscles_post_trunk_video.html",
+    "course": "https://content.byui.edu/file/e3a64f7a-dc9d-4b72-b6c6-c12e1427a8cb/1/head-trunk-muscles-lab/index.html"
+  },
+  {
+    "id": "shoulder",
+    "title": "Shoulder & upper arm",
+    "week": 9,
+    "summary": "Five big clues around the shoulder and armpit.",
+    "ids": [
+      "coracobrachialis",
+      "deltoid",
+      "latissimus-dorsi",
+      "pectoralis-major",
+      "teres-major"
+    ],
+    "video": "Pages/9_1_4_kaylie_muscles_UpperArm_video.html",
+    "course": "https://content.byui.edu/file/bff57b7a-48ae-4e2d-8349-54060c98fc84/1/arm-muscles-lab/index.html"
+  },
+  {
+    "id": "rotator-cuff",
+    "title": "Rotator cuff \u00b7 SITS",
+    "week": 9,
+    "summary": "SITS: four stabilizers around the shoulder joint.",
+    "ids": [
+      "supraspinatus",
+      "infraspinatus",
+      "teres-minor",
+      "subscapularis"
+    ],
+    "video": "Pages/9_1_4_kaylie_muscles_UpperArm_video.html",
+    "course": "https://content.byui.edu/file/bff57b7a-48ae-4e2d-8349-54060c98fc84/1/arm-muscles-lab/index.html"
+  },
+  {
+    "id": "elbow",
+    "title": "Elbow movers",
+    "week": 9,
+    "summary": "Three elbow benders and one straightener.",
+    "ids": [
+      "biceps-brachii",
+      "brachialis",
+      "brachioradialis",
+      "triceps-brachii"
+    ],
+    "video": "Pages/9_1_4_kaylie_muscles_UpperArm_video.html",
+    "course": "https://content.byui.edu/file/bff57b7a-48ae-4e2d-8349-54060c98fc84/1/arm-muscles-lab/index.html"
+  },
+  {
+    "id": "forearm-surface",
+    "title": "Forearm \u00b7 surface flexors",
+    "week": 9,
+    "summary": "Find the wrist sides, the palm tendon, and the diagonal strap.",
+    "ids": [
+      "flexor-carpi-ulnaris",
+      "flexor-carpi-radialis",
+      "palmaris-longus",
+      "pronator-teres"
+    ],
+    "video": "Pages/9_1_4_kaylie_muscles_LowerArm_video.html",
+    "course": "https://content.byui.edu/file/bff57b7a-48ae-4e2d-8349-54060c98fc84/1/arm-muscles-lab/index.html"
+  },
+  {
+    "id": "forearm-deep",
+    "title": "Forearm \u00b7 fingers & rotation",
+    "week": 9,
+    "summary": "Compare finger depth, then find the thumb flexor and palm-up rotator.",
+    "ids": [
+      "flexor-digitorum-superficialis",
+      "flexor-digitorum-profundus",
+      "flexor-pollicis-longus",
+      "supinator"
+    ],
+    "video": "Pages/9_1_4_kaylie_muscles_LowerArm_video.html",
+    "course": "https://content.byui.edu/file/bff57b7a-48ae-4e2d-8349-54060c98fc84/1/arm-muscles-lab/index.html"
+  },
+  {
+    "id": "forearm-extensors",
+    "title": "Forearm \u00b7 wrist & fingers",
+    "week": 9,
+    "summary": "Back-of-forearm names tell you wrist side or finger target.",
+    "ids": [
+      "extensor-carpi-radialis-longus",
+      "extensor-carpi-radialis-brevis",
+      "extensor-carpi-ulnaris",
+      "extensor-digitorum",
+      "extensor-digiti-minimi",
+      "extensor-indicis"
+    ],
+    "video": "Pages/9_1_4_kaylie_muscles_LowerArm_video.html",
+    "course": "https://content.byui.edu/file/bff57b7a-48ae-4e2d-8349-54060c98fc84/1/arm-muscles-lab/index.html"
+  },
+  {
+    "id": "thumb",
+    "title": "Thumb tendons",
+    "week": 9,
+    "summary": "One moves away; two straighten the thumb.",
+    "ids": [
+      "abductor-pollicis-longus",
+      "extensor-pollicis-brevis",
+      "extensor-pollicis-longus"
+    ],
+    "video": "Pages/9_1_4_kaylie_muscles_LowerArm_video.html",
+    "course": "https://content.byui.edu/file/bff57b7a-48ae-4e2d-8349-54060c98fc84/1/arm-muscles-lab/index.html"
+  },
+  {
+    "id": "hip-surface",
+    "title": "Hip \u00b7 surface & layers",
+    "week": 10,
+    "summary": "Three gluteal layers and the outer-thigh tension system.",
+    "ids": [
+      "gluteus-maximus",
+      "gluteus-medius",
+      "gluteus-minimus",
+      "tensor-fascia-latae",
+      "iliotibial-band"
+    ],
+    "video": "Pages/10_1_4_kaylie_muscles_posterior_UpperLeg_video.html",
+    "course": "https://content.byui.edu/file/dc5a9585-91a1-40dd-b73e-0d17e0ba9594/1/leg-muscles-lab/index.html"
+  },
+  {
+    "id": "hip-flexors",
+    "title": "Front of the hip",
+    "week": 10,
+    "summary": "Two muscles meet to form one powerful hip-flexor unit.",
+    "ids": [
+      "iliopsoas",
+      "iliacus",
+      "psoas-major"
+    ],
+    "video": "Pages/10_1_4_kaylie_muscles_anterior_UpperLeg_video.html",
+    "course": "https://content.byui.edu/file/dc5a9585-91a1-40dd-b73e-0d17e0ba9594/1/leg-muscles-lab/index.html"
+  },
+  {
+    "id": "hip-deep",
+    "title": "Hip \u00b7 deep rotators",
+    "week": 10,
+    "summary": "Trace the deep stack from the pear-shaped muscle downward.",
+    "ids": [
+      "piriformis",
+      "superior-gemellus",
+      "obturator-internus",
+      "inferior-gemellus",
+      "quadratus-femoris"
+    ],
+    "video": "Pages/10_1_4_kaylie_muscles_posterior_UpperLeg_video.html",
+    "course": "https://content.byui.edu/file/dc5a9585-91a1-40dd-b73e-0d17e0ba9594/1/leg-muscles-lab/index.html"
+  },
+  {
+    "id": "adductors",
+    "title": "Inner thigh \u00b7 adductors",
+    "week": 10,
+    "summary": "Comb, short, long, and large: four inner-thigh clues.",
+    "ids": [
+      "pectineus",
+      "adductor-brevis",
+      "adductor-longus",
+      "adductor-magnus"
+    ],
+    "video": "Pages/10_1_4_kaylie_muscles_anterior_UpperLeg_video.html",
+    "course": "https://content.byui.edu/file/dc5a9585-91a1-40dd-b73e-0d17e0ba9594/1/leg-muscles-lab/index.html"
+  },
+  {
+    "id": "anterior-thigh",
+    "title": "Anterior thigh",
+    "week": 10,
+    "summary": "Four quadriceps. Two straps. Six names you can connect.",
+    "ids": [
+      "rectus",
+      "lateralis",
+      "medialis",
+      "intermedius",
+      "sartorius",
+      "gracilis"
+    ],
+    "video": "Pages/10_1_4_kaylie_muscles_anterior_UpperLeg_video.html",
+    "course": "https://content.byui.edu/file/dc5a9585-91a1-40dd-b73e-0d17e0ba9594/1/leg-muscles-lab/index.html"
+  },
+  {
+    "id": "hamstrings",
+    "title": "Posterior thigh \u00b7 hamstrings",
+    "week": 10,
+    "summary": "Outside, cord-like, and broad: three hamstring landmarks.",
+    "ids": [
+      "biceps-femoris",
+      "semitendinosus",
+      "semimembranosus"
+    ],
+    "video": "Pages/10_1_4_kaylie_muscles_posterior_UpperLeg_video.html",
+    "course": "https://content.byui.edu/file/dc5a9585-91a1-40dd-b73e-0d17e0ba9594/1/leg-muscles-lab/index.html"
+  },
+  {
+    "id": "shin",
+    "title": "Front & outside of the leg",
+    "week": 10,
+    "summary": "Separate the shin muscles from the outer-leg pair.",
+    "ids": [
+      "tibialis-anterior",
+      "extensor-digitorum-longus",
+      "extensor-hallucis-longus",
+      "fibularis-tertius",
+      "fibularis-longus",
+      "fibularis-brevis"
+    ],
+    "video": "Pages/10_1_4_kaylie_muscles_LowerLeg_video.html",
+    "course": "https://content.byui.edu/file/dc5a9585-91a1-40dd-b73e-0d17e0ba9594/1/leg-muscles-lab/index.html"
+  },
+  {
+    "id": "calf",
+    "title": "Calf & heel",
+    "week": 10,
+    "summary": "Two calf layers, a thin tendon, a heel cord, and a knee unlocker.",
+    "ids": [
+      "gastrocnemius",
+      "soleus",
+      "plantaris",
+      "tendo-calcaneus",
+      "popliteus"
+    ],
+    "video": "Pages/10_1_4_kaylie_muscles_LowerLeg_video.html",
+    "course": "https://content.byui.edu/file/dc5a9585-91a1-40dd-b73e-0d17e0ba9594/1/leg-muscles-lab/index.html"
+  },
+  {
+    "id": "leg-deep",
+    "title": "Deep posterior leg",
+    "week": 10,
+    "summary": "Deep muscles for the arch, small toes, and big toe.",
+    "ids": [
+      "tibialis-posterior",
+      "flexor-digitorum-longus",
+      "flexor-hallucis-longus"
+    ],
+    "video": "Pages/10_1_4_kaylie_muscles_LowerLeg_video.html",
+    "course": "https://content.byui.edu/file/dc5a9585-91a1-40dd-b73e-0d17e0ba9594/1/leg-muscles-lab/index.html"
+  }
+]

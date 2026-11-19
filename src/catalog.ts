@@ -1,0 +1,22 @@
+import {muscles as pilot,courseUrl} from './content';
+import type {Muscle} from './content';
+import {muscleDetails as pilotDetails} from './muscleDetails';
+import data from './data/curriculum.json';
+import groupData from './data/groups.json';
+export type StudyGroup=typeof groupData[number];
+const local=(src:string)=>src.startsWith('course/')?`${import.meta.env.BASE_URL}${src}`:src;
+export const groups:StudyGroup[]=groupData;
+export const defaultGroup=groups.find(g=>g.id==='anterior-thigh')!;
+export const extraData=Object.fromEntries(data.map(m=>[m.id,m]));
+export const allMuscles:Muscle[]=[...pilot,...data.map(m=>({...m,image:local(m.image),pin:m.pin as [number,number],landmark:m.location+' '+m.shape,view:groups.find(g=>g.id===m.group)!.title}))];
+export const getMuscles=(group:StudyGroup)=>group.ids.map(id=>allMuscles.find(m=>m.id===id)!);
+export const groupFor=(id:string)=>groups.find(g=>g.ids.includes(id))??defaultGroup;
+export const sourceFor=(id:string)=>extraData[id]?.course??courseUrl;
+export const aliasesFor=(id:string)=>extraData[id]?.aliases??[];
+export const pathFor=(group:StudyGroup,mode:string,id?:string)=>`/group/${group.id}/${mode}${id?'/'+id:''}`;
+export const detailFor=(id:string)=>{
+ const m=extraData[id];
+ return m?{location:m.location,shape:m.shape,action:m.action,courseNote:'Course-aligned study summary: '+m.location+' '+m.action,sourcePage:m.sourcePage,width:m.width,height:m.height}: {...pilotDetails[id],height:690,sourcePage:'https://content.byui.edu/file/dc5a9585-91a1-40dd-b73e-0d17e0ba9594/1/leg-muscles-lab/Pages/10_1_1_intro_legs.html'};
+};
+export const imageSize=(id:string)=>{const d=detailFor(id);return {width:d.width,height:d.height};};
+export const examTermsUrl='https://content.byui.edu/file/b02a5ea8-b24f-4ee9-a90a-0e775347d747/1/Exam%203%20List%20of%20Terms.pdf';

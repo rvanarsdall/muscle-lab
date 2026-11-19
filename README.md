@@ -79,3 +79,13 @@ React Router provides bookmarkable routes with browser Back/Forward support. Has
 - `#/challenge` — pin challenge setup
 
 The app layout and progress remain shared across routes. Unknown routes and unknown muscle IDs return to Learn. The hash is part of the client route, so local audio/image paths continue to resolve under `/muscle-lab/` on GitHub Pages.
+
+## Complete Exam 3 study release
+
+The library at `#/groups` contains 26 groups of 3–6 targets covering the individual structures on the course's Exam 3 checklist (Weeks 8–10). See [COVERAGE.md](COVERAGE.md) for the scope and source mapping. Each group has its own `#/group/GROUP_ID/learn`, `/watch`, and `/challenge` routes. Existing `#/learn`, `#/watch`, and `#/challenge` links retain the anterior-thigh pilot. New visits to the site root open the library.
+
+The challenge offers dropdown recognition followed by typed spelling. Spelling uses Levenshtein distance over letters: up to two insertions, deletions, or substitutions; capitalization, spacing, and punctuation do not count. Transposed neighboring letters cost two edits. Empty answers and another structure's exact name are misses. Anatomical synonyms are explicitly listed, and feedback always displays the canonical spelling. Recognition and spelling use separate local progress stores. The mixed review at `#/review` samples 10, 20, or all terms from selected groups and defaults to a spelling rehearsal with feedback at the end.
+
+New narration uses the same Rob Clone voice, energetic v3 delivery and speed 1.12. The original approved pilot audio is unchanged. `scripts/generate-curriculum-audio.mjs` generates missing new clips (or one `--clip=ID`); `scripts/measure-audio.mjs` builds timing and captions. Credentials remain outside the repository. The generated audio and timing files are checked in so deployment needs no media API access.
+
+Course artwork stays attributed to BYU–Idaho. Most images are served by the course; four GIF-based deep-hip views are frozen at the appropriate exposed layer so quiz pins remain stationary. Two multi-panel forearm images are cropped to the correct muscle without their printed titles. Each target carries its course source, dimensions, and reviewed pin coordinates in `src/data/curriculum.json`. The original anterior-thigh traced outlines remain unchanged. New lessons use animated focus rings/arrows and additional course views where available. No cadaver photographs have been invented.

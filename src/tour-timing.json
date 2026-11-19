@@ -446,5 +446,8305 @@
         "end": 31.12
       }
     ]
+  },
+  "occipitofrontalis": {
+    "duration": 30.56,
+    "shape": 8.747,
+    "action": 15.893,
+    "meaning": 19.96,
+    "memory": 26.184,
+    "captions": [
+      {
+        "text": "This is the occipitofrontalis.",
+        "start": 0.134,
+        "end": 2.24
+      },
+      {
+        "text": "You'll find it across the scalp, with a",
+        "start": 2.42,
+        "end": 4.96
+      },
+      {
+        "text": "front forehead belly and a back-of-head belly.",
+        "start": 5.027,
+        "end": 8.64
+      },
+      {
+        "text": "To identify it, look for two muscular ends",
+        "start": 8.747,
+        "end": 11.92
+      },
+      {
+        "text": "joined by a broad sheet over the skull.",
+        "start": 12.011,
+        "end": 14.8
+      },
+      {
+        "text": "It moves the scalp; its front belly raises",
+        "start": 15.147,
+        "end": 18.72
+      },
+      {
+        "text": "the eyebrows.",
+        "start": 18.76,
+        "end": 19.68
+      },
+      {
+        "text": "occipito means back of head.",
+        "start": 19.96,
+        "end": 22.88
+      },
+      {
+        "text": "frontalis means forehead.",
+        "start": 23.027,
+        "end": 25.28
+      },
+      {
+        "text": "Your memory cue: Front and back, joined across",
+        "start": 26.184,
+        "end": 30.008
+      },
+      {
+        "text": "the cap.",
+        "start": 30.048,
+        "end": 30.568
+      }
+    ]
+  },
+  "frontalis": {
+    "duration": 21.84,
+    "shape": 5.44,
+    "action": 10.937,
+    "meaning": 14.4,
+    "memory": 17.984,
+    "captions": [
+      {
+        "text": "This is the frontalis.",
+        "start": 0.202,
+        "end": 1.52
+      },
+      {
+        "text": "You'll find it on the forehead, extending upward",
+        "start": 1.58,
+        "end": 4.16
+      },
+      {
+        "text": "from the eyebrows.",
+        "start": 4.192,
+        "end": 5.2
+      },
+      {
+        "text": "To identify it, find the thin, broad muscle",
+        "start": 5.44,
+        "end": 8.48
+      },
+      {
+        "text": "directly above the eyebrows.",
+        "start": 8.551,
+        "end": 10.48
+      },
+      {
+        "text": "It raises the eyebrows and makes horizontal forehead",
+        "start": 10.613,
+        "end": 13.52
+      },
+      {
+        "text": "wrinkles.",
+        "start": 13.582,
+        "end": 14.24
+      },
+      {
+        "text": "frontalis means of the forehead.",
+        "start": 14.4,
+        "end": 17.04
+      },
+      {
+        "text": "Your memory cue: Front of the head, eyebrows",
+        "start": 17.984,
+        "end": 20.8
+      },
+      {
+        "text": "up.",
+        "start": 20.907,
+        "end": 21.2
+      }
+    ]
+  },
+  "occipitalis": {
+    "duration": 21.52,
+    "shape": 5.867,
+    "action": 12.147,
+    "meaning": 13.98,
+    "memory": 17.904,
+    "captions": [
+      {
+        "text": "This is the occipitalis.",
+        "start": 0.208,
+        "end": 1.84
+      },
+      {
+        "text": "You'll find it at the back of the",
+        "start": 1.96,
+        "end": 3.6
+      },
+      {
+        "text": "scalp, above the upper neck.",
+        "start": 3.68,
+        "end": 5.6
+      },
+      {
+        "text": "To identify it, find the short muscle belly",
+        "start": 5.867,
+        "end": 9.04
+      },
+      {
+        "text": "behind the ear toward the back of the",
+        "start": 9.109,
+        "end": 10.96
+      },
+      {
+        "text": "skull.",
+        "start": 11.04,
+        "end": 11.76
+      },
+      {
+        "text": "It pulls the scalp backward.",
+        "start": 11.867,
+        "end": 13.76
+      },
+      {
+        "text": "occipitalis means of the back of the head.",
+        "start": 13.98,
+        "end": 17.12
+      },
+      {
+        "text": "Your memory cue: Occipitalis pulls the cap back.",
+        "start": 17.904,
+        "end": 21.52
+      }
+    ]
+  },
+  "epicranial-aponeurosis": {
+    "duration": 37.68,
+    "shape": 9.413,
+    "action": 17.12,
+    "meaning": 23,
+    "memory": 33.744,
+    "captions": [
+      {
+        "text": "This is the epicranial aponeurosis.",
+        "start": 0.269,
+        "end": 3.36
+      },
+      {
+        "text": "You'll find it over the top of the",
+        "start": 3.46,
+        "end": 5.36
+      },
+      {
+        "text": "skull, connecting the front and back scalp muscles.",
+        "start": 5.44,
+        "end": 9.12
+      },
+      {
+        "text": "To identify it, identify the broad, pale sheet",
+        "start": 9.413,
+        "end": 13.84
+      },
+      {
+        "text": "between the scalp muscle bellies.",
+        "start": 13.91,
+        "end": 16.24
+      },
+      {
+        "text": "It transmits the pull between scalp muscles; it",
+        "start": 16.507,
+        "end": 20.64
+      },
+      {
+        "text": "does not contract itself.",
+        "start": 20.688,
+        "end": 22.56
+      },
+      {
+        "text": "epi means upon.",
+        "start": 23,
+        "end": 25.2
+      },
+      {
+        "text": "cranial means skull.",
+        "start": 25.408,
+        "end": 28.16
+      },
+      {
+        "text": "aponeurosis means broad tendon sheet.",
+        "start": 28.427,
+        "end": 32.56
+      },
+      {
+        "text": "Your memory cue: The scalp's white connecting cap.",
+        "start": 33.744,
+        "end": 37.68
+      }
+    ]
+  },
+  "corrugator-supercilii": {
+    "duration": 33.6,
+    "shape": 8.533,
+    "action": 17.667,
+    "meaning": 22.736,
+    "memory": 29.624,
+    "captions": [
+      {
+        "text": "This is the corrugator supercilii.",
+        "start": 0.403,
+        "end": 2.96
+      },
+      {
+        "text": "You'll find it at the inner end of",
+        "start": 3.18,
+        "end": 5.6
+      },
+      {
+        "text": "each eyebrow, near the bridge of the nose.",
+        "start": 5.664,
+        "end": 8.24
+      },
+      {
+        "text": "To identify it, look for a small, short",
+        "start": 8.533,
+        "end": 12
+      },
+      {
+        "text": "muscle beneath the inner eyebrow, not the whole",
+        "start": 12.069,
+        "end": 15.28
+      },
+      {
+        "text": "ring around the eye.",
+        "start": 15.376,
+        "end": 16.64
+      },
+      {
+        "text": "It draws the eyebrows inward and downward, making",
+        "start": 16.96,
+        "end": 20.96
+      },
+      {
+        "text": "vertical frown lines.",
+        "start": 21.022,
+        "end": 22.56
+      },
+      {
+        "text": "corrugator means wrinkler.",
+        "start": 22.736,
+        "end": 25.28
+      },
+      {
+        "text": "supercilii means of the eyebrow.",
+        "start": 25.427,
+        "end": 28.56
+      },
+      {
+        "text": "Your memory cue: Corrugator creases the brows together.",
+        "start": 29.624,
+        "end": 33.608
+      }
+    ]
+  },
+  "orbicularis-oculi": {
+    "duration": 24.88,
+    "shape": 6.24,
+    "action": 11.12,
+    "meaning": 15.52,
+    "memory": 21.856,
+    "captions": [
+      {
+        "text": "This is the orbicularis oculi.",
+        "start": 0.134,
+        "end": 2.16
+      },
+      {
+        "text": "You'll find it encircling the eye opening and",
+        "start": 2.32,
+        "end": 5.04
+      },
+      {
+        "text": "eyelids.",
+        "start": 5.104,
+        "end": 6.08
+      },
+      {
+        "text": "To identify it, follow the circular muscle around",
+        "start": 6.24,
+        "end": 9.36
+      },
+      {
+        "text": "the eye socket.",
+        "start": 9.4,
+        "end": 10.56
+      },
+      {
+        "text": "It closes the eyelids, as in blinking or",
+        "start": 10.72,
+        "end": 13.68
+      },
+      {
+        "text": "squeezing the eyes shut.",
+        "start": 13.744,
+        "end": 15.28
+      },
+      {
+        "text": "orbicularis means circular.",
+        "start": 15.52,
+        "end": 18.4
+      },
+      {
+        "text": "oculi means of the eye.",
+        "start": 18.6,
+        "end": 20.96
+      },
+      {
+        "text": "Your memory cue: Oculi closes the eye.",
+        "start": 21.856,
+        "end": 24.88
+      }
+    ]
+  },
+  "nasalis": {
+    "duration": 25.68,
+    "shape": 5.573,
+    "action": 13.32,
+    "meaning": 17.74,
+    "memory": 22.048,
+    "captions": [
+      {
+        "text": "This is the nasalis.",
+        "start": 0.272,
+        "end": 1.76
+      },
+      {
+        "text": "You'll find it over the bridge and sides",
+        "start": 1.92,
+        "end": 4.48
+      },
+      {
+        "text": "of the nose.",
+        "start": 4.507,
+        "end": 5.28
+      },
+      {
+        "text": "To identify it, find the small muscle spread",
+        "start": 5.573,
+        "end": 9.28
+      },
+      {
+        "text": "across the nasal cartilages, above the nostrils.",
+        "start": 9.349,
+        "end": 12.4
+      },
+      {
+        "text": "It helps compress or widen the nostril openings,",
+        "start": 12.693,
+        "end": 16.16
+      },
+      {
+        "text": "depending on its part.",
+        "start": 16.208,
+        "end": 17.44
+      },
+      {
+        "text": "nasalis means of the nose.",
+        "start": 17.74,
+        "end": 20.88
+      },
+      {
+        "text": "Your memory cue: Nasalis names the nose.",
+        "start": 22.048,
+        "end": 25.68
+      }
+    ]
+  },
+  "procerus": {
+    "duration": 23.12,
+    "shape": 6.08,
+    "action": 11.893,
+    "meaning": 16.16,
+    "memory": 19.328,
+    "captions": [
+      {
+        "text": "This is the procerus.",
+        "start": 0.336,
+        "end": 2.2
+      },
+      {
+        "text": "You'll find it at the root of the",
+        "start": 2.29,
+        "end": 3.68
+      },
+      {
+        "text": "nose, between the eyebrows.",
+        "start": 3.792,
+        "end": 5.96
+      },
+      {
+        "text": "To identify it, look for the small vertical",
+        "start": 6.08,
+        "end": 8.72
+      },
+      {
+        "text": "patch over the upper bridge of the nose.",
+        "start": 8.827,
+        "end": 11.44
+      },
+      {
+        "text": "It pulls the inner eyebrow region downward and",
+        "start": 11.573,
+        "end": 14.4
+      },
+      {
+        "text": "wrinkles the bridge of the nose.",
+        "start": 14.453,
+        "end": 16
+      },
+      {
+        "text": "procerus means elongated.",
+        "start": 16.16,
+        "end": 18.48
+      },
+      {
+        "text": "Your memory cue: A little vertical strip over",
+        "start": 19.328,
+        "end": 22.16
+      },
+      {
+        "text": "the nose bridge.",
+        "start": 22.18,
+        "end": 23.12
+      }
+    ]
+  },
+  "buccinator": {
+    "duration": 23.6,
+    "shape": 6.4,
+    "action": 12.37,
+    "meaning": 17.493,
+    "memory": 20.583,
+    "captions": [
+      {
+        "text": "This is the buccinator.",
+        "start": 0.202,
+        "end": 1.52
+      },
+      {
+        "text": "You'll find it deep in the cheek, forming",
+        "start": 1.6,
+        "end": 3.84
+      },
+      {
+        "text": "the muscular wall beside the teeth.",
+        "start": 3.86,
+        "end": 6.08
+      },
+      {
+        "text": "To identify it, find the broad cheek sheet",
+        "start": 6.4,
+        "end": 9.68
+      },
+      {
+        "text": "running toward the corner of the mouth.",
+        "start": 9.74,
+        "end": 11.92
+      },
+      {
+        "text": "It presses the cheek against the teeth, helping",
+        "start": 12.053,
+        "end": 14.72
+      },
+      {
+        "text": "keep food between them and assisting blowing.",
+        "start": 14.752,
+        "end": 17.2
+      },
+      {
+        "text": "buccinator means trumpeter.",
+        "start": 17.493,
+        "end": 19.6
+      },
+      {
+        "text": "Your memory cue: The trumpeter squeezes the cheek.",
+        "start": 20.583,
+        "end": 23.607
+      }
+    ]
+  },
+  "risorius": {
+    "duration": 23.68,
+    "shape": 7.147,
+    "action": 13.733,
+    "meaning": 17.08,
+    "memory": 19.824,
+    "captions": [
+      {
+        "text": "This is the risorius.",
+        "start": 0.134,
+        "end": 1.36
+      },
+      {
+        "text": "You'll find it a thin superficial band running",
+        "start": 1.5,
+        "end": 4.4
+      },
+      {
+        "text": "horizontally toward the corner of the mouth.",
+        "start": 4.462,
+        "end": 7
+      },
+      {
+        "text": "To identify it, look for a narrow sideways",
+        "start": 7.147,
+        "end": 10.08
+      },
+      {
+        "text": "strap rather than a diagonal cheek muscle.",
+        "start": 10.173,
+        "end": 13.36
+      },
+      {
+        "text": "It pulls the mouth corner laterally, widening the",
+        "start": 13.467,
+        "end": 16.24
+      },
+      {
+        "text": "mouth.",
+        "start": 16.333,
+        "end": 16.88
+      },
+      {
+        "text": "risorius means laughing.",
+        "start": 17.08,
+        "end": 19.12
+      },
+      {
+        "text": "Your memory cue: Risorius pulls the corner sideways.",
+        "start": 19.824,
+        "end": 23.68
+      }
+    ]
+  },
+  "zygomaticus-major": {
+    "duration": 25.52,
+    "shape": 7.227,
+    "action": 13.333,
+    "meaning": 16.28,
+    "memory": 21.901,
+    "captions": [
+      {
+        "text": "This is the zygomaticus major.",
+        "start": 0.336,
+        "end": 2.52
+      },
+      {
+        "text": "You'll find it from the cheekbone diagonally down",
+        "start": 2.59,
+        "end": 5.44
+      },
+      {
+        "text": "to the corner of the mouth.",
+        "start": 5.493,
+        "end": 7.04
+      },
+      {
+        "text": "To identify it, find the larger diagonal smile",
+        "start": 7.227,
+        "end": 10.64
+      },
+      {
+        "text": "strap ending at the mouth corner.",
+        "start": 10.707,
+        "end": 12.8
+      },
+      {
+        "text": "It lifts the mouth corner upward and outward.",
+        "start": 12.96,
+        "end": 15.84
+      },
+      {
+        "text": "zygomaticus means of the cheekbone.",
+        "start": 16.28,
+        "end": 19.12
+      },
+      {
+        "text": "major means larger.",
+        "start": 19.267,
+        "end": 21.12
+      },
+      {
+        "text": "Your memory cue: Major moves the mouth corner",
+        "start": 21.901,
+        "end": 24.402
+      },
+      {
+        "text": "into a smile.",
+        "start": 24.45,
+        "end": 25.522
+      }
+    ]
+  },
+  "zygomaticus-minor": {
+    "duration": 24.16,
+    "shape": 7.547,
+    "action": 12.789,
+    "meaning": 14.4,
+    "memory": 20.104,
+    "captions": [
+      {
+        "text": "This is the zygomaticus minor.",
+        "start": 0.208,
+        "end": 1.92
+      },
+      {
+        "text": "You'll find it from the cheekbone to the",
+        "start": 2.08,
+        "end": 4.16
+      },
+      {
+        "text": "upper lip, medial to the larger smile strap.",
+        "start": 4.213,
+        "end": 7.28
+      },
+      {
+        "text": "To identify it, look for the smaller diagonal",
+        "start": 7.547,
+        "end": 10.4
+      },
+      {
+        "text": "strip reaching the upper lip.",
+        "start": 10.48,
+        "end": 12.24
+      },
+      {
+        "text": "It raises the upper lip.",
+        "start": 12.4,
+        "end": 14
+      },
+      {
+        "text": "zygomaticus means of the cheekbone.",
+        "start": 14.4,
+        "end": 17.2
+      },
+      {
+        "text": "minor means smaller.",
+        "start": 17.32,
+        "end": 19.12
+      },
+      {
+        "text": "Your memory cue: Minor lifts the lip; major",
+        "start": 20.104,
+        "end": 23.128
+      },
+      {
+        "text": "lifts the corner.",
+        "start": 23.181,
+        "end": 24.168
+      }
+    ]
+  },
+  "orbicularis-oris": {
+    "duration": 27.2,
+    "shape": 6.8,
+    "action": 12.56,
+    "meaning": 17.08,
+    "memory": 23.959,
+    "captions": [
+      {
+        "text": "This is the orbicularis oris.",
+        "start": 0.134,
+        "end": 2.68
+      },
+      {
+        "text": "You'll find it encircling the mouth within the",
+        "start": 2.75,
+        "end": 5.68
+      },
+      {
+        "text": "lips.",
+        "start": 5.808,
+        "end": 6.64
+      },
+      {
+        "text": "To identify it, trace the circular muscle surrounding",
+        "start": 6.8,
+        "end": 10.56
+      },
+      {
+        "text": "the mouth opening.",
+        "start": 10.6,
+        "end": 11.84
+      },
+      {
+        "text": "It closes and purses the lips, as for",
+        "start": 12.053,
+        "end": 15.04
+      },
+      {
+        "text": "kissing or whistling.",
+        "start": 15.13,
+        "end": 16.8
+      },
+      {
+        "text": "orbicularis means circular.",
+        "start": 17.08,
+        "end": 20.32
+      },
+      {
+        "text": "oris means of the mouth.",
+        "start": 20.507,
+        "end": 23.04
+      },
+      {
+        "text": "Your memory cue: Oris makes the mouth ring.",
+        "start": 23.959,
+        "end": 27.202
+      }
+    ]
+  },
+  "depressor-anguli-oris": {
+    "duration": 34.16,
+    "shape": 10.533,
+    "action": 17.587,
+    "meaning": 21.26,
+    "memory": 30.544,
+    "captions": [
+      {
+        "text": "This is the depressor anguli oris.",
+        "start": 0.403,
+        "end": 3.76
+      },
+      {
+        "text": "You'll find it below and lateral to the",
+        "start": 3.86,
+        "end": 6.24
+      },
+      {
+        "text": "mouth, extending from the lower jaw to the",
+        "start": 6.307,
+        "end": 9.12
+      },
+      {
+        "text": "mouth corner.",
+        "start": 9.173,
+        "end": 10.24
+      },
+      {
+        "text": "To identify it, find the triangular muscle whose",
+        "start": 10.533,
+        "end": 14.4
+      },
+      {
+        "text": "upper point reaches the corner of the mouth.",
+        "start": 14.453,
+        "end": 16.88
+      },
+      {
+        "text": "It pulls the mouth corner downward, helping form",
+        "start": 17.093,
+        "end": 20.24
+      },
+      {
+        "text": "a frown.",
+        "start": 20.28,
+        "end": 21.12
+      },
+      {
+        "text": "depressor means lowers.",
+        "start": 21.26,
+        "end": 24
+      },
+      {
+        "text": "anguli means of the angle.",
+        "start": 24.18,
+        "end": 26.88
+      },
+      {
+        "text": "oris means of the mouth.",
+        "start": 27.147,
+        "end": 29.6
+      },
+      {
+        "text": "Your memory cue: Depress the angle: corner down.",
+        "start": 30.544,
+        "end": 34.16
+      }
+    ]
+  },
+  "depressor-labii-inferioris": {
+    "duration": 33.04,
+    "shape": 10.48,
+    "action": 17.667,
+    "meaning": 21.18,
+    "memory": 29.744,
+    "captions": [
+      {
+        "text": "This is the depressor labii inferioris.",
+        "start": 0.272,
+        "end": 3.68
+      },
+      {
+        "text": "You'll find it below the lower lip, closer",
+        "start": 3.84,
+        "end": 6.88
+      },
+      {
+        "text": "to the center than the mouth-corner depressor.",
+        "start": 6.933,
+        "end": 10.28
+      },
+      {
+        "text": "To identify it, look for the short band",
+        "start": 10.48,
+        "end": 13.28
+      },
+      {
+        "text": "entering the lower lip rather than the mouth",
+        "start": 13.342,
+        "end": 16
+      },
+      {
+        "text": "corner.",
+        "start": 16.069,
+        "end": 16.56
+      },
+      {
+        "text": "It pulls the lower lip downward and slightly",
+        "start": 16.907,
+        "end": 20.4
+      },
+      {
+        "text": "outward.",
+        "start": 20.47,
+        "end": 21.04
+      },
+      {
+        "text": "depressor means lowers.",
+        "start": 21.18,
+        "end": 23.52
+      },
+      {
+        "text": "labii means of the lip.",
+        "start": 23.76,
+        "end": 26.32
+      },
+      {
+        "text": "inferioris means lower.",
+        "start": 26.453,
+        "end": 29.04
+      },
+      {
+        "text": "Your memory cue: Inferior lip goes down.",
+        "start": 29.744,
+        "end": 33.04
+      }
+    ]
+  },
+  "levator-labii-superioris": {
+    "duration": 28.8,
+    "shape": 7.093,
+    "action": 14.171,
+    "meaning": 15.76,
+    "memory": 25.168,
+    "captions": [
+      {
+        "text": "This is the levator labii superioris.",
+        "start": 0.134,
+        "end": 3.04
+      },
+      {
+        "text": "You'll find it alongside the nose, descending toward",
+        "start": 3.12,
+        "end": 5.92
+      },
+      {
+        "text": "the upper lip.",
+        "start": 5.94,
+        "end": 6.8
+      },
+      {
+        "text": "To identify it, find the vertical strip from",
+        "start": 7.093,
+        "end": 10.16
+      },
+      {
+        "text": "below the eye toward the upper lip beside",
+        "start": 10.227,
+        "end": 12.72
+      },
+      {
+        "text": "the nose.",
+        "start": 12.74,
+        "end": 13.52
+      },
+      {
+        "text": "It raises the upper lip.",
+        "start": 13.707,
+        "end": 15.52
+      },
+      {
+        "text": "levator means lifter.",
+        "start": 15.76,
+        "end": 18.4
+      },
+      {
+        "text": "labii means of the lip.",
+        "start": 18.62,
+        "end": 21.12
+      },
+      {
+        "text": "superioris means upper.",
+        "start": 21.28,
+        "end": 24.32
+      },
+      {
+        "text": "Your memory cue: Superior lip goes up.",
+        "start": 25.168,
+        "end": 28.8
+      }
+    ]
+  },
+  "mentalis": {
+    "duration": 22.88,
+    "shape": 6.4,
+    "action": 12.16,
+    "meaning": 16.023,
+    "memory": 19.504,
+    "captions": [
+      {
+        "text": "This is the mentalis.",
+        "start": 0.202,
+        "end": 1.52
+      },
+      {
+        "text": "You'll find it at the center of the",
+        "start": 1.68,
+        "end": 3.52
+      },
+      {
+        "text": "chin, immediately below the lower lip.",
+        "start": 3.6,
+        "end": 6.08
+      },
+      {
+        "text": "To identify it, find the small paired muscle",
+        "start": 6.4,
+        "end": 9.6
+      },
+      {
+        "text": "bellies near the chin's midline.",
+        "start": 9.648,
+        "end": 11.76
+      },
+      {
+        "text": "It raises and protrudes the lower lip and",
+        "start": 11.867,
+        "end": 14.4
+      },
+      {
+        "text": "wrinkles the chin.",
+        "start": 14.453,
+        "end": 15.92
+      },
+      {
+        "text": "mentalis means of the chin.",
+        "start": 16.023,
+        "end": 18.32
+      },
+      {
+        "text": "Your memory cue: Mentalis makes the pout.",
+        "start": 19.504,
+        "end": 22.88
+      }
+    ]
+  },
+  "masseter": {
+    "duration": 23.6,
+    "shape": 7.253,
+    "action": 13.427,
+    "meaning": 16.784,
+    "memory": 19.895,
+    "captions": [
+      {
+        "text": "This is the masseter.",
+        "start": 0.067,
+        "end": 1.2
+      },
+      {
+        "text": "You'll find it on the outside of the",
+        "start": 1.32,
+        "end": 3.04
+      },
+      {
+        "text": "jaw, from the cheekbone arch to the angle",
+        "start": 3.14,
+        "end": 5.92
+      },
+      {
+        "text": "of the lower jaw.",
+        "start": 5.973,
+        "end": 6.88
+      },
+      {
+        "text": "To identify it, find the thick rectangular jaw",
+        "start": 7.253,
+        "end": 10.96
+      },
+      {
+        "text": "muscle just in front of the ear.",
+        "start": 11.006,
+        "end": 12.64
+      },
+      {
+        "text": "It powerfully closes the jaw by raising the",
+        "start": 12.88,
+        "end": 15.76
+      },
+      {
+        "text": "lower jaw.",
+        "start": 15.813,
+        "end": 16.56
+      },
+      {
+        "text": "masseter means chewer.",
+        "start": 16.784,
+        "end": 19.04
+      },
+      {
+        "text": "Your memory cue: Masseter is the mighty jaw",
+        "start": 19.895,
+        "end": 22.967
+      },
+      {
+        "text": "closer.",
+        "start": 23.047,
+        "end": 23.607
+      }
+    ]
+  },
+  "temporalis": {
+    "duration": 23.44,
+    "shape": 5.547,
+    "action": 11.829,
+    "meaning": 14.533,
+    "memory": 18.864,
+    "captions": [
+      {
+        "text": "This is the temporalis.",
+        "start": 0.269,
+        "end": 1.68
+      },
+      {
+        "text": "You'll find it on the side of the",
+        "start": 1.84,
+        "end": 3.52
+      },
+      {
+        "text": "skull above the ear.",
+        "start": 3.6,
+        "end": 5.4
+      },
+      {
+        "text": "To identify it, look for a broad fan",
+        "start": 5.547,
+        "end": 8.4
+      },
+      {
+        "text": "converging downward toward the lower jaw.",
+        "start": 8.469,
+        "end": 10.96
+      },
+      {
+        "text": "It closes the jaw and helps pull it",
+        "start": 11.227,
+        "end": 13.68
+      },
+      {
+        "text": "backward.",
+        "start": 13.742,
+        "end": 14.4
+      },
+      {
+        "text": "temporalis means of the temple.",
+        "start": 14.533,
+        "end": 17.68
+      },
+      {
+        "text": "Your memory cue: The temple fan closes and",
+        "start": 18.864,
+        "end": 22.64
+      },
+      {
+        "text": "retracts.",
+        "start": 22.693,
+        "end": 23.44
+      }
+    ]
+  },
+  "lateral-pterygoid": {
+    "duration": 32.24,
+    "shape": 9.2,
+    "action": 16.707,
+    "meaning": 20.79,
+    "memory": 27.344,
+    "captions": [
+      {
+        "text": "This is the lateral pterygoid.",
+        "start": 0.202,
+        "end": 2.64
+      },
+      {
+        "text": "You'll find it deep behind the cheek, running",
+        "start": 2.74,
+        "end": 5.68
+      },
+      {
+        "text": "mostly horizontally toward the jaw joint.",
+        "start": 5.749,
+        "end": 8.88
+      },
+      {
+        "text": "To identify it, look for the short horizontal",
+        "start": 9.2,
+        "end": 12.64
+      },
+      {
+        "text": "muscle reaching the front of the jaw-joint region.",
+        "start": 12.754,
+        "end": 16.08
+      },
+      {
+        "text": "It helps open and protrude the jaw and",
+        "start": 16.267,
+        "end": 19.04
+      },
+      {
+        "text": "move it side to side.",
+        "start": 19.104,
+        "end": 20.64
+      },
+      {
+        "text": "lateral means toward the side.",
+        "start": 20.79,
+        "end": 23.6
+      },
+      {
+        "text": "pterygoid means wing-shaped region.",
+        "start": 23.8,
+        "end": 26.72
+      },
+      {
+        "text": "Your memory cue: Lateral lies sideways and helps",
+        "start": 27.344,
+        "end": 31.04
+      },
+      {
+        "text": "the jaw slide.",
+        "start": 31.08,
+        "end": 32.24
+      }
+    ]
+  },
+  "medial-pterygoid": {
+    "duration": 25.36,
+    "shape": 5.76,
+    "action": 12.229,
+    "meaning": 14.331,
+    "memory": 20.608,
+    "captions": [
+      {
+        "text": "This is the medial pterygoid.",
+        "start": 0.134,
+        "end": 1.76
+      },
+      {
+        "text": "You'll find it deep on the inside of",
+        "start": 1.78,
+        "end": 3.6
+      },
+      {
+        "text": "the lower jaw near its angle.",
+        "start": 3.62,
+        "end": 5.44
+      },
+      {
+        "text": "To identify it, find the deep muscle running",
+        "start": 5.76,
+        "end": 8.72
+      },
+      {
+        "text": "down toward the inner surface of the jaw",
+        "start": 8.8,
+        "end": 10.88
+      },
+      {
+        "text": "angle.",
+        "start": 10.96,
+        "end": 11.68
+      },
+      {
+        "text": "It raises and protrudes the jaw.",
+        "start": 11.84,
+        "end": 14.16
+      },
+      {
+        "text": "medial means toward the midline.",
+        "start": 14.331,
+        "end": 16.72
+      },
+      {
+        "text": "pterygoid means wing-shaped region.",
+        "start": 17,
+        "end": 19.76
+      },
+      {
+        "text": "Your memory cue: Medial is the inside jaw",
+        "start": 20.608,
+        "end": 24.16
+      },
+      {
+        "text": "closer.",
+        "start": 24.286,
+        "end": 25.36
+      }
+    ]
+  },
+  "digastric": {
+    "duration": 23.92,
+    "shape": 7.307,
+    "action": 13.093,
+    "meaning": 16.693,
+    "memory": 20.144,
+    "captions": [
+      {
+        "text": "This is the digastric.",
+        "start": 0.134,
+        "end": 1.56
+      },
+      {
+        "text": "You'll find it beneath the jaw, with two",
+        "start": 1.59,
+        "end": 3.68
+      },
+      {
+        "text": "bellies connected by an intermediate tendon near the",
+        "start": 3.728,
+        "end": 6.4
+      },
+      {
+        "text": "hyoid.",
+        "start": 6.48,
+        "end": 7.04
+      },
+      {
+        "text": "To identify it, trace two muscular segments forming",
+        "start": 7.307,
+        "end": 10.64
+      },
+      {
+        "text": "a bent sling under the jaw.",
+        "start": 10.68,
+        "end": 12.4
+      },
+      {
+        "text": "It helps open the jaw and raise the",
+        "start": 12.613,
+        "end": 14.72
+      },
+      {
+        "text": "hyoid during swallowing.",
+        "start": 14.8,
+        "end": 16.56
+      },
+      {
+        "text": "di means two.",
+        "start": 16.693,
+        "end": 18.12
+      },
+      {
+        "text": "gastric means bellies.",
+        "start": 18.175,
+        "end": 19.52
+      },
+      {
+        "text": "Your memory cue: Digastric: two bellies, one sling.",
+        "start": 20.144,
+        "end": 23.92
+      }
+    ]
+  },
+  "anterior-belly-of-digastric": {
+    "duration": 28.72,
+    "shape": 8.32,
+    "action": 14.933,
+    "meaning": 17.867,
+    "memory": 23.895,
+    "captions": [
+      {
+        "text": "This is the anterior belly of digastric.",
+        "start": 0.134,
+        "end": 2.48
+      },
+      {
+        "text": "You'll find it under the front of the",
+        "start": 2.62,
+        "end": 4.48
+      },
+      {
+        "text": "jaw, running from the inner chin toward the",
+        "start": 4.58,
+        "end": 7.44
+      },
+      {
+        "text": "hyoid.",
+        "start": 7.52,
+        "end": 8
+      },
+      {
+        "text": "To identify it, find the forward belly of",
+        "start": 8.32,
+        "end": 11.52
+      },
+      {
+        "text": "the two-belly sling, closest to the chin.",
+        "start": 11.54,
+        "end": 14.4
+      },
+      {
+        "text": "It helps lower the jaw and raise the",
+        "start": 14.56,
+        "end": 16.96
+      },
+      {
+        "text": "hyoid.",
+        "start": 17.04,
+        "end": 17.68
+      },
+      {
+        "text": "anterior means front.",
+        "start": 17.867,
+        "end": 20.4
+      },
+      {
+        "text": "digastric means two bellies.",
+        "start": 20.6,
+        "end": 23.36
+      },
+      {
+        "text": "Your memory cue: Anterior belly aims toward the",
+        "start": 23.895,
+        "end": 28.087
+      },
+      {
+        "text": "chin.",
+        "start": 28.183,
+        "end": 28.727
+      }
+    ]
+  },
+  "posterior-belly-of-digastric": {
+    "duration": 28.96,
+    "shape": 7.733,
+    "action": 15.493,
+    "meaning": 19.12,
+    "memory": 25.344,
+    "captions": [
+      {
+        "text": "This is the posterior belly of digastric.",
+        "start": 0.134,
+        "end": 2.24
+      },
+      {
+        "text": "You'll find it under the back of the",
+        "start": 2.3,
+        "end": 3.6
+      },
+      {
+        "text": "jaw, descending from behind the ear toward the",
+        "start": 3.7,
+        "end": 6.48
+      },
+      {
+        "text": "hyoid.",
+        "start": 6.587,
+        "end": 7.56
+      },
+      {
+        "text": "To identify it, find the rear belly of",
+        "start": 7.733,
+        "end": 10.88
+      },
+      {
+        "text": "the two-belly sling, closest to the mastoid region.",
+        "start": 10.9,
+        "end": 14.64
+      },
+      {
+        "text": "It helps raise and retract the hyoid during",
+        "start": 14.907,
+        "end": 18.16
+      },
+      {
+        "text": "swallowing.",
+        "start": 18.211,
+        "end": 18.96
+      },
+      {
+        "text": "posterior means back.",
+        "start": 19.12,
+        "end": 21.52
+      },
+      {
+        "text": "digastric means two bellies.",
+        "start": 21.74,
+        "end": 24.72
+      },
+      {
+        "text": "Your memory cue: Posterior belly points behind the",
+        "start": 25.344,
+        "end": 28.56
+      },
+      {
+        "text": "ear.",
+        "start": 28.64,
+        "end": 28.96
+      }
+    ]
+  },
+  "mylohyoid": {
+    "duration": 29.12,
+    "shape": 8.133,
+    "action": 13.829,
+    "meaning": 16.853,
+    "memory": 23.784,
+    "captions": [
+      {
+        "text": "This is the mylohyoid.",
+        "start": 0.134,
+        "end": 1.92
+      },
+      {
+        "text": "You'll find it across the floor of the",
+        "start": 2.04,
+        "end": 3.92
+      },
+      {
+        "text": "mouth, between the inner lower jaw and the",
+        "start": 3.987,
+        "end": 6.96
+      },
+      {
+        "text": "hyoid.",
+        "start": 7.067,
+        "end": 8
+      },
+      {
+        "text": "To identify it, look for a broad sheet",
+        "start": 8.133,
+        "end": 10.8
+      },
+      {
+        "text": "forming a hammock beneath the tongue.",
+        "start": 10.86,
+        "end": 13.44
+      },
+      {
+        "text": "It raises the floor of the mouth and",
+        "start": 13.547,
+        "end": 15.68
+      },
+      {
+        "text": "the hyoid.",
+        "start": 15.7,
+        "end": 16.56
+      },
+      {
+        "text": "mylo means molar region.",
+        "start": 16.853,
+        "end": 19.68
+      },
+      {
+        "text": "hyoid means hyoid bone.",
+        "start": 19.973,
+        "end": 22.96
+      },
+      {
+        "text": "Your memory cue: Mylohyoid is the mouth-floor hammock.",
+        "start": 23.784,
+        "end": 29.128
+      }
+    ]
+  },
+  "stylohyoid": {
+    "duration": 35.2,
+    "shape": 8.56,
+    "action": 18.731,
+    "meaning": 22.12,
+    "memory": 29.568,
+    "captions": [
+      {
+        "text": "This is the stylohyoid.",
+        "start": 0.134,
+        "end": 2
+      },
+      {
+        "text": "You'll find it a slender strip from the",
+        "start": 2.14,
+        "end": 4.64
+      },
+      {
+        "text": "skull just behind the ear toward the hyoid.",
+        "start": 4.707,
+        "end": 8.4
+      },
+      {
+        "text": "To identify it, find the thin muscle alongside",
+        "start": 8.56,
+        "end": 11.84
+      },
+      {
+        "text": "the posterior digastric belly; its tendon may split",
+        "start": 11.88,
+        "end": 16
+      },
+      {
+        "text": "around the digastric tendon.",
+        "start": 16.057,
+        "end": 17.92
+      },
+      {
+        "text": "It raises and retracts the hyoid during swallowing.",
+        "start": 18.16,
+        "end": 21.84
+      },
+      {
+        "text": "stylo means styloid process.",
+        "start": 22.12,
+        "end": 25.52
+      },
+      {
+        "text": "hyoid means hyoid bone.",
+        "start": 25.813,
+        "end": 28.8
+      },
+      {
+        "text": "Your memory cue: Stylohyoid is the slender skull-to-hyoid",
+        "start": 29.568,
+        "end": 34.56
+      },
+      {
+        "text": "string.",
+        "start": 34.64,
+        "end": 35.2
+      }
+    ]
+  },
+  "sternocleidomastoid": {
+    "duration": 41.52,
+    "shape": 10.24,
+    "action": 17.34,
+    "meaning": 24.133,
+    "memory": 33.968,
+    "captions": [
+      {
+        "text": "This is the sternocleidomastoid.",
+        "start": 0.336,
+        "end": 2.72
+      },
+      {
+        "text": "You'll find it along each side of the",
+        "start": 2.88,
+        "end": 5.2
+      },
+      {
+        "text": "neck, from the upper chest and collarbone to",
+        "start": 5.264,
+        "end": 8.32
+      },
+      {
+        "text": "the skull behind the ear.",
+        "start": 8.34,
+        "end": 9.92
+      },
+      {
+        "text": "To identify it, find the prominent oblique strap",
+        "start": 10.24,
+        "end": 14.56
+      },
+      {
+        "text": "with two lower attachments.",
+        "start": 14.656,
+        "end": 17.12
+      },
+      {
+        "text": "One side turns the face to the opposite",
+        "start": 17.34,
+        "end": 20.24
+      },
+      {
+        "text": "side; both sides help flex the neck.",
+        "start": 20.336,
+        "end": 23.76
+      },
+      {
+        "text": "sterno means sternum.",
+        "start": 24.133,
+        "end": 26.96
+      },
+      {
+        "text": "cleido means clavicle.",
+        "start": 27.1,
+        "end": 29.44
+      },
+      {
+        "text": "mastoid means skull attachment.",
+        "start": 29.68,
+        "end": 33.04
+      },
+      {
+        "text": "Your memory cue: Chest, collarbone, behind the ear:",
+        "start": 33.968,
+        "end": 38.8
+      },
+      {
+        "text": "three attachments in one name.",
+        "start": 38.92,
+        "end": 41.52
+      }
+    ]
+  },
+  "omohyoid": {
+    "duration": 28.56,
+    "shape": 8.187,
+    "action": 16.54,
+    "meaning": 19.56,
+    "memory": 25.184,
+    "captions": [
+      {
+        "text": "This is the omohyoid.",
+        "start": 0.269,
+        "end": 1.76
+      },
+      {
+        "text": "You'll find it a thin strap crossing the",
+        "start": 1.92,
+        "end": 4.72
+      },
+      {
+        "text": "lower neck from the shoulder blade toward the",
+        "start": 4.773,
+        "end": 7.2
+      },
+      {
+        "text": "hyoid.",
+        "start": 7.307,
+        "end": 7.92
+      },
+      {
+        "text": "To identify it, trace two narrow bellies with",
+        "start": 8.187,
+        "end": 12.32
+      },
+      {
+        "text": "an intermediate tendon, crossing the lower side of",
+        "start": 12.373,
+        "end": 15.28
+      },
+      {
+        "text": "the neck.",
+        "start": 15.3,
+        "end": 15.92
+      },
+      {
+        "text": "It depresses and stabilizes the hyoid.",
+        "start": 16.107,
+        "end": 19.12
+      },
+      {
+        "text": "omo means shoulder.",
+        "start": 19.56,
+        "end": 21.84
+      },
+      {
+        "text": "hyoid means hyoid bone.",
+        "start": 22,
+        "end": 24.4
+      },
+      {
+        "text": "Your memory cue: Omo starts at the shoulder.",
+        "start": 25.184,
+        "end": 28.56
+      }
+    ]
+  },
+  "platysma": {
+    "duration": 26.4,
+    "shape": 6.48,
+    "action": 14.48,
+    "meaning": 19.712,
+    "memory": 22.704,
+    "captions": [
+      {
+        "text": "This is the platysma.",
+        "start": 0.202,
+        "end": 1.36
+      },
+      {
+        "text": "You'll find it immediately beneath the skin over",
+        "start": 1.5,
+        "end": 4.48
+      },
+      {
+        "text": "the front and sides of the neck.",
+        "start": 4.52,
+        "end": 6.24
+      },
+      {
+        "text": "To identify it, look for a very thin,",
+        "start": 6.48,
+        "end": 9.92
+      },
+      {
+        "text": "wide surface sheet rather than a rounded strap.",
+        "start": 10.032,
+        "end": 13.68
+      },
+      {
+        "text": "It tenses the neck skin and helps draw",
+        "start": 13.92,
+        "end": 16.64
+      },
+      {
+        "text": "the lower lip and mouth corner downward.",
+        "start": 16.68,
+        "end": 19.6
+      },
+      {
+        "text": "platys means broad or flat.",
+        "start": 19.712,
+        "end": 22.08
+      },
+      {
+        "text": "Your memory cue: Platysma is the flat neck",
+        "start": 22.704,
+        "end": 25.84
+      },
+      {
+        "text": "sheet.",
+        "start": 25.907,
+        "end": 26.4
+      }
+    ]
+  },
+  "levator-scapulae": {
+    "duration": 30.8,
+    "shape": 8.773,
+    "action": 16.4,
+    "meaning": 19.96,
+    "memory": 27.015,
+    "captions": [
+      {
+        "text": "This is the levator scapulae.",
+        "start": 0.134,
+        "end": 2.32
+      },
+      {
+        "text": "You'll find it from the upper neck to",
+        "start": 2.48,
+        "end": 5.52
+      },
+      {
+        "text": "the upper inner corner of the shoulder blade.",
+        "start": 5.58,
+        "end": 8.48
+      },
+      {
+        "text": "To identify it, find the narrow strap descending",
+        "start": 8.773,
+        "end": 13.04
+      },
+      {
+        "text": "to the superior angle of the scapula.",
+        "start": 13.067,
+        "end": 15.68
+      },
+      {
+        "text": "It raises the shoulder blade and helps rotate",
+        "start": 15.893,
+        "end": 18.88
+      },
+      {
+        "text": "it downward.",
+        "start": 18.907,
+        "end": 19.76
+      },
+      {
+        "text": "levator means lifter.",
+        "start": 19.96,
+        "end": 22.48
+      },
+      {
+        "text": "scapulae means of the shoulder blade.",
+        "start": 22.693,
+        "end": 25.84
+      },
+      {
+        "text": "Your memory cue: Levator lifts the shoulder blade.",
+        "start": 27.015,
+        "end": 30.807
+      }
+    ]
+  },
+  "rhomboideus-major": {
+    "duration": 33.04,
+    "shape": 9.493,
+    "action": 18.307,
+    "meaning": 22.72,
+    "memory": 28.544,
+    "captions": [
+      {
+        "text": "This is the rhomboideus major.",
+        "start": 0.336,
+        "end": 2.24
+      },
+      {
+        "text": "You'll find it between the upper back spine",
+        "start": 2.42,
+        "end": 4.96
+      },
+      {
+        "text": "and the inner edge of the shoulder blade,",
+        "start": 5.02,
+        "end": 7.52
+      },
+      {
+        "text": "below the scapular spine.",
+        "start": 7.573,
+        "end": 9.12
+      },
+      {
+        "text": "To identify it, find the larger oblique band",
+        "start": 9.493,
+        "end": 13.28
+      },
+      {
+        "text": "deep to trapezius, below the smaller rhomboid.",
+        "start": 13.408,
+        "end": 17.28
+      },
+      {
+        "text": "It pulls the shoulder blade toward the spine",
+        "start": 17.6,
+        "end": 20.4
+      },
+      {
+        "text": "and holds it against the ribs.",
+        "start": 20.46,
+        "end": 22.4
+      },
+      {
+        "text": "rhomboideus means rhombus-shaped.",
+        "start": 22.72,
+        "end": 25.6
+      },
+      {
+        "text": "major means larger.",
+        "start": 25.747,
+        "end": 27.6
+      },
+      {
+        "text": "Your memory cue: Major is the larger, lower",
+        "start": 28.544,
+        "end": 31.92
+      },
+      {
+        "text": "rhomboid.",
+        "start": 32.053,
+        "end": 33.04
+      }
+    ]
+  },
+  "rhomboideus-minor": {
+    "duration": 28,
+    "shape": 8,
+    "action": 13.76,
+    "meaning": 17.04,
+    "memory": 23.264,
+    "captions": [
+      {
+        "text": "This is the rhomboideus minor.",
+        "start": 0.134,
+        "end": 2
+      },
+      {
+        "text": "You'll find it between the lower neck spine",
+        "start": 2.12,
+        "end": 4.48
+      },
+      {
+        "text": "and the inner end of the shoulder-blade spine.",
+        "start": 4.64,
+        "end": 7.76
+      },
+      {
+        "text": "To identify it, find the small band immediately",
+        "start": 8,
+        "end": 11.44
+      },
+      {
+        "text": "above the larger rhomboid.",
+        "start": 11.493,
+        "end": 13.2
+      },
+      {
+        "text": "It retracts and stabilizes the shoulder blade.",
+        "start": 13.36,
+        "end": 16.72
+      },
+      {
+        "text": "rhomboideus means rhombus-shaped.",
+        "start": 17.04,
+        "end": 20.16
+      },
+      {
+        "text": "minor means smaller.",
+        "start": 20.28,
+        "end": 22.4
+      },
+      {
+        "text": "Your memory cue: Minor is the smaller, higher",
+        "start": 23.264,
+        "end": 27.04
+      },
+      {
+        "text": "rhomboid.",
+        "start": 27.147,
+        "end": 28
+      }
+    ]
+  },
+  "pectoralis-minor": {
+    "duration": 30.72,
+    "shape": 8.907,
+    "action": 17.413,
+    "meaning": 21.52,
+    "memory": 26.424,
+    "captions": [
+      {
+        "text": "This is the pectoralis minor.",
+        "start": 0.202,
+        "end": 2.2
+      },
+      {
+        "text": "You'll find it deep in the front chest,",
+        "start": 2.27,
+        "end": 4.88
+      },
+      {
+        "text": "from upper ribs to the hook-like process of",
+        "start": 4.928,
+        "end": 7.68
+      },
+      {
+        "text": "the shoulder blade.",
+        "start": 7.7,
+        "end": 8.72
+      },
+      {
+        "text": "To identify it, find a small triangular muscle",
+        "start": 8.907,
+        "end": 12.24
+      },
+      {
+        "text": "under the broad chest muscle, converging toward the",
+        "start": 12.307,
+        "end": 15.6
+      },
+      {
+        "text": "front of the shoulder.",
+        "start": 15.64,
+        "end": 16.8
+      },
+      {
+        "text": "It draws the shoulder blade forward and downward",
+        "start": 16.987,
+        "end": 19.84
+      },
+      {
+        "text": "and helps stabilize it.",
+        "start": 19.88,
+        "end": 21.28
+      },
+      {
+        "text": "pectoralis means of the chest.",
+        "start": 21.52,
+        "end": 24.16
+      },
+      {
+        "text": "minor means smaller.",
+        "start": 24.267,
+        "end": 25.84
+      },
+      {
+        "text": "Your memory cue: Minor is the small, deep",
+        "start": 26.424,
+        "end": 29.368
+      },
+      {
+        "text": "chest triangle.",
+        "start": 29.448,
+        "end": 30.728
+      }
+    ]
+  },
+  "serratus-anterior": {
+    "duration": 30.4,
+    "shape": 8.133,
+    "action": 14.933,
+    "meaning": 19.104,
+    "memory": 25.664,
+    "captions": [
+      {
+        "text": "This is the serratus anterior.",
+        "start": 0.134,
+        "end": 2
+      },
+      {
+        "text": "You'll find it along the side of the",
+        "start": 2.12,
+        "end": 3.92
+      },
+      {
+        "text": "ribs, wrapping toward the inner surface of the",
+        "start": 4.016,
+        "end": 6.96
+      },
+      {
+        "text": "shoulder blade.",
+        "start": 7.004,
+        "end": 7.92
+      },
+      {
+        "text": "To identify it, look for sawtooth-like slips interlocking",
+        "start": 8.133,
+        "end": 12.64
+      },
+      {
+        "text": "along the lateral ribs.",
+        "start": 12.693,
+        "end": 14.32
+      },
+      {
+        "text": "It pulls the shoulder blade forward and holds",
+        "start": 14.507,
+        "end": 17.12
+      },
+      {
+        "text": "it against the chest wall.",
+        "start": 17.173,
+        "end": 18.88
+      },
+      {
+        "text": "serratus means saw-toothed.",
+        "start": 19.104,
+        "end": 22.08
+      },
+      {
+        "text": "anterior means front.",
+        "start": 22.24,
+        "end": 24.48
+      },
+      {
+        "text": "Your memory cue: The boxer's sawteeth push the",
+        "start": 25.664,
+        "end": 28.96
+      },
+      {
+        "text": "shoulder blade forward.",
+        "start": 28.996,
+        "end": 30.4
+      }
+    ]
+  },
+  "trapezius": {
+    "duration": 28.64,
+    "shape": 5.92,
+    "action": 13.8,
+    "meaning": 19.92,
+    "memory": 24.304,
+    "captions": [
+      {
+        "text": "This is the trapezius.",
+        "start": 0.134,
+        "end": 1.6
+      },
+      {
+        "text": "You'll find it superficially across the upper back",
+        "start": 1.72,
+        "end": 4.48
+      },
+      {
+        "text": "and back of the neck.",
+        "start": 4.54,
+        "end": 5.68
+      },
+      {
+        "text": "To identify it, find the large sheet extending",
+        "start": 5.92,
+        "end": 9.12
+      },
+      {
+        "text": "from the midline toward the shoulder blade; both",
+        "start": 9.152,
+        "end": 11.84
+      },
+      {
+        "text": "sides form a broad kite.",
+        "start": 11.907,
+        "end": 13.68
+      },
+      {
+        "text": "Different fibers raise, retract, lower, and upwardly rotate",
+        "start": 13.8,
+        "end": 18.72
+      },
+      {
+        "text": "the shoulder blade.",
+        "start": 18.74,
+        "end": 19.6
+      },
+      {
+        "text": "trapezius means trapezoid-shaped.",
+        "start": 19.92,
+        "end": 23.36
+      },
+      {
+        "text": "Your memory cue: The broad back kite positions",
+        "start": 24.304,
+        "end": 27.76
+      },
+      {
+        "text": "the shoulder blade.",
+        "start": 27.78,
+        "end": 28.64
+      }
+    ]
+  },
+  "external-abdominal-oblique": {
+    "duration": 33.36,
+    "shape": 8.08,
+    "action": 16.702,
+    "meaning": 22.64,
+    "memory": 28.464,
+    "captions": [
+      {
+        "text": "This is the external abdominal oblique.",
+        "start": 0.134,
+        "end": 2.72
+      },
+      {
+        "text": "You'll find it the superficial muscle sheet along",
+        "start": 2.88,
+        "end": 6.16
+      },
+      {
+        "text": "the sides of the abdomen.",
+        "start": 6.2,
+        "end": 7.84
+      },
+      {
+        "text": "To identify it, look for fibers slanting downward",
+        "start": 8.08,
+        "end": 11.68
+      },
+      {
+        "text": "and toward the midline, like hands entering front",
+        "start": 11.74,
+        "end": 15.04
+      },
+      {
+        "text": "pockets.",
+        "start": 15.12,
+        "end": 15.92
+      },
+      {
+        "text": "It compresses the abdomen, flexes the trunk, and",
+        "start": 16.16,
+        "end": 20.08
+      },
+      {
+        "text": "rotates it toward the opposite side.",
+        "start": 20.15,
+        "end": 22.48
+      },
+      {
+        "text": "external means outer.",
+        "start": 22.64,
+        "end": 25.28
+      },
+      {
+        "text": "oblique means slanting.",
+        "start": 25.493,
+        "end": 27.92
+      },
+      {
+        "text": "Your memory cue: External fibers follow the hands-in-pockets",
+        "start": 28.464,
+        "end": 32.64
+      },
+      {
+        "text": "direction.",
+        "start": 32.696,
+        "end": 33.36
+      }
+    ]
+  },
+  "internal-abdominal-oblique": {
+    "duration": 32.48,
+    "shape": 8.053,
+    "action": 15.982,
+    "meaning": 21.156,
+    "memory": 27.808,
+    "captions": [
+      {
+        "text": "This is the internal abdominal oblique.",
+        "start": 0.134,
+        "end": 2.56
+      },
+      {
+        "text": "You'll find it in the side abdominal wall,",
+        "start": 2.72,
+        "end": 5.68
+      },
+      {
+        "text": "deep to the external oblique.",
+        "start": 5.76,
+        "end": 7.76
+      },
+      {
+        "text": "To identify it, look for the middle layer",
+        "start": 8.053,
+        "end": 11.04
+      },
+      {
+        "text": "with many fibers sloping upward and inward.",
+        "start": 11.12,
+        "end": 15.12
+      },
+      {
+        "text": "It compresses the abdomen and rotates the trunk",
+        "start": 15.387,
+        "end": 19.04
+      },
+      {
+        "text": "toward the same side.",
+        "start": 19.12,
+        "end": 20.96
+      },
+      {
+        "text": "internal means inner.",
+        "start": 21.156,
+        "end": 24.16
+      },
+      {
+        "text": "oblique means slanting.",
+        "start": 24.453,
+        "end": 27.04
+      },
+      {
+        "text": "Your memory cue: Internal inclines up and in.",
+        "start": 27.808,
+        "end": 32.48
+      }
+    ]
+  },
+  "transverse-abdominis": {
+    "duration": 33.36,
+    "shape": 9.547,
+    "action": 17.333,
+    "meaning": 21.2,
+    "memory": 29.088,
+    "captions": [
+      {
+        "text": "This is the transverse abdominis.",
+        "start": 0.448,
+        "end": 2.96
+      },
+      {
+        "text": "You'll find it the deepest of the three",
+        "start": 3.12,
+        "end": 5.6
+      },
+      {
+        "text": "flat muscle layers in the side abdominal wall.",
+        "start": 5.712,
+        "end": 9.2
+      },
+      {
+        "text": "To identify it, find fibers traveling horizontally around",
+        "start": 9.547,
+        "end": 14.4
+      },
+      {
+        "text": "the abdomen, like a belt.",
+        "start": 14.42,
+        "end": 16.24
+      },
+      {
+        "text": "It compresses and supports the abdominal contents.",
+        "start": 16.587,
+        "end": 20.96
+      },
+      {
+        "text": "transverse means across.",
+        "start": 21.2,
+        "end": 24.48
+      },
+      {
+        "text": "abdominis means of the abdomen.",
+        "start": 24.627,
+        "end": 28.08
+      },
+      {
+        "text": "Your memory cue: Transverse tightens the waist belt.",
+        "start": 29.088,
+        "end": 33.36
+      }
+    ]
+  },
+  "rectus-abdominis": {
+    "duration": 30.32,
+    "shape": 9.333,
+    "action": 16.56,
+    "meaning": 19.84,
+    "memory": 26.119,
+    "captions": [
+      {
+        "text": "This is the rectus abdominis.",
+        "start": 0.269,
+        "end": 2.6
+      },
+      {
+        "text": "You'll find it vertically along the front abdomen,",
+        "start": 2.69,
+        "end": 6.32
+      },
+      {
+        "text": "one muscle on each side of the midline.",
+        "start": 6.36,
+        "end": 9.04
+      },
+      {
+        "text": "To identify it, find the straight segmented strips",
+        "start": 9.333,
+        "end": 13.52
+      },
+      {
+        "text": "commonly called the six-pack.",
+        "start": 13.573,
+        "end": 15.76
+      },
+      {
+        "text": "It flexes the trunk and compresses the abdomen.",
+        "start": 16,
+        "end": 19.68
+      },
+      {
+        "text": "rectus means straight.",
+        "start": 19.84,
+        "end": 22.48
+      },
+      {
+        "text": "abdominis means of the abdomen.",
+        "start": 22.613,
+        "end": 25.52
+      },
+      {
+        "text": "Your memory cue: Rectus runs straight down the",
+        "start": 26.119,
+        "end": 29.602
+      },
+      {
+        "text": "abdomen.",
+        "start": 29.682,
+        "end": 30.322
+      }
+    ]
+  },
+  "linea-alba": {
+    "duration": 31.68,
+    "shape": 8,
+    "action": 15.884,
+    "meaning": 21.427,
+    "memory": 27.184,
+    "captions": [
+      {
+        "text": "This is the linea alba.",
+        "start": 0.202,
+        "end": 2
+      },
+      {
+        "text": "You'll find it down the midline of the",
+        "start": 2.1,
+        "end": 4.08
+      },
+      {
+        "text": "abdomen, between the paired rectus muscles.",
+        "start": 4.15,
+        "end": 7.76
+      },
+      {
+        "text": "To identify it, look for the pale vertical",
+        "start": 8,
+        "end": 11.2
+      },
+      {
+        "text": "seam joining the abdominal tendon sheets.",
+        "start": 11.328,
+        "end": 15.04
+      },
+      {
+        "text": "It connects the abdominal wall across the midline;",
+        "start": 15.307,
+        "end": 19.04
+      },
+      {
+        "text": "it does not actively contract.",
+        "start": 19.093,
+        "end": 21.12
+      },
+      {
+        "text": "linea means line.",
+        "start": 21.427,
+        "end": 24.6
+      },
+      {
+        "text": "alba means white.",
+        "start": 24.747,
+        "end": 26.48
+      },
+      {
+        "text": "Your memory cue: Linea alba is the white",
+        "start": 27.184,
+        "end": 30.56
+      },
+      {
+        "text": "center line.",
+        "start": 30.651,
+        "end": 31.68
+      }
+    ]
+  },
+  "inguinal-ligament": {
+    "duration": 32.08,
+    "shape": 7.547,
+    "action": 16.08,
+    "meaning": 21.54,
+    "memory": 28.144,
+    "captions": [
+      {
+        "text": "This is the inguinal ligament.",
+        "start": 0.269,
+        "end": 2
+      },
+      {
+        "text": "You'll find it across the groin, from the",
+        "start": 2.1,
+        "end": 4.48
+      },
+      {
+        "text": "front hip prominence toward the pubic region.",
+        "start": 4.533,
+        "end": 7.2
+      },
+      {
+        "text": "To identify it, find the firm lower border",
+        "start": 7.547,
+        "end": 11.28
+      },
+      {
+        "text": "of the external oblique tendon sheet above the",
+        "start": 11.333,
+        "end": 14.32
+      },
+      {
+        "text": "upper thigh.",
+        "start": 14.373,
+        "end": 15.12
+      },
+      {
+        "text": "It forms a supporting boundary over structures passing",
+        "start": 15.413,
+        "end": 19.2
+      },
+      {
+        "text": "from the abdomen into the thigh.",
+        "start": 19.248,
+        "end": 21.28
+      },
+      {
+        "text": "inguinal means of the groin.",
+        "start": 21.54,
+        "end": 24.4
+      },
+      {
+        "text": "ligament means connecting band.",
+        "start": 24.58,
+        "end": 27.84
+      },
+      {
+        "text": "Your memory cue: Inguinal is the groin's firm",
+        "start": 28.144,
+        "end": 31.44
+      },
+      {
+        "text": "border.",
+        "start": 31.531,
+        "end": 32.08
+      }
+    ]
+  },
+  "quadratus-lumborum": {
+    "duration": 29.04,
+    "shape": 7.467,
+    "action": 16.067,
+    "meaning": 20.467,
+    "memory": 25.984,
+    "captions": [
+      {
+        "text": "This is the quadratus lumborum.",
+        "start": 0.269,
+        "end": 2.32
+      },
+      {
+        "text": "You'll find it deep in the lower back,",
+        "start": 2.44,
+        "end": 4.48
+      },
+      {
+        "text": "between the top of the pelvis and the",
+        "start": 4.52,
+        "end": 6.24
+      },
+      {
+        "text": "lowest rib.",
+        "start": 6.309,
+        "end": 7.28
+      },
+      {
+        "text": "To identify it, find the roughly rectangular muscle",
+        "start": 7.467,
+        "end": 11.04
+      },
+      {
+        "text": "lateral to the lumbar spine on the posterior",
+        "start": 11.13,
+        "end": 14.16
+      },
+      {
+        "text": "abdominal wall.",
+        "start": 14.216,
+        "end": 15.36
+      },
+      {
+        "text": "It bends the trunk to the same side",
+        "start": 15.573,
+        "end": 18.08
+      },
+      {
+        "text": "and stabilizes the lowest rib.",
+        "start": 18.18,
+        "end": 20.32
+      },
+      {
+        "text": "quadratus means square.",
+        "start": 20.467,
+        "end": 22.64
+      },
+      {
+        "text": "lumborum means of the loins.",
+        "start": 22.92,
+        "end": 25.6
+      },
+      {
+        "text": "Your memory cue: The square of the low",
+        "start": 25.984,
+        "end": 28.48
+      },
+      {
+        "text": "back.",
+        "start": 28.576,
+        "end": 29.04
+      }
+    ]
+  },
+  "erector-spinae": {
+    "duration": 37.68,
+    "shape": 8.987,
+    "action": 18.34,
+    "meaning": 24.293,
+    "memory": 32.544,
+    "captions": [
+      {
+        "text": "This is the erector spinae.",
+        "start": 0.134,
+        "end": 1.76
+      },
+      {
+        "text": "You'll find it long muscle columns on both",
+        "start": 1.88,
+        "end": 5.2
+      },
+      {
+        "text": "sides of the spine, from the low back",
+        "start": 5.267,
+        "end": 7.68
+      },
+      {
+        "text": "upward.",
+        "start": 7.76,
+        "end": 8.8
+      },
+      {
+        "text": "To identify it, recognize the combined three-column mass",
+        "start": 8.987,
+        "end": 13.92
+      },
+      {
+        "text": "rather than one isolated slip.",
+        "start": 14.057,
+        "end": 17.12
+      },
+      {
+        "text": "It extends and laterally bends the spine and",
+        "start": 17.493,
+        "end": 21.6
+      },
+      {
+        "text": "helps maintain upright posture.",
+        "start": 21.653,
+        "end": 23.92
+      },
+      {
+        "text": "erector means one that raises.",
+        "start": 24.293,
+        "end": 27.76
+      },
+      {
+        "text": "spinae means of the spine.",
+        "start": 28.08,
+        "end": 31.2
+      },
+      {
+        "text": "Your memory cue: Erector spinae keeps the spine",
+        "start": 32.544,
+        "end": 36.64
+      },
+      {
+        "text": "erect.",
+        "start": 36.76,
+        "end": 37.68
+      }
+    ]
+  },
+  "iliocostalis": {
+    "duration": 32.4,
+    "shape": 9.413,
+    "action": 16.533,
+    "meaning": 20.667,
+    "memory": 27.344,
+    "captions": [
+      {
+        "text": "This is the iliocostalis.",
+        "start": 0.269,
+        "end": 2.4
+      },
+      {
+        "text": "You'll find it the outermost column of the",
+        "start": 2.56,
+        "end": 5.44
+      },
+      {
+        "text": "erector-spinae group, running toward the ribs.",
+        "start": 5.493,
+        "end": 9.28
+      },
+      {
+        "text": "To identify it, find the most lateral back-extensor",
+        "start": 9.413,
+        "end": 13.44
+      },
+      {
+        "text": "column with rib attachments.",
+        "start": 13.509,
+        "end": 15.76
+      },
+      {
+        "text": "It helps extend and bend the spine to",
+        "start": 16,
+        "end": 19.2
+      },
+      {
+        "text": "the same side.",
+        "start": 19.22,
+        "end": 20.32
+      },
+      {
+        "text": "ilio means ilium.",
+        "start": 20.667,
+        "end": 22.96
+      },
+      {
+        "text": "costalis means of the ribs.",
+        "start": 23.184,
+        "end": 26.48
+      },
+      {
+        "text": "Your memory cue: Iliocostalis is the outside rib",
+        "start": 27.344,
+        "end": 31.76
+      },
+      {
+        "text": "column.",
+        "start": 31.851,
+        "end": 32.4
+      }
+    ]
+  },
+  "longissimus": {
+    "duration": 27.28,
+    "shape": 6.987,
+    "action": 16.36,
+    "meaning": 19.648,
+    "memory": 23.104,
+    "captions": [
+      {
+        "text": "This is the longissimus.",
+        "start": 0.336,
+        "end": 1.68
+      },
+      {
+        "text": "You'll find it the middle column of the",
+        "start": 1.86,
+        "end": 4.32
+      },
+      {
+        "text": "erector-spinae group along the back.",
+        "start": 4.373,
+        "end": 6.64
+      },
+      {
+        "text": "To identify it, find the long central column",
+        "start": 6.987,
+        "end": 10.72
+      },
+      {
+        "text": "between the rib-side column and the column nearest",
+        "start": 10.78,
+        "end": 13.92
+      },
+      {
+        "text": "the spinous processes.",
+        "start": 13.96,
+        "end": 15.52
+      },
+      {
+        "text": "It helps extend the spine and bend it",
+        "start": 15.787,
+        "end": 18.32
+      },
+      {
+        "text": "to the same side.",
+        "start": 18.347,
+        "end": 19.44
+      },
+      {
+        "text": "longissimus means longest.",
+        "start": 19.648,
+        "end": 22.4
+      },
+      {
+        "text": "Your memory cue: Longissimus is the long middle",
+        "start": 23.104,
+        "end": 26.64
+      },
+      {
+        "text": "column.",
+        "start": 26.731,
+        "end": 27.28
+      }
+    ]
+  },
+  "spinalis": {
+    "duration": 26.4,
+    "shape": 9.093,
+    "action": 15.733,
+    "meaning": 17.383,
+    "memory": 21.664,
+    "captions": [
+      {
+        "text": "This is the spinalis.",
+        "start": 0.134,
+        "end": 1.44
+      },
+      {
+        "text": "You'll find it the most medial erector-spinae column,",
+        "start": 1.66,
+        "end": 5.68
+      },
+      {
+        "text": "alongside the vertebral spinous processes.",
+        "start": 5.76,
+        "end": 8.72
+      },
+      {
+        "text": "To identify it, find the narrow column closest",
+        "start": 9.093,
+        "end": 12.88
+      },
+      {
+        "text": "to the bony midline of the back.",
+        "start": 12.907,
+        "end": 14.88
+      },
+      {
+        "text": "It helps extend the spine.",
+        "start": 15.147,
+        "end": 17.2
+      },
+      {
+        "text": "spinalis means of the spine.",
+        "start": 17.383,
+        "end": 20.96
+      },
+      {
+        "text": "Your memory cue: Spinalis stays beside the spinal",
+        "start": 21.664,
+        "end": 25.68
+      },
+      {
+        "text": "midline.",
+        "start": 25.76,
+        "end": 26.4
+      }
+    ]
+  },
+  "coracobrachialis": {
+    "duration": 30.88,
+    "shape": 7.947,
+    "action": 15.573,
+    "meaning": 18.88,
+    "memory": 25.888,
+    "captions": [
+      {
+        "text": "This is the coracobrachialis.",
+        "start": 0.202,
+        "end": 2.16
+      },
+      {
+        "text": "You'll find it on the inner upper arm,",
+        "start": 2.28,
+        "end": 4.56
+      },
+      {
+        "text": "running from the front shoulder-blade hook to the",
+        "start": 4.6,
+        "end": 6.88
+      },
+      {
+        "text": "humerus.",
+        "start": 6.94,
+        "end": 7.76
+      },
+      {
+        "text": "To identify it, look for a slender muscle",
+        "start": 7.947,
+        "end": 10.8
+      },
+      {
+        "text": "high on the medial upper arm, deep beside",
+        "start": 10.896,
+        "end": 13.92
+      },
+      {
+        "text": "the biceps.",
+        "start": 13.96,
+        "end": 14.88
+      },
+      {
+        "text": "It moves the upper arm forward and toward",
+        "start": 15.093,
+        "end": 17.84
+      },
+      {
+        "text": "the body.",
+        "start": 17.86,
+        "end": 18.64
+      },
+      {
+        "text": "coraco means coracoid process.",
+        "start": 18.88,
+        "end": 22.24
+      },
+      {
+        "text": "brachialis means of the arm.",
+        "start": 22.4,
+        "end": 25.2
+      },
+      {
+        "text": "Your memory cue: Coracoid to arm: coracobrachialis.",
+        "start": 25.888,
+        "end": 30.88
+      }
+    ]
+  },
+  "deltoid": {
+    "duration": 24.32,
+    "shape": 6.293,
+    "action": 10.709,
+    "meaning": 16.544,
+    "memory": 20.455,
+    "captions": [
+      {
+        "text": "This is the deltoid.",
+        "start": 0.134,
+        "end": 1.2
+      },
+      {
+        "text": "You'll find it capping the shoulder and covering",
+        "start": 1.34,
+        "end": 4.08
+      },
+      {
+        "text": "the upper end of the humerus.",
+        "start": 4.1,
+        "end": 6.16
+      },
+      {
+        "text": "To identify it, look for the large triangular",
+        "start": 6.293,
+        "end": 9.12
+      },
+      {
+        "text": "shoulder cap.",
+        "start": 9.164,
+        "end": 10.4
+      },
+      {
+        "text": "It raises the arm to the side; front",
+        "start": 10.48,
+        "end": 12.96
+      },
+      {
+        "text": "and back fibers also move it forward or",
+        "start": 12.98,
+        "end": 15.52
+      },
+      {
+        "text": "backward.",
+        "start": 15.582,
+        "end": 16.4
+      },
+      {
+        "text": "deltoid means shaped like the Greek letter delta.",
+        "start": 16.544,
+        "end": 20.16
+      },
+      {
+        "text": "Your memory cue: Delta is the triangular shoulder",
+        "start": 20.455,
+        "end": 23.767
+      },
+      {
+        "text": "cap.",
+        "start": 23.887,
+        "end": 24.327
+      }
+    ]
+  },
+  "latissimus-dorsi": {
+    "duration": 28.64,
+    "shape": 7.867,
+    "action": 14.213,
+    "meaning": 18.54,
+    "memory": 24.056,
+    "captions": [
+      {
+        "text": "This is the latissimus dorsi.",
+        "start": 0.336,
+        "end": 2.08
+      },
+      {
+        "text": "You'll find it across the broad middle and",
+        "start": 2.28,
+        "end": 4.8
+      },
+      {
+        "text": "lower back, sweeping toward the upper arm.",
+        "start": 4.853,
+        "end": 7.6
+      },
+      {
+        "text": "To identify it, find the large sheet forming",
+        "start": 7.867,
+        "end": 11.2
+      },
+      {
+        "text": "much of the back edge of the armpit.",
+        "start": 11.264,
+        "end": 13.52
+      },
+      {
+        "text": "It pulls the arm backward, inward, and into",
+        "start": 13.733,
+        "end": 16.8
+      },
+      {
+        "text": "internal rotation.",
+        "start": 16.862,
+        "end": 18.32
+      },
+      {
+        "text": "latissimus means broadest.",
+        "start": 18.54,
+        "end": 20.88
+      },
+      {
+        "text": "dorsi means of the back.",
+        "start": 21.08,
+        "end": 23.2
+      },
+      {
+        "text": "Your memory cue: The broad back sheet pulls",
+        "start": 24.056,
+        "end": 27.048
+      },
+      {
+        "text": "the arm down and back.",
+        "start": 27.068,
+        "end": 28.648
+      }
+    ]
+  },
+  "pectoralis-major": {
+    "duration": 29.92,
+    "shape": 7.707,
+    "action": 14.434,
+    "meaning": 19.52,
+    "memory": 25.544,
+    "captions": [
+      {
+        "text": "This is the pectoralis major.",
+        "start": 0.336,
+        "end": 2.08
+      },
+      {
+        "text": "You'll find it superficially across the front chest,",
+        "start": 2.26,
+        "end": 5.52
+      },
+      {
+        "text": "converging on the upper arm.",
+        "start": 5.566,
+        "end": 7.68
+      },
+      {
+        "text": "To identify it, look for the large fan-shaped",
+        "start": 7.707,
+        "end": 10.56
+      },
+      {
+        "text": "chest muscle forming the front armpit fold.",
+        "start": 10.613,
+        "end": 13.6
+      },
+      {
+        "text": "It brings the arm forward, across the body,",
+        "start": 13.867,
+        "end": 17.12
+      },
+      {
+        "text": "and into internal rotation.",
+        "start": 17.16,
+        "end": 19.2
+      },
+      {
+        "text": "pectoralis means of the chest.",
+        "start": 19.52,
+        "end": 22.48
+      },
+      {
+        "text": "major means larger.",
+        "start": 22.613,
+        "end": 24.64
+      },
+      {
+        "text": "Your memory cue: Major is the big front-chest",
+        "start": 25.544,
+        "end": 29.128
+      },
+      {
+        "text": "fan.",
+        "start": 29.248,
+        "end": 29.928
+      }
+    ]
+  },
+  "teres-major": {
+    "duration": 35.12,
+    "shape": 8.453,
+    "action": 18.08,
+    "meaning": 23.44,
+    "memory": 30.224,
+    "captions": [
+      {
+        "text": "This is the teres major.",
+        "start": 0.134,
+        "end": 1.6
+      },
+      {
+        "text": "You'll find it from the lower outer part",
+        "start": 1.8,
+        "end": 5.04
+      },
+      {
+        "text": "of the shoulder blade to the upper humerus.",
+        "start": 5.12,
+        "end": 8.08
+      },
+      {
+        "text": "To identify it, find the thicker rounded band",
+        "start": 8.453,
+        "end": 12.96
+      },
+      {
+        "text": "below teres minor, near the back armpit fold.",
+        "start": 13.067,
+        "end": 17.12
+      },
+      {
+        "text": "It pulls the arm inward and backward and",
+        "start": 17.413,
+        "end": 21.12
+      },
+      {
+        "text": "rotates it internally.",
+        "start": 21.2,
+        "end": 23.12
+      },
+      {
+        "text": "teres means rounded.",
+        "start": 23.44,
+        "end": 26.4
+      },
+      {
+        "text": "major means larger.",
+        "start": 26.613,
+        "end": 29.28
+      },
+      {
+        "text": "Your memory cue: Major pulls in; minor turns",
+        "start": 30.224,
+        "end": 34.64
+      },
+      {
+        "text": "out.",
+        "start": 34.72,
+        "end": 35.12
+      }
+    ]
+  },
+  "supraspinatus": {
+    "duration": 30.88,
+    "shape": 7.92,
+    "action": 15.093,
+    "meaning": 19.8,
+    "memory": 26.944,
+    "captions": [
+      {
+        "text": "This is the supraspinatus.",
+        "start": 0.269,
+        "end": 2.08
+      },
+      {
+        "text": "You'll find it on the back of the",
+        "start": 2.24,
+        "end": 4.32
+      },
+      {
+        "text": "shoulder blade, above its prominent bony spine.",
+        "start": 4.356,
+        "end": 7.68
+      },
+      {
+        "text": "To identify it, find the small muscle filling",
+        "start": 7.92,
+        "end": 11.6
+      },
+      {
+        "text": "the shallow fossa above that ridge.",
+        "start": 11.62,
+        "end": 14.4
+      },
+      {
+        "text": "It helps begin arm abduction and stabilizes the",
+        "start": 14.613,
+        "end": 18.8
+      },
+      {
+        "text": "shoulder joint.",
+        "start": 18.836,
+        "end": 19.6
+      },
+      {
+        "text": "supra means above.",
+        "start": 19.8,
+        "end": 21.76
+      },
+      {
+        "text": "spinatus means relating to the scapular spine.",
+        "start": 21.936,
+        "end": 26.16
+      },
+      {
+        "text": "Your memory cue: Supra sits above the spine.",
+        "start": 26.944,
+        "end": 30.88
+      }
+    ]
+  },
+  "infraspinatus": {
+    "duration": 30.64,
+    "shape": 7.28,
+    "action": 14.96,
+    "meaning": 18.813,
+    "memory": 26.224,
+    "captions": [
+      {
+        "text": "This is the infraspinatus.",
+        "start": 0.208,
+        "end": 2.32
+      },
+      {
+        "text": "You'll find it on the back of the",
+        "start": 2.46,
+        "end": 4.16
+      },
+      {
+        "text": "shoulder blade, below its bony spine.",
+        "start": 4.204,
+        "end": 6.96
+      },
+      {
+        "text": "To identify it, find the broad triangular muscle",
+        "start": 7.28,
+        "end": 11.28
+      },
+      {
+        "text": "filling the large hollow below the ridge.",
+        "start": 11.36,
+        "end": 14.24
+      },
+      {
+        "text": "It rotates the arm outward and stabilizes the",
+        "start": 14.453,
+        "end": 17.92
+      },
+      {
+        "text": "shoulder.",
+        "start": 17.964,
+        "end": 18.56
+      },
+      {
+        "text": "infra means below.",
+        "start": 18.813,
+        "end": 21.04
+      },
+      {
+        "text": "spinatus means relating to the scapular spine.",
+        "start": 21.248,
+        "end": 25.28
+      },
+      {
+        "text": "Your memory cue: Infra is the big triangle",
+        "start": 26.224,
+        "end": 29.52
+      },
+      {
+        "text": "below the spine.",
+        "start": 29.6,
+        "end": 30.64
+      }
+    ]
+  },
+  "teres-minor": {
+    "duration": 30.96,
+    "shape": 9.573,
+    "action": 17.2,
+    "meaning": 21.42,
+    "memory": 26.304,
+    "captions": [
+      {
+        "text": "This is the teres minor.",
+        "start": 0.272,
+        "end": 2.24
+      },
+      {
+        "text": "You'll find it along the outer border of",
+        "start": 2.4,
+        "end": 5.04
+      },
+      {
+        "text": "the shoulder blade, below the broad infraspinous region.",
+        "start": 5.06,
+        "end": 9.28
+      },
+      {
+        "text": "To identify it, find the small narrow rounded",
+        "start": 9.573,
+        "end": 13.28
+      },
+      {
+        "text": "band above the thicker teres major.",
+        "start": 13.392,
+        "end": 16.32
+      },
+      {
+        "text": "It rotates the upper arm outward and stabilizes",
+        "start": 16.587,
+        "end": 20.24
+      },
+      {
+        "text": "the shoulder.",
+        "start": 20.28,
+        "end": 21.2
+      },
+      {
+        "text": "teres means rounded.",
+        "start": 21.42,
+        "end": 23.44
+      },
+      {
+        "text": "minor means smaller.",
+        "start": 23.6,
+        "end": 26.08
+      },
+      {
+        "text": "Your memory cue: Minor is the smaller cuff",
+        "start": 26.304,
+        "end": 29.44
+      },
+      {
+        "text": "band that turns out.",
+        "start": 29.52,
+        "end": 30.96
+      }
+    ]
+  },
+  "subscapularis": {
+    "duration": 36.4,
+    "shape": 7.413,
+    "action": 17.34,
+    "meaning": 21.64,
+    "memory": 29.784,
+    "captions": [
+      {
+        "text": "This is the subscapularis.",
+        "start": 0.208,
+        "end": 2.32
+      },
+      {
+        "text": "You'll find it on the front, rib-facing surface",
+        "start": 2.36,
+        "end": 5.76
+      },
+      {
+        "text": "of the shoulder blade.",
+        "start": 5.867,
+        "end": 7.12
+      },
+      {
+        "text": "To identify it, turn the scapula toward its",
+        "start": 7.413,
+        "end": 10.88
+      },
+      {
+        "text": "rib-facing side and find the broad triangle filling",
+        "start": 10.98,
+        "end": 15.36
+      },
+      {
+        "text": "that surface.",
+        "start": 15.408,
+        "end": 16.48
+      },
+      {
+        "text": "It rotates the arm inward and stabilizes the",
+        "start": 16.747,
+        "end": 20.32
+      },
+      {
+        "text": "shoulder.",
+        "start": 20.373,
+        "end": 21.12
+      },
+      {
+        "text": "sub means under.",
+        "start": 21.64,
+        "end": 24.4
+      },
+      {
+        "text": "scapularis means of the shoulder blade.",
+        "start": 24.827,
+        "end": 28.64
+      },
+      {
+        "text": "Your memory cue: Subscapularis sits on the underside",
+        "start": 29.784,
+        "end": 34.568
+      },
+      {
+        "text": "facing the ribs.",
+        "start": 34.682,
+        "end": 36.408
+      }
+    ]
+  },
+  "biceps-brachii": {
+    "duration": 32,
+    "shape": 6.907,
+    "action": 15.347,
+    "meaning": 19.493,
+    "memory": 27.728,
+    "captions": [
+      {
+        "text": "This is the biceps brachii.",
+        "start": 0.134,
+        "end": 2.56
+      },
+      {
+        "text": "You'll find it superficially along the front of",
+        "start": 2.64,
+        "end": 5.6
+      },
+      {
+        "text": "the upper arm.",
+        "start": 5.62,
+        "end": 6.72
+      },
+      {
+        "text": "To identify it, find the prominent two-headed muscle",
+        "start": 6.907,
+        "end": 10.64
+      },
+      {
+        "text": "whose tendon continues toward the radius near the",
+        "start": 10.76,
+        "end": 13.92
+      },
+      {
+        "text": "elbow.",
+        "start": 14,
+        "end": 14.64
+      },
+      {
+        "text": "It bends the elbow and turns the forearm",
+        "start": 14.853,
+        "end": 17.92
+      },
+      {
+        "text": "palm-up.",
+        "start": 18.016,
+        "end": 18.88
+      },
+      {
+        "text": "bi means two.",
+        "start": 19.493,
+        "end": 21.68
+      },
+      {
+        "text": "ceps means heads.",
+        "start": 22.08,
+        "end": 24.32
+      },
+      {
+        "text": "brachii means of the arm.",
+        "start": 24.48,
+        "end": 27.12
+      },
+      {
+        "text": "Your memory cue: Two heads in front: biceps",
+        "start": 27.728,
+        "end": 31.2
+      },
+      {
+        "text": "brachii.",
+        "start": 31.28,
+        "end": 32
+      }
+    ]
+  },
+  "brachialis": {
+    "duration": 25.92,
+    "shape": 8.08,
+    "action": 15.04,
+    "meaning": 18.453,
+    "memory": 21.984,
+    "captions": [
+      {
+        "text": "This is the brachialis.",
+        "start": 1.008,
+        "end": 2.56
+      },
+      {
+        "text": "You'll find it deep on the front of",
+        "start": 2.72,
+        "end": 4.72
+      },
+      {
+        "text": "the lower upper arm, beneath the biceps.",
+        "start": 4.74,
+        "end": 7.92
+      },
+      {
+        "text": "To identify it, find the broad muscle exposed",
+        "start": 8.08,
+        "end": 11.36
+      },
+      {
+        "text": "beside or under the biceps near the elbow.",
+        "start": 11.451,
+        "end": 14.48
+      },
+      {
+        "text": "It bends the elbow regardless of forearm rotation.",
+        "start": 14.64,
+        "end": 18.32
+      },
+      {
+        "text": "brachialis means of the arm.",
+        "start": 18.453,
+        "end": 21.36
+      },
+      {
+        "text": "Your memory cue: Brachialis is the deep elbow",
+        "start": 21.984,
+        "end": 25.36
+      },
+      {
+        "text": "bender.",
+        "start": 25.44,
+        "end": 25.92
+      }
+    ]
+  },
+  "brachioradialis": {
+    "duration": 29.68,
+    "shape": 8.213,
+    "action": 15.92,
+    "meaning": 19.813,
+    "memory": 25.344,
+    "captions": [
+      {
+        "text": "This is the brachioradialis.",
+        "start": 0.269,
+        "end": 2.72
+      },
+      {
+        "text": "You'll find it on the lateral, thumb-side forearm,",
+        "start": 2.82,
+        "end": 6.4
+      },
+      {
+        "text": "starting above the elbow.",
+        "start": 6.444,
+        "end": 7.92
+      },
+      {
+        "text": "To identify it, find the large superficial band",
+        "start": 8.213,
+        "end": 12.16
+      },
+      {
+        "text": "forming the lateral border of the elbow pit.",
+        "start": 12.23,
+        "end": 15.04
+      },
+      {
+        "text": "It bends the elbow, especially with the thumb",
+        "start": 15.307,
+        "end": 18.48
+      },
+      {
+        "text": "pointing upward.",
+        "start": 18.524,
+        "end": 19.52
+      },
+      {
+        "text": "brachio means arm.",
+        "start": 19.813,
+        "end": 21.92
+      },
+      {
+        "text": "radialis means radius.",
+        "start": 22.12,
+        "end": 24.72
+      },
+      {
+        "text": "Your memory cue: Arm to radius, thumb-up elbow",
+        "start": 25.344,
+        "end": 29.12
+      },
+      {
+        "text": "bend.",
+        "start": 29.2,
+        "end": 29.68
+      }
+    ]
+  },
+  "triceps-brachii": {
+    "duration": 29.84,
+    "shape": 7.84,
+    "action": 13.636,
+    "meaning": 18.82,
+    "memory": 25.888,
+    "captions": [
+      {
+        "text": "This is the triceps brachii.",
+        "start": 0.336,
+        "end": 2.24
+      },
+      {
+        "text": "You'll find it across the back of the",
+        "start": 2.4,
+        "end": 4.48
+      },
+      {
+        "text": "upper arm, ending at the point of the",
+        "start": 4.533,
+        "end": 6.8
+      },
+      {
+        "text": "elbow.",
+        "start": 6.867,
+        "end": 7.6
+      },
+      {
+        "text": "To identify it, look for the large three-headed",
+        "start": 7.84,
+        "end": 11.28
+      },
+      {
+        "text": "posterior arm mass.",
+        "start": 11.36,
+        "end": 13.28
+      },
+      {
+        "text": "It straightens the elbow; the long head also",
+        "start": 13.387,
+        "end": 15.92
+      },
+      {
+        "text": "helps move the arm backward and inward.",
+        "start": 15.973,
+        "end": 18.56
+      },
+      {
+        "text": "tri means three.",
+        "start": 18.82,
+        "end": 20.56
+      },
+      {
+        "text": "ceps means heads.",
+        "start": 20.88,
+        "end": 22.96
+      },
+      {
+        "text": "brachii means of the arm.",
+        "start": 23.067,
+        "end": 25.52
+      },
+      {
+        "text": "Your memory cue: Three heads behind straighten the",
+        "start": 25.888,
+        "end": 28.8
+      },
+      {
+        "text": "elbow.",
+        "start": 28.867,
+        "end": 29.36
+      }
+    ]
+  },
+  "flexor-carpi-ulnaris": {
+    "duration": 30.24,
+    "shape": 7.333,
+    "action": 13.84,
+    "meaning": 18.192,
+    "memory": 26.84,
+    "captions": [
+      {
+        "text": "This is the flexor carpi ulnaris.",
+        "start": 0.134,
+        "end": 2.72
+      },
+      {
+        "text": "You'll find it along the little-finger side of",
+        "start": 2.8,
+        "end": 5.36
+      },
+      {
+        "text": "the anterior forearm.",
+        "start": 5.4,
+        "end": 7.2
+      },
+      {
+        "text": "To identify it, follow the superficial ulnar-edge muscle",
+        "start": 7.333,
+        "end": 10.88
+      },
+      {
+        "text": "toward the wrist on the pinky side.",
+        "start": 10.949,
+        "end": 13.36
+      },
+      {
+        "text": "It bends the wrist and moves the hand",
+        "start": 13.493,
+        "end": 15.92
+      },
+      {
+        "text": "toward the little-finger side.",
+        "start": 15.989,
+        "end": 18
+      },
+      {
+        "text": "flexor means bender.",
+        "start": 18.192,
+        "end": 20.32
+      },
+      {
+        "text": "carpi means of the wrist.",
+        "start": 20.54,
+        "end": 23.28
+      },
+      {
+        "text": "ulnaris means ulna side.",
+        "start": 23.493,
+        "end": 26.24
+      },
+      {
+        "text": "Your memory cue: Flex the wrist toward the",
+        "start": 26.84,
+        "end": 29.688
+      },
+      {
+        "text": "pinky.",
+        "start": 29.752,
+        "end": 30.248
+      }
+    ]
+  },
+  "flexor-carpi-radialis": {
+    "duration": 30.72,
+    "shape": 7.733,
+    "action": 14.213,
+    "meaning": 17.984,
+    "memory": 27.261,
+    "captions": [
+      {
+        "text": "This is the flexor carpi radialis.",
+        "start": 0.24,
+        "end": 3.12
+      },
+      {
+        "text": "You'll find it on the anterior forearm toward",
+        "start": 3.26,
+        "end": 6
+      },
+      {
+        "text": "the thumb-side wrist.",
+        "start": 6.04,
+        "end": 7.52
+      },
+      {
+        "text": "To identify it, follow its long tendon toward",
+        "start": 7.733,
+        "end": 11.2
+      },
+      {
+        "text": "the base of the hand on the radial",
+        "start": 11.22,
+        "end": 12.88
+      },
+      {
+        "text": "side.",
+        "start": 12.976,
+        "end": 13.6
+      },
+      {
+        "text": "It bends the wrist and moves the hand",
+        "start": 13.787,
+        "end": 16.16
+      },
+      {
+        "text": "toward the thumb side.",
+        "start": 16.229,
+        "end": 17.76
+      },
+      {
+        "text": "flexor means bender.",
+        "start": 17.984,
+        "end": 20.52
+      },
+      {
+        "text": "carpi means of the wrist.",
+        "start": 20.65,
+        "end": 22.96
+      },
+      {
+        "text": "radialis means radius side.",
+        "start": 23.18,
+        "end": 26.48
+      },
+      {
+        "text": "Your memory cue: Flex the wrist toward the",
+        "start": 27.261,
+        "end": 30.162
+      },
+      {
+        "text": "thumb.",
+        "start": 30.229,
+        "end": 30.722
+      }
+    ]
+  },
+  "palmaris-longus": {
+    "duration": 34,
+    "shape": 8.613,
+    "action": 18.12,
+    "meaning": 22.96,
+    "memory": 29.661,
+    "captions": [
+      {
+        "text": "This is the palmaris longus.",
+        "start": 0.134,
+        "end": 2.16
+      },
+      {
+        "text": "You'll find it superficially in the middle of",
+        "start": 2.24,
+        "end": 4.64
+      },
+      {
+        "text": "the anterior forearm, with a long tendon toward",
+        "start": 4.66,
+        "end": 7.76
+      },
+      {
+        "text": "the palm.",
+        "start": 7.78,
+        "end": 8.32
+      },
+      {
+        "text": "To identify it, find a small proximal belly",
+        "start": 8.613,
+        "end": 12.48
+      },
+      {
+        "text": "and a slender central tendon entering the palm's",
+        "start": 12.54,
+        "end": 16.08
+      },
+      {
+        "text": "connective sheet.",
+        "start": 16.13,
+        "end": 17.12
+      },
+      {
+        "text": "It tenses the palm's connective tissue and weakly",
+        "start": 17.44,
+        "end": 21.04
+      },
+      {
+        "text": "helps flex the wrist.",
+        "start": 21.12,
+        "end": 22.72
+      },
+      {
+        "text": "palmaris means of the palm.",
+        "start": 22.96,
+        "end": 26
+      },
+      {
+        "text": "longus means long.",
+        "start": 26.208,
+        "end": 29.08
+      },
+      {
+        "text": "Your memory cue: A long central string to",
+        "start": 29.661,
+        "end": 33.282
+      },
+      {
+        "text": "the palm.",
+        "start": 33.302,
+        "end": 34.002
+      }
+    ]
+  },
+  "pronator-teres": {
+    "duration": 27.36,
+    "shape": 8.693,
+    "action": 15.907,
+    "meaning": 18.24,
+    "memory": 23.744,
+    "captions": [
+      {
+        "text": "This is the pronator teres.",
+        "start": 0.202,
+        "end": 1.84
+      },
+      {
+        "text": "You'll find it across the upper anterior forearm,",
+        "start": 2,
+        "end": 5.2
+      },
+      {
+        "text": "running obliquely from the inner elbow toward the",
+        "start": 5.24,
+        "end": 7.76
+      },
+      {
+        "text": "radius.",
+        "start": 7.84,
+        "end": 8.4
+      },
+      {
+        "text": "To identify it, look for the short diagonal",
+        "start": 8.693,
+        "end": 11.6
+      },
+      {
+        "text": "band near the elbow rather than a long",
+        "start": 11.712,
+        "end": 14.16
+      },
+      {
+        "text": "wrist tendon.",
+        "start": 14.227,
+        "end": 15.12
+      },
+      {
+        "text": "It turns the forearm palm-down.",
+        "start": 15.36,
+        "end": 18.16
+      },
+      {
+        "text": "pronator means palm-down rotator.",
+        "start": 18.24,
+        "end": 20.96
+      },
+      {
+        "text": "teres means rounded.",
+        "start": 21.1,
+        "end": 22.96
+      },
+      {
+        "text": "Your memory cue: Pronator turns the palm toward",
+        "start": 23.744,
+        "end": 26.64
+      },
+      {
+        "text": "the floor.",
+        "start": 26.68,
+        "end": 27.36
+      }
+    ]
+  },
+  "flexor-digitorum-superficialis": {
+    "duration": 33.28,
+    "shape": 10.347,
+    "action": 16.947,
+    "meaning": 20.32,
+    "memory": 29.096,
+    "captions": [
+      {
+        "text": "This is the flexor digitorum superficialis.",
+        "start": 0.208,
+        "end": 3.6
+      },
+      {
+        "text": "You'll find it in the anterior forearm, forming",
+        "start": 3.68,
+        "end": 6.64
+      },
+      {
+        "text": "a finger-flexor layer above the deepest flexors.",
+        "start": 6.68,
+        "end": 10.16
+      },
+      {
+        "text": "To identify it, trace a broad belly dividing",
+        "start": 10.347,
+        "end": 13.76
+      },
+      {
+        "text": "into four tendons for the four fingers.",
+        "start": 13.792,
+        "end": 16.4
+      },
+      {
+        "text": "It bends the middle finger joints and helps",
+        "start": 16.56,
+        "end": 19.12
+      },
+      {
+        "text": "bend the wrist.",
+        "start": 19.168,
+        "end": 20.16
+      },
+      {
+        "text": "flexor means bender.",
+        "start": 20.32,
+        "end": 22.161
+      },
+      {
+        "text": "digitorum means of the digits.",
+        "start": 22.34,
+        "end": 25.2
+      },
+      {
+        "text": "superficialis means nearer the surface.",
+        "start": 25.293,
+        "end": 28.56
+      },
+      {
+        "text": "Your memory cue: Superficial fingers bend at the",
+        "start": 29.096,
+        "end": 32.248
+      },
+      {
+        "text": "middle joints.",
+        "start": 32.294,
+        "end": 33.288
+      }
+    ]
+  },
+  "flexor-digitorum-profundus": {
+    "duration": 29.92,
+    "shape": 7.84,
+    "action": 15.413,
+    "meaning": 18.144,
+    "memory": 25.584,
+    "captions": [
+      {
+        "text": "This is the flexor digitorum profundus.",
+        "start": 0.202,
+        "end": 3.84
+      },
+      {
+        "text": "You'll find it deep in the anterior forearm,",
+        "start": 3.94,
+        "end": 6.72
+      },
+      {
+        "text": "toward the ulna.",
+        "start": 6.743,
+        "end": 7.6
+      },
+      {
+        "text": "To identify it, find the deep finger-flexor mass",
+        "start": 7.84,
+        "end": 11.52
+      },
+      {
+        "text": "with four tendons continuing to the fingertips.",
+        "start": 11.584,
+        "end": 14.96
+      },
+      {
+        "text": "It bends the distal joints of the four",
+        "start": 15.093,
+        "end": 17.2
+      },
+      {
+        "text": "fingers.",
+        "start": 17.28,
+        "end": 18
+      },
+      {
+        "text": "flexor means bender.",
+        "start": 18.144,
+        "end": 19.92
+      },
+      {
+        "text": "digitorum means of the digits.",
+        "start": 20.08,
+        "end": 22.96
+      },
+      {
+        "text": "profundus means deep.",
+        "start": 23.03,
+        "end": 25.16
+      },
+      {
+        "text": "Your memory cue: Profundus goes deep and reaches",
+        "start": 25.584,
+        "end": 28.8
+      },
+      {
+        "text": "the fingertips.",
+        "start": 28.82,
+        "end": 29.92
+      }
+    ]
+  },
+  "flexor-pollicis-longus": {
+    "duration": 31.92,
+    "shape": 7.76,
+    "action": 16.227,
+    "meaning": 19.424,
+    "memory": 27.577,
+    "captions": [
+      {
+        "text": "This is the flexor pollicis longus.",
+        "start": 0.134,
+        "end": 2.96
+      },
+      {
+        "text": "You'll find it deep in the anterior forearm",
+        "start": 3.08,
+        "end": 6
+      },
+      {
+        "text": "on the thumb side.",
+        "start": 6.107,
+        "end": 7.52
+      },
+      {
+        "text": "To identify it, follow the single long tendon",
+        "start": 7.76,
+        "end": 11.84
+      },
+      {
+        "text": "heading to the thumb rather than four finger",
+        "start": 11.89,
+        "end": 14.8
+      },
+      {
+        "text": "tendons.",
+        "start": 14.864,
+        "end": 15.52
+      },
+      {
+        "text": "It bends the thumb, including its end joint.",
+        "start": 15.733,
+        "end": 19.32
+      },
+      {
+        "text": "flexor means bender.",
+        "start": 19.424,
+        "end": 21.6
+      },
+      {
+        "text": "pollicis means of the thumb.",
+        "start": 21.74,
+        "end": 24.4
+      },
+      {
+        "text": "longus means long.",
+        "start": 24.56,
+        "end": 27.519
+      },
+      {
+        "text": "Your memory cue: One long flexor for one",
+        "start": 27.577,
+        "end": 31.209
+      },
+      {
+        "text": "thumb.",
+        "start": 31.302,
+        "end": 31.929
+      }
+    ]
+  },
+  "supinator": {
+    "duration": 23.6,
+    "shape": 7.28,
+    "action": 12.787,
+    "meaning": 14.84,
+    "memory": 18.928,
+    "captions": [
+      {
+        "text": "This is the supinator.",
+        "start": 0.269,
+        "end": 1.84
+      },
+      {
+        "text": "You'll find it deep around the upper radius,",
+        "start": 2.04,
+        "end": 5.12
+      },
+      {
+        "text": "just below the lateral elbow.",
+        "start": 5.168,
+        "end": 7.12
+      },
+      {
+        "text": "To identify it, find the short muscle wrapping",
+        "start": 7.28,
+        "end": 10.32
+      },
+      {
+        "text": "around the proximal radius.",
+        "start": 10.354,
+        "end": 12.4
+      },
+      {
+        "text": "It turns the forearm palm-up.",
+        "start": 12.507,
+        "end": 14.56
+      },
+      {
+        "text": "supinator means palm-up rotator.",
+        "start": 14.84,
+        "end": 18.08
+      },
+      {
+        "text": "Your memory cue: Hold a bowl of soup:",
+        "start": 18.928,
+        "end": 21.36
+      },
+      {
+        "text": "supination turns the palm up.",
+        "start": 21.44,
+        "end": 23.6
+      }
+    ]
+  },
+  "extensor-carpi-radialis-longus": {
+    "duration": 50.4,
+    "shape": 13.6,
+    "action": 23.076,
+    "meaning": 26.98,
+    "memory": 43.424,
+    "captions": [
+      {
+        "text": "This is the extensor carpi radialis longus.",
+        "start": 0.202,
+        "end": 3.76
+      },
+      {
+        "text": "You'll find it along the thumb-side posterior forearm,",
+        "start": 3.94,
+        "end": 9.28
+      },
+      {
+        "text": "with a relatively long proximal belly.",
+        "start": 9.344,
+        "end": 13.36
+      },
+      {
+        "text": "To identify it, trace the more lateral radial",
+        "start": 13.6,
+        "end": 17.6
+      },
+      {
+        "text": "wrist extensor toward the base of the second",
+        "start": 17.667,
+        "end": 20.96
+      },
+      {
+        "text": "metacarpal.",
+        "start": 21.02,
+        "end": 22
+      },
+      {
+        "text": "It straightens the wrist and moves it toward",
+        "start": 22.347,
+        "end": 25.44
+      },
+      {
+        "text": "the thumb side.",
+        "start": 25.48,
+        "end": 26.64
+      },
+      {
+        "text": "extensor means straightener.",
+        "start": 26.98,
+        "end": 30.24
+      },
+      {
+        "text": "carpi means wrist.",
+        "start": 30.56,
+        "end": 33.44
+      },
+      {
+        "text": "radialis means radius side.",
+        "start": 33.8,
+        "end": 38
+      },
+      {
+        "text": "longus means long.",
+        "start": 38.336,
+        "end": 41.84
+      },
+      {
+        "text": "Your memory cue: Long radial wrist extensor: back",
+        "start": 43.424,
+        "end": 48.56
+      },
+      {
+        "text": "and toward the thumb.",
+        "start": 48.68,
+        "end": 50.4
+      }
+    ]
+  },
+  "extensor-carpi-radialis-brevis": {
+    "duration": 42.24,
+    "shape": 13.04,
+    "action": 20.676,
+    "meaning": 24.68,
+    "memory": 37.341,
+    "captions": [
+      {
+        "text": "This is the extensor carpi radialis brevis.",
+        "start": 0.208,
+        "end": 4.16
+      },
+      {
+        "text": "You'll find it on the radial side of",
+        "start": 4.26,
+        "end": 6.24
+      },
+      {
+        "text": "the posterior forearm, beside and partly deep to",
+        "start": 6.26,
+        "end": 10.16
+      },
+      {
+        "text": "the long radial wrist extensor.",
+        "start": 10.2,
+        "end": 12.72
+      },
+      {
+        "text": "To identify it, follow the shorter radial extensor",
+        "start": 13.04,
+        "end": 17.12
+      },
+      {
+        "text": "toward the base of the third metacarpal.",
+        "start": 17.189,
+        "end": 19.92
+      },
+      {
+        "text": "It straightens the wrist and moves it toward",
+        "start": 20.16,
+        "end": 23.04
+      },
+      {
+        "text": "the thumb side.",
+        "start": 23.08,
+        "end": 24.4
+      },
+      {
+        "text": "extensor means straightener.",
+        "start": 24.68,
+        "end": 27.6
+      },
+      {
+        "text": "carpi means wrist.",
+        "start": 27.8,
+        "end": 29.84
+      },
+      {
+        "text": "radialis means radius side.",
+        "start": 30.1,
+        "end": 33.68
+      },
+      {
+        "text": "brevis means short.",
+        "start": 33.86,
+        "end": 36.64
+      },
+      {
+        "text": "Your memory cue: Brevis is the shorter radial",
+        "start": 37.341,
+        "end": 40.882
+      },
+      {
+        "text": "wrist straightener.",
+        "start": 40.949,
+        "end": 42.242
+      }
+    ]
+  },
+  "extensor-carpi-ulnaris": {
+    "duration": 32.64,
+    "shape": 8.107,
+    "action": 15.324,
+    "meaning": 19.2,
+    "memory": 28.693,
+    "captions": [
+      {
+        "text": "This is the extensor carpi ulnaris.",
+        "start": 0.134,
+        "end": 3.12
+      },
+      {
+        "text": "You'll find it along the little-finger edge of",
+        "start": 3.2,
+        "end": 6.08
+      },
+      {
+        "text": "the posterior forearm.",
+        "start": 6.1,
+        "end": 8
+      },
+      {
+        "text": "To identify it, find the ulnar-side extensor with",
+        "start": 8.107,
+        "end": 11.92
+      },
+      {
+        "text": "a tendon heading to the fifth metacarpal.",
+        "start": 11.96,
+        "end": 14.88
+      },
+      {
+        "text": "It straightens the wrist and moves the hand",
+        "start": 15.013,
+        "end": 17.44
+      },
+      {
+        "text": "toward the pinky side.",
+        "start": 17.486,
+        "end": 19.04
+      },
+      {
+        "text": "extensor means straightener.",
+        "start": 19.2,
+        "end": 22
+      },
+      {
+        "text": "carpi means wrist.",
+        "start": 22.18,
+        "end": 24.64
+      },
+      {
+        "text": "ulnaris means ulna side.",
+        "start": 24.907,
+        "end": 27.84
+      },
+      {
+        "text": "Your memory cue: Ulnaris extends toward the pinky.",
+        "start": 28.693,
+        "end": 32.645
+      }
+    ]
+  },
+  "extensor-digitorum": {
+    "duration": 30.4,
+    "shape": 7.253,
+    "action": 14.764,
+    "meaning": 18.6,
+    "memory": 24.928,
+    "captions": [
+      {
+        "text": "This is the extensor digitorum.",
+        "start": 0.202,
+        "end": 2.32
+      },
+      {
+        "text": "You'll find it superficially in the center of",
+        "start": 2.48,
+        "end": 5.52
+      },
+      {
+        "text": "the posterior forearm.",
+        "start": 5.54,
+        "end": 7.12
+      },
+      {
+        "text": "To identify it, look for a broad muscle",
+        "start": 7.253,
+        "end": 10.32
+      },
+      {
+        "text": "splitting into four tendons across the back of",
+        "start": 10.368,
+        "end": 13.36
+      },
+      {
+        "text": "the hand.",
+        "start": 13.38,
+        "end": 14.08
+      },
+      {
+        "text": "It straightens the four fingers and helps extend",
+        "start": 14.293,
+        "end": 17.6
+      },
+      {
+        "text": "the wrist.",
+        "start": 17.64,
+        "end": 18.4
+      },
+      {
+        "text": "extensor means straightener.",
+        "start": 18.6,
+        "end": 21.2
+      },
+      {
+        "text": "digitorum means of the digits.",
+        "start": 21.32,
+        "end": 24.48
+      },
+      {
+        "text": "Your memory cue: One central muscle, four finger",
+        "start": 24.928,
+        "end": 29.12
+      },
+      {
+        "text": "tendons.",
+        "start": 29.184,
+        "end": 30
+      }
+    ]
+  },
+  "extensor-digiti-minimi": {
+    "duration": 30.48,
+    "shape": 10.32,
+    "action": 16.204,
+    "meaning": 17.88,
+    "memory": 26.424,
+    "captions": [
+      {
+        "text": "This is the extensor digiti minimi.",
+        "start": 0.134,
+        "end": 2.92
+      },
+      {
+        "text": "You'll find it a narrow strip in the",
+        "start": 3.01,
+        "end": 5.2
+      },
+      {
+        "text": "posterior forearm on the little-finger side of the",
+        "start": 5.264,
+        "end": 8.4
+      },
+      {
+        "text": "common finger extensor.",
+        "start": 8.457,
+        "end": 10.08
+      },
+      {
+        "text": "To identify it, follow the slender tendon specifically",
+        "start": 10.32,
+        "end": 14.32
+      },
+      {
+        "text": "to the fifth finger.",
+        "start": 14.373,
+        "end": 15.6
+      },
+      {
+        "text": "It straightens the little finger.",
+        "start": 15.787,
+        "end": 17.68
+      },
+      {
+        "text": "extensor means straightener.",
+        "start": 17.88,
+        "end": 20.24
+      },
+      {
+        "text": "digiti means of the digit.",
+        "start": 20.44,
+        "end": 23.36
+      },
+      {
+        "text": "minimi means smallest.",
+        "start": 23.453,
+        "end": 25.68
+      },
+      {
+        "text": "Your memory cue: Minimi means the smallest finger.",
+        "start": 26.424,
+        "end": 30.488
+      }
+    ]
+  },
+  "extensor-indicis": {
+    "duration": 28.48,
+    "shape": 7.413,
+    "action": 15.804,
+    "meaning": 17.9,
+    "memory": 25.008,
+    "captions": [
+      {
+        "text": "This is the extensor indicis.",
+        "start": 0.067,
+        "end": 2
+      },
+      {
+        "text": "You'll find it deep in the distal posterior",
+        "start": 2.02,
+        "end": 4.72
+      },
+      {
+        "text": "forearm near the ulna.",
+        "start": 4.8,
+        "end": 7.28
+      },
+      {
+        "text": "To identify it, find the small deep muscle",
+        "start": 7.413,
+        "end": 10.64
+      },
+      {
+        "text": "with a single tendon joining the index-finger extensor",
+        "start": 10.688,
+        "end": 14.4
+      },
+      {
+        "text": "tendon.",
+        "start": 14.48,
+        "end": 15.2
+      },
+      {
+        "text": "It straightens the index finger.",
+        "start": 15.387,
+        "end": 17.76
+      },
+      {
+        "text": "extensor means straightener.",
+        "start": 17.9,
+        "end": 20.64
+      },
+      {
+        "text": "indicis means of the index finger.",
+        "start": 20.747,
+        "end": 24.24
+      },
+      {
+        "text": "Your memory cue: Indicis points to the index.",
+        "start": 25.008,
+        "end": 28.48
+      }
+    ]
+  },
+  "abductor-pollicis-longus": {
+    "duration": 31.52,
+    "shape": 9.28,
+    "action": 14.787,
+    "meaning": 18.347,
+    "memory": 27.424,
+    "captions": [
+      {
+        "text": "This is the abductor pollicis longus.",
+        "start": 0.272,
+        "end": 3.08
+      },
+      {
+        "text": "You'll find it deep in the posterior forearm,",
+        "start": 3.15,
+        "end": 6.4
+      },
+      {
+        "text": "crossing toward the thumb side of the wrist.",
+        "start": 6.462,
+        "end": 9.12
+      },
+      {
+        "text": "To identify it, follow its tendon toward the",
+        "start": 9.28,
+        "end": 12
+      },
+      {
+        "text": "base of the thumb metacarpal.",
+        "start": 12.08,
+        "end": 14.16
+      },
+      {
+        "text": "It moves the thumb away from the hand",
+        "start": 14.347,
+        "end": 16.8
+      },
+      {
+        "text": "at its base.",
+        "start": 16.88,
+        "end": 18
+      },
+      {
+        "text": "abductor means moves away.",
+        "start": 18.347,
+        "end": 21.2
+      },
+      {
+        "text": "pollicis means thumb.",
+        "start": 21.38,
+        "end": 23.92
+      },
+      {
+        "text": "longus means long.",
+        "start": 24.08,
+        "end": 26.64
+      },
+      {
+        "text": "Your memory cue: Abductor carries the thumb away.",
+        "start": 27.424,
+        "end": 31.52
+      }
+    ]
+  },
+  "extensor-pollicis-brevis": {
+    "duration": 34.16,
+    "shape": 9.973,
+    "action": 17.644,
+    "meaning": 20.12,
+    "memory": 29.664,
+    "captions": [
+      {
+        "text": "This is the extensor pollicis brevis.",
+        "start": 0.202,
+        "end": 3.56
+      },
+      {
+        "text": "You'll find it on the deep posterior forearm,",
+        "start": 3.65,
+        "end": 6.88
+      },
+      {
+        "text": "traveling toward the thumb-side wrist.",
+        "start": 6.928,
+        "end": 9.68
+      },
+      {
+        "text": "To identify it, trace the short thumb extensor",
+        "start": 9.973,
+        "end": 13.76
+      },
+      {
+        "text": "to the base of the thumb's proximal phalanx.",
+        "start": 13.84,
+        "end": 17.12
+      },
+      {
+        "text": "It straightens the thumb at its knuckle.",
+        "start": 17.28,
+        "end": 19.84
+      },
+      {
+        "text": "extensor means straightener.",
+        "start": 20.12,
+        "end": 23.04
+      },
+      {
+        "text": "pollicis means thumb.",
+        "start": 23.24,
+        "end": 25.76
+      },
+      {
+        "text": "brevis means short.",
+        "start": 25.98,
+        "end": 28.48
+      },
+      {
+        "text": "Your memory cue: Brevis stops at the nearer",
+        "start": 29.664,
+        "end": 33.2
+      },
+      {
+        "text": "thumb bone.",
+        "start": 33.267,
+        "end": 34.16
+      }
+    ]
+  },
+  "extensor-pollicis-longus": {
+    "duration": 35.28,
+    "shape": 11.573,
+    "action": 18.684,
+    "meaning": 22.04,
+    "memory": 30.903,
+    "captions": [
+      {
+        "text": "This is the extensor pollicis longus.",
+        "start": 0.202,
+        "end": 3.68
+      },
+      {
+        "text": "You'll find it deep in the posterior forearm,",
+        "start": 3.78,
+        "end": 6.8
+      },
+      {
+        "text": "with a tendon angling across the back of",
+        "start": 6.832,
+        "end": 9.28
+      },
+      {
+        "text": "the wrist toward the thumb.",
+        "start": 9.3,
+        "end": 11.28
+      },
+      {
+        "text": "To identify it, follow the long oblique tendon",
+        "start": 11.573,
+        "end": 15.36
+      },
+      {
+        "text": "to the distal thumb phalanx.",
+        "start": 15.467,
+        "end": 18.16
+      },
+      {
+        "text": "It straightens the thumb, especially its end joint.",
+        "start": 18.32,
+        "end": 21.84
+      },
+      {
+        "text": "extensor means straightener.",
+        "start": 22.04,
+        "end": 24.72
+      },
+      {
+        "text": "pollicis means thumb.",
+        "start": 24.9,
+        "end": 27.52
+      },
+      {
+        "text": "longus means long.",
+        "start": 27.696,
+        "end": 30.24
+      },
+      {
+        "text": "Your memory cue: Longus goes all the way",
+        "start": 30.903,
+        "end": 33.927
+      },
+      {
+        "text": "to the thumb tip.",
+        "start": 34.007,
+        "end": 35.287
+      }
+    ]
+  },
+  "gluteus-maximus": {
+    "duration": 26.16,
+    "shape": 5.307,
+    "action": 12.32,
+    "meaning": 17.093,
+    "memory": 21.984,
+    "captions": [
+      {
+        "text": "This is the gluteus maximus.",
+        "start": 0.202,
+        "end": 2.44
+      },
+      {
+        "text": "You'll find it superficially across the buttock.",
+        "start": 2.51,
+        "end": 5.2
+      },
+      {
+        "text": "To identify it, find the largest, outermost gluteal",
+        "start": 5.307,
+        "end": 8.96
+      },
+      {
+        "text": "muscle with broad oblique fibers.",
+        "start": 9.017,
+        "end": 11.84
+      },
+      {
+        "text": "It extends and outwardly rotates the hip, as",
+        "start": 11.973,
+        "end": 15.2
+      },
+      {
+        "text": "when rising from a chair.",
+        "start": 15.248,
+        "end": 16.88
+      },
+      {
+        "text": "gluteus means buttock.",
+        "start": 17.093,
+        "end": 19.28
+      },
+      {
+        "text": "maximus means largest.",
+        "start": 19.36,
+        "end": 21.44
+      },
+      {
+        "text": "Your memory cue: Maximus is the big surface",
+        "start": 21.984,
+        "end": 25.12
+      },
+      {
+        "text": "power muscle.",
+        "start": 25.187,
+        "end": 26.16
+      }
+    ]
+  },
+  "gluteus-medius": {
+    "duration": 28.88,
+    "shape": 7.413,
+    "action": 14.213,
+    "meaning": 19.813,
+    "memory": 24.224,
+    "captions": [
+      {
+        "text": "This is the gluteus medius.",
+        "start": 0.4,
+        "end": 2.28
+      },
+      {
+        "text": "You'll find it on the outer hip, deep",
+        "start": 2.35,
+        "end": 4.48
+      },
+      {
+        "text": "to the large superficial buttock muscle.",
+        "start": 4.56,
+        "end": 7.2
+      },
+      {
+        "text": "To identify it, find a broad fan from",
+        "start": 7.413,
+        "end": 10.32
+      },
+      {
+        "text": "the side of the pelvis toward the upper",
+        "start": 10.34,
+        "end": 12.4
+      },
+      {
+        "text": "outer femur.",
+        "start": 12.48,
+        "end": 13.68
+      },
+      {
+        "text": "It moves the thigh sideways and stabilizes the",
+        "start": 13.84,
+        "end": 17.04
+      },
+      {
+        "text": "pelvis during single-leg stance.",
+        "start": 17.12,
+        "end": 19.68
+      },
+      {
+        "text": "gluteus means buttock.",
+        "start": 19.813,
+        "end": 21.6
+      },
+      {
+        "text": "medius means middle.",
+        "start": 21.76,
+        "end": 23.76
+      },
+      {
+        "text": "Your memory cue: Medius is the middle fan",
+        "start": 24.224,
+        "end": 27.28
+      },
+      {
+        "text": "that steadies the pelvis.",
+        "start": 27.344,
+        "end": 28.88
+      }
+    ]
+  },
+  "gluteus-minimus": {
+    "duration": 26.32,
+    "shape": 7.36,
+    "action": 13.92,
+    "meaning": 16.747,
+    "memory": 22.064,
+    "captions": [
+      {
+        "text": "This is the gluteus minimus.",
+        "start": 0.202,
+        "end": 2.08
+      },
+      {
+        "text": "You'll find it deep on the outer hip,",
+        "start": 2.22,
+        "end": 4.8
+      },
+      {
+        "text": "beneath the middle gluteal layer.",
+        "start": 4.86,
+        "end": 7.12
+      },
+      {
+        "text": "To identify it, look for the smallest, deepest",
+        "start": 7.36,
+        "end": 10.64
+      },
+      {
+        "text": "gluteal fan against the outer pelvis.",
+        "start": 10.747,
+        "end": 13.36
+      },
+      {
+        "text": "It abducts and inwardly rotates the thigh.",
+        "start": 13.52,
+        "end": 16.56
+      },
+      {
+        "text": "gluteus means buttock.",
+        "start": 16.747,
+        "end": 18.64
+      },
+      {
+        "text": "minimus means smallest.",
+        "start": 18.76,
+        "end": 21.2
+      },
+      {
+        "text": "Your memory cue: Minimus: smallest and deepest.",
+        "start": 22.064,
+        "end": 26.32
+      }
+    ]
+  },
+  "tensor-fascia-latae": {
+    "duration": 32.4,
+    "shape": 10.293,
+    "action": 16.76,
+    "meaning": 22.537,
+    "memory": 28.688,
+    "captions": [
+      {
+        "text": "This is the tensor fascia latae.",
+        "start": 0.336,
+        "end": 3.24
+      },
+      {
+        "text": "You'll find it at the front outer corner",
+        "start": 3.33,
+        "end": 5.76
+      },
+      {
+        "text": "of the hip, blending into the lateral thigh's",
+        "start": 5.787,
+        "end": 8.48
+      },
+      {
+        "text": "broad fibrous band.",
+        "start": 8.547,
+        "end": 10.08
+      },
+      {
+        "text": "To identify it, find the short muscle belly",
+        "start": 10.293,
+        "end": 13.36
+      },
+      {
+        "text": "at the top of the long outer-thigh band.",
+        "start": 13.413,
+        "end": 16.24
+      },
+      {
+        "text": "It tenses the thigh fascia and helps flex,",
+        "start": 16.4,
+        "end": 19.76
+      },
+      {
+        "text": "abduct, and inwardly rotate the hip.",
+        "start": 19.867,
+        "end": 22.4
+      },
+      {
+        "text": "tensor means tightener.",
+        "start": 22.537,
+        "end": 24.4
+      },
+      {
+        "text": "fascia lata means broad thigh fascia.",
+        "start": 24.56,
+        "end": 28
+      },
+      {
+        "text": "Your memory cue: The tensor tightens the outer-thigh",
+        "start": 28.688,
+        "end": 31.84
+      },
+      {
+        "text": "band.",
+        "start": 31.92,
+        "end": 32.4
+      }
+    ]
+  },
+  "iliotibial-band": {
+    "duration": 30.08,
+    "shape": 8.24,
+    "action": 15.187,
+    "meaning": 19.893,
+    "memory": 26.464,
+    "captions": [
+      {
+        "text": "This is the iliotibial band.",
+        "start": 0.336,
+        "end": 2.16
+      },
+      {
+        "text": "You'll find it a long, thick connective-tissue strip",
+        "start": 2.34,
+        "end": 6.16
+      },
+      {
+        "text": "down the outside of the thigh.",
+        "start": 6.224,
+        "end": 8
+      },
+      {
+        "text": "To identify it, find the pale lateral band",
+        "start": 8.24,
+        "end": 11.6
+      },
+      {
+        "text": "continuing from the hip toward the outer knee.",
+        "start": 11.658,
+        "end": 14.4
+      },
+      {
+        "text": "It transmits muscle tension and helps stabilize the",
+        "start": 14.64,
+        "end": 17.92
+      },
+      {
+        "text": "lateral hip and knee.",
+        "start": 17.98,
+        "end": 19.6
+      },
+      {
+        "text": "ilio means ilium.",
+        "start": 19.893,
+        "end": 21.76
+      },
+      {
+        "text": "tibial means tibia.",
+        "start": 22,
+        "end": 23.68
+      },
+      {
+        "text": "band means strip.",
+        "start": 23.824,
+        "end": 25.92
+      },
+      {
+        "text": "Your memory cue: IT is the outside thigh's",
+        "start": 26.464,
+        "end": 28.96
+      },
+      {
+        "text": "tough track.",
+        "start": 29.027,
+        "end": 30.08
+      }
+    ]
+  },
+  "iliopsoas": {
+    "duration": 32.88,
+    "shape": 9.333,
+    "action": 16.871,
+    "meaning": 19.867,
+    "memory": 26.624,
+    "captions": [
+      {
+        "text": "This is the iliopsoas.",
+        "start": 0.403,
+        "end": 2.08
+      },
+      {
+        "text": "You'll find it at the front of the",
+        "start": 2.24,
+        "end": 4.32
+      },
+      {
+        "text": "hip, where two deep muscles converge toward the",
+        "start": 4.42,
+        "end": 8
+      },
+      {
+        "text": "upper femur.",
+        "start": 8.053,
+        "end": 9.04
+      },
+      {
+        "text": "To identify it, find the joined hip-flexor unit",
+        "start": 9.333,
+        "end": 13.44
+      },
+      {
+        "text": "crossing in front of the hip joint.",
+        "start": 13.511,
+        "end": 15.92
+      },
+      {
+        "text": "It strongly lifts the thigh at the hip.",
+        "start": 16.213,
+        "end": 19.44
+      },
+      {
+        "text": "ilio means ilium.",
+        "start": 19.867,
+        "end": 22.24
+      },
+      {
+        "text": "psoas means loin region.",
+        "start": 22.68,
+        "end": 25.44
+      },
+      {
+        "text": "Your memory cue: Iliacus plus psoas makes iliopsoas.",
+        "start": 26.624,
+        "end": 32.88
+      }
+    ]
+  },
+  "iliacus": {
+    "duration": 23.6,
+    "shape": 7.947,
+    "action": 13.893,
+    "meaning": 16.107,
+    "memory": 19.704,
+    "captions": [
+      {
+        "text": "This is the iliacus.",
+        "start": 0.269,
+        "end": 2.16
+      },
+      {
+        "text": "You'll find it inside the pelvic bowl, filling",
+        "start": 2.24,
+        "end": 5.04
+      },
+      {
+        "text": "the broad inner surface of the ilium.",
+        "start": 5.06,
+        "end": 7.84
+      },
+      {
+        "text": "To identify it, look for a fan-shaped muscle",
+        "start": 7.947,
+        "end": 10.88
+      },
+      {
+        "text": "spread across the iliac fossa.",
+        "start": 10.96,
+        "end": 13.12
+      },
+      {
+        "text": "It helps lift the thigh at the hip.",
+        "start": 13.36,
+        "end": 15.84
+      },
+      {
+        "text": "iliacus means of the ilium.",
+        "start": 16.107,
+        "end": 18.8
+      },
+      {
+        "text": "Your memory cue: Iliacus fills the iliac bowl.",
+        "start": 19.704,
+        "end": 23.608
+      }
+    ]
+  },
+  "psoas-major": {
+    "duration": 34.32,
+    "shape": 9.787,
+    "action": 17.44,
+    "meaning": 22.28,
+    "memory": 29.184,
+    "captions": [
+      {
+        "text": "This is the psoas major.",
+        "start": 0.134,
+        "end": 1.68
+      },
+      {
+        "text": "You'll find it alongside the lumbar spine, descending",
+        "start": 1.88,
+        "end": 6.08
+      },
+      {
+        "text": "over the pelvic brim toward the upper femur.",
+        "start": 6.16,
+        "end": 9.36
+      },
+      {
+        "text": "To identify it, find the long vertical hip",
+        "start": 9.787,
+        "end": 13.6
+      },
+      {
+        "text": "flexor next to the lower spinal column.",
+        "start": 13.68,
+        "end": 16.4
+      },
+      {
+        "text": "It flexes the hip and helps flex the",
+        "start": 16.72,
+        "end": 19.52
+      },
+      {
+        "text": "trunk when the lower limb is fixed.",
+        "start": 19.573,
+        "end": 21.68
+      },
+      {
+        "text": "psoas means loin region.",
+        "start": 22.28,
+        "end": 25.2
+      },
+      {
+        "text": "major means larger.",
+        "start": 25.4,
+        "end": 27.68
+      },
+      {
+        "text": "Your memory cue: Psoas is the long strip",
+        "start": 29.184,
+        "end": 32.4
+      },
+      {
+        "text": "from the low back to the hip.",
+        "start": 32.448,
+        "end": 34.32
+      }
+    ]
+  },
+  "piriformis": {
+    "duration": 28.24,
+    "shape": 7.013,
+    "action": 15.813,
+    "meaning": 20.04,
+    "memory": 24.861,
+    "captions": [
+      {
+        "text": "This is the piriformis.",
+        "start": 0.134,
+        "end": 1.6
+      },
+      {
+        "text": "You'll find it deep in the buttock, from",
+        "start": 1.76,
+        "end": 4
+      },
+      {
+        "text": "the sacrum toward the outer upper femur.",
+        "start": 4.02,
+        "end": 6.72
+      },
+      {
+        "text": "To identify it, find the upper pear-shaped deep",
+        "start": 7.013,
+        "end": 10.96
+      },
+      {
+        "text": "rotator, typically just above the emerging sciatic nerve.",
+        "start": 11.04,
+        "end": 15.04
+      },
+      {
+        "text": "It turns the thigh outward and helps abduct",
+        "start": 15.28,
+        "end": 18.32
+      },
+      {
+        "text": "a flexed thigh.",
+        "start": 18.4,
+        "end": 19.76
+      },
+      {
+        "text": "piri means pear.",
+        "start": 20.04,
+        "end": 21.6
+      },
+      {
+        "text": "formis means shaped.",
+        "start": 21.776,
+        "end": 24.32
+      },
+      {
+        "text": "Your memory cue: Pear above the deep-rotator stack.",
+        "start": 24.861,
+        "end": 28.242
+      }
+    ]
+  },
+  "superior-gemellus": {
+    "duration": 26.32,
+    "shape": 7.813,
+    "action": 14.053,
+    "meaning": 17.227,
+    "memory": 22.304,
+    "captions": [
+      {
+        "text": "This is the superior gemellus.",
+        "start": 0.202,
+        "end": 2
+      },
+      {
+        "text": "You'll find it deep behind the hip, just",
+        "start": 2.04,
+        "end": 4.72
+      },
+      {
+        "text": "above the tendon that bends out of the",
+        "start": 4.787,
+        "end": 6.72
+      },
+      {
+        "text": "pelvis.",
+        "start": 6.78,
+        "end": 7.68
+      },
+      {
+        "text": "To identify it, find the small upper muscle",
+        "start": 7.813,
+        "end": 10.88
+      },
+      {
+        "text": "hugging the obturator-internus tendon.",
+        "start": 11,
+        "end": 13.68
+      },
+      {
+        "text": "It helps turn the thigh outward and stabilize",
+        "start": 13.787,
+        "end": 16.48
+      },
+      {
+        "text": "the hip.",
+        "start": 16.52,
+        "end": 17.12
+      },
+      {
+        "text": "superior means upper.",
+        "start": 17.227,
+        "end": 18.96
+      },
+      {
+        "text": "gemellus means little twin.",
+        "start": 19.14,
+        "end": 21.6
+      },
+      {
+        "text": "Your memory cue: The upper twin sits above",
+        "start": 22.304,
+        "end": 25.2
+      },
+      {
+        "text": "the tendon.",
+        "start": 25.22,
+        "end": 26.32
+      }
+    ]
+  },
+  "obturator-internus": {
+    "duration": 33.6,
+    "shape": 9.947,
+    "action": 16.88,
+    "meaning": 20.88,
+    "memory": 27.664,
+    "captions": [
+      {
+        "text": "This is the obturator internus.",
+        "start": 0.202,
+        "end": 2.84
+      },
+      {
+        "text": "You'll find it on the inside of the",
+        "start": 2.93,
+        "end": 4.96
+      },
+      {
+        "text": "pelvic wall, with its tendon turning out toward",
+        "start": 5.029,
+        "end": 8.48
+      },
+      {
+        "text": "the back of the hip.",
+        "start": 8.5,
+        "end": 9.68
+      },
+      {
+        "text": "To identify it, follow the tendon running between",
+        "start": 9.947,
+        "end": 13.68
+      },
+      {
+        "text": "the two small gemellus muscles.",
+        "start": 13.72,
+        "end": 16.16
+      },
+      {
+        "text": "It turns the thigh outward and helps stabilize",
+        "start": 16.373,
+        "end": 19.92
+      },
+      {
+        "text": "the hip.",
+        "start": 19.96,
+        "end": 20.56
+      },
+      {
+        "text": "obturator means obturator opening.",
+        "start": 20.88,
+        "end": 24.48
+      },
+      {
+        "text": "internus means inner.",
+        "start": 24.606,
+        "end": 27.16
+      },
+      {
+        "text": "Your memory cue: Internus turns from inside the",
+        "start": 27.664,
+        "end": 31.2
+      },
+      {
+        "text": "pelvis, between the twins.",
+        "start": 31.28,
+        "end": 33.6
+      }
+    ]
+  },
+  "inferior-gemellus": {
+    "duration": 28.72,
+    "shape": 8.373,
+    "action": 13.96,
+    "meaning": 17.476,
+    "memory": 24.304,
+    "captions": [
+      {
+        "text": "This is the inferior gemellus.",
+        "start": 0.134,
+        "end": 2.16
+      },
+      {
+        "text": "You'll find it deep behind the hip, immediately",
+        "start": 2.3,
+        "end": 5.28
+      },
+      {
+        "text": "below the obturator-internus tendon.",
+        "start": 5.36,
+        "end": 8.08
+      },
+      {
+        "text": "To identify it, find the lower small muscle",
+        "start": 8.373,
+        "end": 11.84
+      },
+      {
+        "text": "hugging that tendon.",
+        "start": 12,
+        "end": 13.44
+      },
+      {
+        "text": "It helps turn the thigh outward and stabilize",
+        "start": 13.6,
+        "end": 16.72
+      },
+      {
+        "text": "the hip.",
+        "start": 16.74,
+        "end": 17.28
+      },
+      {
+        "text": "inferior means lower.",
+        "start": 17.476,
+        "end": 20
+      },
+      {
+        "text": "gemellus means little twin.",
+        "start": 20.24,
+        "end": 23.12
+      },
+      {
+        "text": "Your memory cue: The lower twin sits below",
+        "start": 24.304,
+        "end": 27.76
+      },
+      {
+        "text": "the tendon.",
+        "start": 27.84,
+        "end": 28.72
+      }
+    ]
+  },
+  "quadratus-femoris": {
+    "duration": 27.84,
+    "shape": 6.693,
+    "action": 15.36,
+    "meaning": 18.533,
+    "memory": 23.984,
+    "captions": [
+      {
+        "text": "This is the quadratus femoris.",
+        "start": 0.208,
+        "end": 2
+      },
+      {
+        "text": "You'll find it deep behind the hip, below",
+        "start": 2.1,
+        "end": 4.72
+      },
+      {
+        "text": "the short rotator tendons.",
+        "start": 4.76,
+        "end": 6.4
+      },
+      {
+        "text": "To identify it, find the short, flat rectangular",
+        "start": 6.693,
+        "end": 10.48
+      },
+      {
+        "text": "band running from the sitting-bone region toward the",
+        "start": 10.576,
+        "end": 13.92
+      },
+      {
+        "text": "femur.",
+        "start": 14,
+        "end": 14.64
+      },
+      {
+        "text": "It turns the thigh outward and helps adduct",
+        "start": 14.853,
+        "end": 18
+      },
+      {
+        "text": "it.",
+        "start": 18.053,
+        "end": 18.4
+      },
+      {
+        "text": "quadratus means square.",
+        "start": 18.533,
+        "end": 20.48
+      },
+      {
+        "text": "femoris means of the thigh.",
+        "start": 20.66,
+        "end": 23.28
+      },
+      {
+        "text": "Your memory cue: The square sits at the",
+        "start": 23.984,
+        "end": 26.48
+      },
+      {
+        "text": "bottom of the deep stack.",
+        "start": 26.526,
+        "end": 27.84
+      }
+    ]
+  },
+  "pectineus": {
+    "duration": 23.92,
+    "shape": 5.947,
+    "action": 13.187,
+    "meaning": 16.48,
+    "memory": 19.984,
+    "captions": [
+      {
+        "text": "This is the pectineus.",
+        "start": 0.269,
+        "end": 2
+      },
+      {
+        "text": "You'll find it high in the inner front",
+        "start": 2.1,
+        "end": 4.08
+      },
+      {
+        "text": "thigh, just below the groin.",
+        "start": 4.147,
+        "end": 5.68
+      },
+      {
+        "text": "To identify it, look for a short flat",
+        "start": 5.947,
+        "end": 8.96
+      },
+      {
+        "text": "muscle spanning from the pubic region to the",
+        "start": 9.017,
+        "end": 11.44
+      },
+      {
+        "text": "upper femur.",
+        "start": 11.493,
+        "end": 12.32
+      },
+      {
+        "text": "It pulls the thigh inward and helps lift",
+        "start": 12.587,
+        "end": 15.28
+      },
+      {
+        "text": "it forward.",
+        "start": 15.307,
+        "end": 16.08
+      },
+      {
+        "text": "pectineus means comb-like.",
+        "start": 16.48,
+        "end": 19.04
+      },
+      {
+        "text": "Your memory cue: The little comb sits high",
+        "start": 19.984,
+        "end": 22.88
+      },
+      {
+        "text": "in the inner thigh.",
+        "start": 22.933,
+        "end": 23.92
+      }
+    ]
+  },
+  "adductor-brevis": {
+    "duration": 25.44,
+    "shape": 7.787,
+    "action": 13.893,
+    "meaning": 15.96,
+    "memory": 21.383,
+    "captions": [
+      {
+        "text": "This is the adductor brevis.",
+        "start": 0.202,
+        "end": 1.8
+      },
+      {
+        "text": "You'll find it deep in the upper medial",
+        "start": 1.83,
+        "end": 4
+      },
+      {
+        "text": "thigh, behind the longer superficial adductor.",
+        "start": 4.08,
+        "end": 7.6
+      },
+      {
+        "text": "To identify it, find the short triangular inner-thigh",
+        "start": 7.787,
+        "end": 11.04
+      },
+      {
+        "text": "muscle exposed in the deeper layer.",
+        "start": 11.109,
+        "end": 13.44
+      },
+      {
+        "text": "It pulls the thigh toward the midline.",
+        "start": 13.573,
+        "end": 15.76
+      },
+      {
+        "text": "adductor means draws toward.",
+        "start": 15.96,
+        "end": 18.72
+      },
+      {
+        "text": "brevis means short.",
+        "start": 18.82,
+        "end": 20.72
+      },
+      {
+        "text": "Your memory cue: Brevis is the short, deep",
+        "start": 21.383,
+        "end": 24.407
+      },
+      {
+        "text": "adductor.",
+        "start": 24.487,
+        "end": 25.447
+      }
+    ]
+  },
+  "adductor-longus": {
+    "duration": 31.44,
+    "shape": 8.347,
+    "action": 15.587,
+    "meaning": 19.26,
+    "memory": 26.144,
+    "captions": [
+      {
+        "text": "This is the adductor longus.",
+        "start": 0.134,
+        "end": 2.08
+      },
+      {
+        "text": "You'll find it superficially in the upper inner",
+        "start": 2.16,
+        "end": 4.72
+      },
+      {
+        "text": "thigh, from the pubic region toward the middle",
+        "start": 4.787,
+        "end": 7.44
+      },
+      {
+        "text": "femur.",
+        "start": 7.52,
+        "end": 8
+      },
+      {
+        "text": "To identify it, find the long triangular fan",
+        "start": 8.347,
+        "end": 12.24
+      },
+      {
+        "text": "with a prominent proximal tendon.",
+        "start": 12.304,
+        "end": 14.8
+      },
+      {
+        "text": "It pulls the thigh inward and assists hip",
+        "start": 15.04,
+        "end": 18.16
+      },
+      {
+        "text": "flexion.",
+        "start": 18.24,
+        "end": 18.96
+      },
+      {
+        "text": "adductor means draws toward.",
+        "start": 19.26,
+        "end": 22.4
+      },
+      {
+        "text": "longus means long.",
+        "start": 22.608,
+        "end": 25.12
+      },
+      {
+        "text": "Your memory cue: Longus is the long front-medial",
+        "start": 26.144,
+        "end": 30.64
+      },
+      {
+        "text": "fan.",
+        "start": 30.78,
+        "end": 31.44
+      }
+    ]
+  },
+  "adductor-magnus": {
+    "duration": 37.52,
+    "shape": 9.653,
+    "action": 18.42,
+    "meaning": 24.54,
+    "memory": 32.944,
+    "captions": [
+      {
+        "text": "This is the adductor magnus.",
+        "start": 0.336,
+        "end": 2.16
+      },
+      {
+        "text": "You'll find it a large broad sheet across",
+        "start": 2.34,
+        "end": 5.68
+      },
+      {
+        "text": "the medial thigh, extending toward the lower femur.",
+        "start": 5.7,
+        "end": 9.36
+      },
+      {
+        "text": "To identify it, find the very large deep",
+        "start": 9.653,
+        "end": 13.52
+      },
+      {
+        "text": "inner-thigh mass behind the smaller adductors.",
+        "start": 13.587,
+        "end": 17.6
+      },
+      {
+        "text": "It adducts the thigh; different parts also help",
+        "start": 17.84,
+        "end": 21.76
+      },
+      {
+        "text": "flex or extend the hip.",
+        "start": 21.888,
+        "end": 24.16
+      },
+      {
+        "text": "adductor means draws toward.",
+        "start": 24.54,
+        "end": 28.48
+      },
+      {
+        "text": "magnus means great or large.",
+        "start": 28.64,
+        "end": 32
+      },
+      {
+        "text": "Your memory cue: Magnus is the massive medial",
+        "start": 32.944,
+        "end": 36.88
+      },
+      {
+        "text": "sheet.",
+        "start": 36.96,
+        "end": 37.52
+      }
+    ]
+  },
+  "biceps-femoris": {
+    "duration": 37.12,
+    "shape": 10.72,
+    "action": 17.973,
+    "meaning": 24.933,
+    "memory": 32.944,
+    "captions": [
+      {
+        "text": "This is the biceps femoris.",
+        "start": 0.134,
+        "end": 2
+      },
+      {
+        "text": "You'll find it on the outer side of",
+        "start": 2.14,
+        "end": 4.56
+      },
+      {
+        "text": "the back thigh, continuing toward the fibular head",
+        "start": 4.58,
+        "end": 8.4
+      },
+      {
+        "text": "below the lateral knee.",
+        "start": 8.493,
+        "end": 10.4
+      },
+      {
+        "text": "To identify it, find the lateral hamstring with",
+        "start": 10.72,
+        "end": 14.56
+      },
+      {
+        "text": "a strong tendon on the outer knee.",
+        "start": 14.6,
+        "end": 17.28
+      },
+      {
+        "text": "It bends the knee and turns the flexed",
+        "start": 17.493,
+        "end": 20.24
+      },
+      {
+        "text": "leg outward; its long head also extends the",
+        "start": 20.32,
+        "end": 23.92
+      },
+      {
+        "text": "hip.",
+        "start": 24.02,
+        "end": 24.48
+      },
+      {
+        "text": "bi means two.",
+        "start": 24.933,
+        "end": 26.8
+      },
+      {
+        "text": "ceps means heads.",
+        "start": 27.12,
+        "end": 29.28
+      },
+      {
+        "text": "femoris means of the thigh.",
+        "start": 29.44,
+        "end": 32.24
+      },
+      {
+        "text": "Your memory cue: Biceps femoris is the outside",
+        "start": 32.944,
+        "end": 36.4
+      },
+      {
+        "text": "hamstring.",
+        "start": 36.472,
+        "end": 37.12
+      }
+    ]
+  },
+  "semitendinosus": {
+    "duration": 29.6,
+    "shape": 10.107,
+    "action": 17.253,
+    "meaning": 19.744,
+    "memory": 25.408,
+    "captions": [
+      {
+        "text": "This is the semitendinosus.",
+        "start": 0.336,
+        "end": 2.88
+      },
+      {
+        "text": "You'll find it superficially on the inner back",
+        "start": 2.96,
+        "end": 5.68
+      },
+      {
+        "text": "thigh, with a long distal tendon toward the",
+        "start": 5.76,
+        "end": 8.96
+      },
+      {
+        "text": "inner shin.",
+        "start": 9.013,
+        "end": 9.84
+      },
+      {
+        "text": "To identify it, look for the medial hamstring",
+        "start": 10.107,
+        "end": 13.52
+      },
+      {
+        "text": "ending in a long, cord-like tendon.",
+        "start": 13.6,
+        "end": 16.4
+      },
+      {
+        "text": "It bends the knee and extends the hip.",
+        "start": 16.667,
+        "end": 19.52
+      },
+      {
+        "text": "semi means half.",
+        "start": 19.744,
+        "end": 22.28
+      },
+      {
+        "text": "tendinosus means tendinous.",
+        "start": 22.368,
+        "end": 25.12
+      },
+      {
+        "text": "Your memory cue: Tendinosus has the long tendon",
+        "start": 25.408,
+        "end": 28.88
+      },
+      {
+        "text": "cord.",
+        "start": 29.008,
+        "end": 29.6
+      }
+    ]
+  },
+  "semimembranosus": {
+    "duration": 32.24,
+    "shape": 8.133,
+    "action": 15.907,
+    "meaning": 18.48,
+    "memory": 25.479,
+    "captions": [
+      {
+        "text": "This is the semimembranosus.",
+        "start": 0.269,
+        "end": 2.48
+      },
+      {
+        "text": "You'll find it deep on the inner back",
+        "start": 2.62,
+        "end": 4.72
+      },
+      {
+        "text": "thigh, ending at the upper medial tibia.",
+        "start": 4.787,
+        "end": 7.76
+      },
+      {
+        "text": "To identify it, find the broad, flat upper",
+        "start": 8.133,
+        "end": 11.76
+      },
+      {
+        "text": "tendon and deeper medial hamstring belly.",
+        "start": 11.829,
+        "end": 15.04
+      },
+      {
+        "text": "It bends the knee and extends the hip.",
+        "start": 15.307,
+        "end": 18.16
+      },
+      {
+        "text": "semi means half.",
+        "start": 18.48,
+        "end": 21.52
+      },
+      {
+        "text": "membranosus means membranous.",
+        "start": 21.627,
+        "end": 24.56
+      },
+      {
+        "text": "Your memory cue: Membranosus begins with a broad",
+        "start": 25.479,
+        "end": 29.362
+      },
+      {
+        "text": "flat membrane-like tendon.",
+        "start": 29.506,
+        "end": 32.242
+      }
+    ]
+  },
+  "tibialis-anterior": {
+    "duration": 30.48,
+    "shape": 7.573,
+    "action": 16.387,
+    "meaning": 19.96,
+    "memory": 25.504,
+    "captions": [
+      {
+        "text": "This is the tibialis anterior.",
+        "start": 0.134,
+        "end": 2.16
+      },
+      {
+        "text": "You'll find it along the front of the",
+        "start": 2.28,
+        "end": 4.08
+      },
+      {
+        "text": "shin, immediately lateral to the tibial crest.",
+        "start": 4.176,
+        "end": 7.36
+      },
+      {
+        "text": "To identify it, find the prominent muscle beside",
+        "start": 7.573,
+        "end": 10.64
+      },
+      {
+        "text": "the shin bone, with its tendon crossing the",
+        "start": 10.66,
+        "end": 13.2
+      },
+      {
+        "text": "front of the ankle toward the medial foot.",
+        "start": 13.24,
+        "end": 15.44
+      },
+      {
+        "text": "It lifts the foot upward and turns the",
+        "start": 15.733,
+        "end": 18.4
+      },
+      {
+        "text": "sole inward.",
+        "start": 18.48,
+        "end": 19.68
+      },
+      {
+        "text": "tibialis means tibia-related.",
+        "start": 19.96,
+        "end": 22.88
+      },
+      {
+        "text": "anterior means front.",
+        "start": 22.969,
+        "end": 24.96
+      },
+      {
+        "text": "Your memory cue: Anterior tibialis lifts the toes",
+        "start": 25.504,
+        "end": 29.52
+      },
+      {
+        "text": "toward the shin.",
+        "start": 29.566,
+        "end": 30.48
+      }
+    ]
+  },
+  "extensor-digitorum-longus": {
+    "duration": 32.64,
+    "shape": 9.333,
+    "action": 16.044,
+    "meaning": 20,
+    "memory": 27.664,
+    "captions": [
+      {
+        "text": "This is the extensor digitorum longus.",
+        "start": 0.336,
+        "end": 3.04
+      },
+      {
+        "text": "You'll find it on the anterior-lateral lower leg,",
+        "start": 3.2,
+        "end": 6.88
+      },
+      {
+        "text": "lateral to the main shin muscle.",
+        "start": 6.95,
+        "end": 9.2
+      },
+      {
+        "text": "To identify it, follow a long muscle splitting",
+        "start": 9.333,
+        "end": 12.48
+      },
+      {
+        "text": "into four tendons across the top of the",
+        "start": 12.528,
+        "end": 14.72
+      },
+      {
+        "text": "foot.",
+        "start": 14.8,
+        "end": 15.28
+      },
+      {
+        "text": "It straightens the four smaller toes and helps",
+        "start": 15.52,
+        "end": 18.72
+      },
+      {
+        "text": "lift the foot.",
+        "start": 18.8,
+        "end": 19.76
+      },
+      {
+        "text": "extensor means straightener.",
+        "start": 20,
+        "end": 22.24
+      },
+      {
+        "text": "digitorum means digits.",
+        "start": 22.44,
+        "end": 24.96
+      },
+      {
+        "text": "longus means long.",
+        "start": 25.104,
+        "end": 27.04
+      },
+      {
+        "text": "Your memory cue: Four long tendons straighten four",
+        "start": 27.664,
+        "end": 31.36
+      },
+      {
+        "text": "small toes.",
+        "start": 31.427,
+        "end": 32.64
+      }
+    ]
+  },
+  "extensor-hallucis-longus": {
+    "duration": 34.56,
+    "shape": 10.72,
+    "action": 17.964,
+    "meaning": 21.32,
+    "memory": 30.864,
+    "captions": [
+      {
+        "text": "This is the extensor hallucis longus.",
+        "start": 0.269,
+        "end": 3.52
+      },
+      {
+        "text": "You'll find it deep in the anterior lower",
+        "start": 3.66,
+        "end": 6.56
+      },
+      {
+        "text": "leg, with one tendon crossing toward the big",
+        "start": 6.68,
+        "end": 9.84
+      },
+      {
+        "text": "toe.",
+        "start": 9.94,
+        "end": 10.4
+      },
+      {
+        "text": "To identify it, find the slender muscle and",
+        "start": 10.72,
+        "end": 14.24
+      },
+      {
+        "text": "tendon heading to the top of the big",
+        "start": 14.32,
+        "end": 16.56
+      },
+      {
+        "text": "toe.",
+        "start": 16.66,
+        "end": 17.04
+      },
+      {
+        "text": "It straightens the big toe and helps lift",
+        "start": 17.333,
+        "end": 20.32
+      },
+      {
+        "text": "the foot.",
+        "start": 20.36,
+        "end": 21.04
+      },
+      {
+        "text": "extensor means straightener.",
+        "start": 21.32,
+        "end": 24.16
+      },
+      {
+        "text": "hallucis means of the big toe.",
+        "start": 24.331,
+        "end": 27.44
+      },
+      {
+        "text": "longus means long.",
+        "start": 27.664,
+        "end": 30
+      },
+      {
+        "text": "Your memory cue: Hallucis singles out the big",
+        "start": 30.864,
+        "end": 34.08
+      },
+      {
+        "text": "toe.",
+        "start": 34.18,
+        "end": 34.56
+      }
+    ]
+  },
+  "fibularis-tertius": {
+    "duration": 30.08,
+    "shape": 10.267,
+    "action": 17.507,
+    "meaning": 20.66,
+    "memory": 26.061,
+    "captions": [
+      {
+        "text": "This is the fibularis tertius.",
+        "start": 0.336,
+        "end": 2.96
+      },
+      {
+        "text": "You'll find it in the distal anterior-lateral leg,",
+        "start": 3.06,
+        "end": 6.8
+      },
+      {
+        "text": "with its tendon crossing in front of the",
+        "start": 6.832,
+        "end": 8.96
+      },
+      {
+        "text": "outer ankle.",
+        "start": 9.013,
+        "end": 10
+      },
+      {
+        "text": "To identify it, trace the small anterior tendon",
+        "start": 10.267,
+        "end": 14.32
+      },
+      {
+        "text": "to the top of the fifth metatarsal.",
+        "start": 14.427,
+        "end": 16.88
+      },
+      {
+        "text": "It lifts the foot and turns the sole",
+        "start": 17.067,
+        "end": 19.6
+      },
+      {
+        "text": "outward.",
+        "start": 19.68,
+        "end": 20.48
+      },
+      {
+        "text": "fibularis means fibula-related.",
+        "start": 20.66,
+        "end": 23.36
+      },
+      {
+        "text": "tertius means third.",
+        "start": 23.472,
+        "end": 25.28
+      },
+      {
+        "text": "Your memory cue: The third fibularis goes in",
+        "start": 26.061,
+        "end": 29.042
+      },
+      {
+        "text": "front of the ankle.",
+        "start": 29.082,
+        "end": 30.082
+      }
+    ]
+  },
+  "fibularis-longus": {
+    "duration": 32.32,
+    "shape": 8.4,
+    "action": 17.267,
+    "meaning": 20.96,
+    "memory": 27.504,
+    "captions": [
+      {
+        "text": "This is the fibularis longus.",
+        "start": 0.134,
+        "end": 1.92
+      },
+      {
+        "text": "You'll find it superficially along the outer lower",
+        "start": 1.96,
+        "end": 4.88
+      },
+      {
+        "text": "leg, starting high near the fibular head.",
+        "start": 5,
+        "end": 8.16
+      },
+      {
+        "text": "To identify it, find the long lateral belly;",
+        "start": 8.4,
+        "end": 12.8
+      },
+      {
+        "text": "its tendon passes behind the outer ankle and",
+        "start": 12.86,
+        "end": 15.6
+      },
+      {
+        "text": "under the foot.",
+        "start": 15.653,
+        "end": 16.64
+      },
+      {
+        "text": "It turns the sole outward and helps point",
+        "start": 16.827,
+        "end": 19.6
+      },
+      {
+        "text": "the foot downward.",
+        "start": 19.62,
+        "end": 20.8
+      },
+      {
+        "text": "fibularis means fibula-related.",
+        "start": 20.96,
+        "end": 24.16
+      },
+      {
+        "text": "longus means long.",
+        "start": 24.304,
+        "end": 26.56
+      },
+      {
+        "text": "Your memory cue: Longus starts high and travels",
+        "start": 27.504,
+        "end": 30.72
+      },
+      {
+        "text": "long beneath the foot.",
+        "start": 30.816,
+        "end": 32.32
+      }
+    ]
+  },
+  "fibularis-brevis": {
+    "duration": 26.8,
+    "shape": 7.493,
+    "action": 14.053,
+    "meaning": 17.26,
+    "memory": 22.221,
+    "captions": [
+      {
+        "text": "This is the fibularis brevis.",
+        "start": 0.208,
+        "end": 2.32
+      },
+      {
+        "text": "You'll find it along the lower outer leg,",
+        "start": 2.34,
+        "end": 4.72
+      },
+      {
+        "text": "deep to the long lateral fibular muscle.",
+        "start": 4.784,
+        "end": 7.36
+      },
+      {
+        "text": "To identify it, trace the shorter lateral muscle",
+        "start": 7.493,
+        "end": 10.4
+      },
+      {
+        "text": "to its tendon at the base of the",
+        "start": 10.48,
+        "end": 12.24
+      },
+      {
+        "text": "fifth metatarsal.",
+        "start": 12.28,
+        "end": 13.6
+      },
+      {
+        "text": "It turns the sole outward and helps point",
+        "start": 13.733,
+        "end": 15.92
+      },
+      {
+        "text": "the foot downward.",
+        "start": 15.94,
+        "end": 17.12
+      },
+      {
+        "text": "fibularis means fibula-related.",
+        "start": 17.26,
+        "end": 19.84
+      },
+      {
+        "text": "brevis means short.",
+        "start": 19.94,
+        "end": 21.52
+      },
+      {
+        "text": "Your memory cue: Brevis is the shorter lateral",
+        "start": 22.221,
+        "end": 24.882
+      },
+      {
+        "text": "route to the fifth metatarsal.",
+        "start": 24.935,
+        "end": 26.802
+      }
+    ]
+  },
+  "gastrocnemius": {
+    "duration": 28.16,
+    "shape": 8.56,
+    "action": 16.057,
+    "meaning": 18.949,
+    "memory": 24.464,
+    "captions": [
+      {
+        "text": "This is the gastrocnemius.",
+        "start": 0.269,
+        "end": 2.16
+      },
+      {
+        "text": "You'll find it superficially on the back of",
+        "start": 2.3,
+        "end": 4.64
+      },
+      {
+        "text": "the lower leg, forming the prominent calf bulge.",
+        "start": 4.66,
+        "end": 8.32
+      },
+      {
+        "text": "To identify it, find two large heads starting",
+        "start": 8.56,
+        "end": 12.08
+      },
+      {
+        "text": "above the knee and converging toward the heel",
+        "start": 12.133,
+        "end": 14.8
+      },
+      {
+        "text": "tendon.",
+        "start": 14.869,
+        "end": 15.36
+      },
+      {
+        "text": "It points the foot downward and helps bend",
+        "start": 15.573,
+        "end": 18.24
+      },
+      {
+        "text": "the knee.",
+        "start": 18.26,
+        "end": 18.8
+      },
+      {
+        "text": "gastro means belly.",
+        "start": 18.949,
+        "end": 20.72
+      },
+      {
+        "text": "cnemius means of the leg.",
+        "start": 20.987,
+        "end": 23.6
+      },
+      {
+        "text": "Your memory cue: Two calf heads cross the",
+        "start": 24.464,
+        "end": 27.6
+      },
+      {
+        "text": "knee.",
+        "start": 27.68,
+        "end": 28.16
+      }
+    ]
+  },
+  "soleus": {
+    "duration": 28.32,
+    "shape": 8.133,
+    "action": 16.787,
+    "meaning": 21.168,
+    "memory": 24.744,
+    "captions": [
+      {
+        "text": "This is the soleus.",
+        "start": 0.134,
+        "end": 1.36
+      },
+      {
+        "text": "You'll find it deep to the superficial calf",
+        "start": 1.46,
+        "end": 4.16
+      },
+      {
+        "text": "muscle, spreading across the posterior lower leg.",
+        "start": 4.217,
+        "end": 7.84
+      },
+      {
+        "text": "To identify it, find the broad flattened calf",
+        "start": 8.133,
+        "end": 11.68
+      },
+      {
+        "text": "muscle exposed below or beneath the two-headed surface",
+        "start": 11.737,
+        "end": 15.36
+      },
+      {
+        "text": "muscle.",
+        "start": 15.417,
+        "end": 16.32
+      },
+      {
+        "text": "It powerfully points the foot downward and helps",
+        "start": 16.453,
+        "end": 19.2
+      },
+      {
+        "text": "maintain standing posture.",
+        "start": 19.253,
+        "end": 20.96
+      },
+      {
+        "text": "soleus means sandal-shaped.",
+        "start": 21.168,
+        "end": 24
+      },
+      {
+        "text": "Your memory cue: The deep sandal points the",
+        "start": 24.744,
+        "end": 27.768
+      },
+      {
+        "text": "foot.",
+        "start": 27.864,
+        "end": 28.328
+      }
+    ]
+  },
+  "plantaris": {
+    "duration": 29.36,
+    "shape": 8.453,
+    "action": 16.864,
+    "meaning": 21.16,
+    "memory": 25.824,
+    "captions": [
+      {
+        "text": "This is the plantaris.",
+        "start": 0.134,
+        "end": 1.28
+      },
+      {
+        "text": "You'll find it at the upper posterior calf",
+        "start": 1.38,
+        "end": 4.16
+      },
+      {
+        "text": "near the outer knee, with a very long",
+        "start": 4.224,
+        "end": 6.96
+      },
+      {
+        "text": "thin tendon.",
+        "start": 7.056,
+        "end": 8.16
+      },
+      {
+        "text": "To identify it, look for a tiny muscle",
+        "start": 8.453,
+        "end": 11.44
+      },
+      {
+        "text": "belly followed by a slender tendon descending between",
+        "start": 11.507,
+        "end": 14.88
+      },
+      {
+        "text": "calf layers.",
+        "start": 14.96,
+        "end": 16
+      },
+      {
+        "text": "It weakly assists knee flexion and downward pointing",
+        "start": 16.267,
+        "end": 20.24
+      },
+      {
+        "text": "of the foot.",
+        "start": 20.267,
+        "end": 20.96
+      },
+      {
+        "text": "plantaris means relating to the sole.",
+        "start": 21.16,
+        "end": 24.96
+      },
+      {
+        "text": "Your memory cue: Tiny belly, very long string.",
+        "start": 25.824,
+        "end": 29.36
+      }
+    ]
+  },
+  "tendo-calcaneus": {
+    "duration": 29.68,
+    "shape": 7.787,
+    "action": 14.387,
+    "meaning": 20.496,
+    "memory": 25.664,
+    "captions": [
+      {
+        "text": "This is the tendo calcaneus.",
+        "start": 0.202,
+        "end": 2.24
+      },
+      {
+        "text": "You'll find it at the back of the",
+        "start": 2.32,
+        "end": 3.92
+      },
+      {
+        "text": "ankle, attaching the main calf muscles to the",
+        "start": 4,
+        "end": 6.8
+      },
+      {
+        "text": "heel bone.",
+        "start": 6.864,
+        "end": 7.52
+      },
+      {
+        "text": "To identify it, find the thick, pale cord",
+        "start": 7.787,
+        "end": 11.36
+      },
+      {
+        "text": "descending to the posterior heel.",
+        "start": 11.418,
+        "end": 13.76
+      },
+      {
+        "text": "It transmits calf force to point the foot",
+        "start": 13.947,
+        "end": 16.72
+      },
+      {
+        "text": "downward; the tendon itself does not contract.",
+        "start": 16.791,
+        "end": 20.32
+      },
+      {
+        "text": "tendo means tendon.",
+        "start": 20.496,
+        "end": 22.48
+      },
+      {
+        "text": "calcaneus means heel bone.",
+        "start": 22.624,
+        "end": 25.12
+      },
+      {
+        "text": "Your memory cue: The calf's thick cable to",
+        "start": 25.664,
+        "end": 29.04
+      },
+      {
+        "text": "the heel.",
+        "start": 29.06,
+        "end": 29.68
+      }
+    ]
+  },
+  "popliteus": {
+    "duration": 28.72,
+    "shape": 7.013,
+    "action": 15.427,
+    "meaning": 20.34,
+    "memory": 24.704,
+    "captions": [
+      {
+        "text": "This is the popliteus.",
+        "start": 0.336,
+        "end": 1.84
+      },
+      {
+        "text": "You'll find it deep across the back of",
+        "start": 2,
+        "end": 4.56
+      },
+      {
+        "text": "the knee, just below the joint.",
+        "start": 4.6,
+        "end": 6.72
+      },
+      {
+        "text": "To identify it, find a small triangular muscle",
+        "start": 7.013,
+        "end": 10.96
+      },
+      {
+        "text": "running obliquely across the upper posterior tibia.",
+        "start": 11.01,
+        "end": 14.56
+      },
+      {
+        "text": "It helps unlock the knee to begin bending",
+        "start": 14.827,
+        "end": 17.6
+      },
+      {
+        "text": "by rotating the tibia or femur.",
+        "start": 17.68,
+        "end": 20.08
+      },
+      {
+        "text": "popliteus means of the back of the knee.",
+        "start": 20.34,
+        "end": 23.76
+      },
+      {
+        "text": "Your memory cue: Popliteus unlocks the back of",
+        "start": 24.704,
+        "end": 28.08
+      },
+      {
+        "text": "the knee.",
+        "start": 28.1,
+        "end": 28.72
+      }
+    ]
+  },
+  "tibialis-posterior": {
+    "duration": 32.88,
+    "shape": 9.333,
+    "action": 17.413,
+    "meaning": 22.44,
+    "memory": 27.344,
+    "captions": [
+      {
+        "text": "This is the tibialis posterior.",
+        "start": 0.272,
+        "end": 2.4
+      },
+      {
+        "text": "You'll find it deep in the middle of",
+        "start": 2.54,
+        "end": 4.64
+      },
+      {
+        "text": "the posterior lower leg, against the interosseous membrane.",
+        "start": 4.68,
+        "end": 9.2
+      },
+      {
+        "text": "To identify it, find the deep central muscle",
+        "start": 9.333,
+        "end": 12.4
+      },
+      {
+        "text": "whose tendon passes behind the inner ankle toward",
+        "start": 12.467,
+        "end": 15.6
+      },
+      {
+        "text": "the medial foot.",
+        "start": 15.62,
+        "end": 16.56
+      },
+      {
+        "text": "It turns the sole inward, points the foot",
+        "start": 16.827,
+        "end": 19.76
+      },
+      {
+        "text": "downward, and supports the arch.",
+        "start": 19.813,
+        "end": 22.16
+      },
+      {
+        "text": "tibialis means tibia-related.",
+        "start": 22.44,
+        "end": 24.72
+      },
+      {
+        "text": "posterior means back.",
+        "start": 24.84,
+        "end": 26.72
+      },
+      {
+        "text": "Your memory cue: Posterior tibialis supports the arch",
+        "start": 27.344,
+        "end": 31.44
+      },
+      {
+        "text": "from behind.",
+        "start": 31.552,
+        "end": 32.88
+      }
+    ]
+  },
+  "flexor-digitorum-longus": {
+    "duration": 33.2,
+    "shape": 8.08,
+    "action": 16.32,
+    "meaning": 20.48,
+    "memory": 28.864,
+    "captions": [
+      {
+        "text": "This is the flexor digitorum longus.",
+        "start": 0.272,
+        "end": 3.64
+      },
+      {
+        "text": "You'll find it deep on the tibial side",
+        "start": 3.69,
+        "end": 5.68
+      },
+      {
+        "text": "of the posterior lower leg.",
+        "start": 5.76,
+        "end": 7.76
+      },
+      {
+        "text": "To identify it, follow its tendon behind the",
+        "start": 8.08,
+        "end": 11.36
+      },
+      {
+        "text": "inner ankle and into four tendons beneath the",
+        "start": 11.4,
+        "end": 14.24
+      },
+      {
+        "text": "small toes.",
+        "start": 14.293,
+        "end": 15.28
+      },
+      {
+        "text": "It bends the four smaller toes and helps",
+        "start": 15.6,
+        "end": 18.72
+      },
+      {
+        "text": "point the foot downward.",
+        "start": 18.773,
+        "end": 20.24
+      },
+      {
+        "text": "flexor means bender.",
+        "start": 20.48,
+        "end": 22.8
+      },
+      {
+        "text": "digitorum means digits.",
+        "start": 23,
+        "end": 25.6
+      },
+      {
+        "text": "longus means long.",
+        "start": 25.744,
+        "end": 27.84
+      },
+      {
+        "text": "Your memory cue: Four deep tendons curl the",
+        "start": 28.864,
+        "end": 32.08
+      },
+      {
+        "text": "small toes.",
+        "start": 32.133,
+        "end": 33.2
+      }
+    ]
+  },
+  "flexor-hallucis-longus": {
+    "duration": 39.04,
+    "shape": 9.627,
+    "action": 20.72,
+    "meaning": 24.704,
+    "memory": 34.464,
+    "captions": [
+      {
+        "text": "This is the flexor hallucis longus.",
+        "start": 0.134,
+        "end": 3.2
+      },
+      {
+        "text": "You'll find it deep on the fibular side",
+        "start": 3.28,
+        "end": 6.48
+      },
+      {
+        "text": "of the posterior lower leg.",
+        "start": 6.587,
+        "end": 9.36
+      },
+      {
+        "text": "To identify it, find the large deep belly",
+        "start": 9.627,
+        "end": 13.52
+      },
+      {
+        "text": "lateral in the calf, with a tendon continuing",
+        "start": 13.62,
+        "end": 17.52
+      },
+      {
+        "text": "under the foot to the big toe.",
+        "start": 17.587,
+        "end": 19.92
+      },
+      {
+        "text": "It bends the big toe and helps push",
+        "start": 20.16,
+        "end": 22.96
+      },
+      {
+        "text": "off when walking.",
+        "start": 23.04,
+        "end": 24.48
+      },
+      {
+        "text": "flexor means bender.",
+        "start": 24.704,
+        "end": 27.36
+      },
+      {
+        "text": "hallucis means big toe.",
+        "start": 27.52,
+        "end": 30.64
+      },
+      {
+        "text": "longus means long.",
+        "start": 30.816,
+        "end": 33.44
+      },
+      {
+        "text": "Your memory cue: The big-toe flexor powers the",
+        "start": 34.464,
+        "end": 38.16
+      },
+      {
+        "text": "push-off.",
+        "start": 38.24,
+        "end": 39.04
+      }
+    ]
+  },
+  "intro-scalp": {
+    "duration": 20.64,
+    "shape": 7.424,
+    "action": 9.288,
+    "meaning": 16.512,
+    "memory": 17.544,
+    "captions": [
+      {
+        "text": "Let's explore Scalp & forehead!",
+        "start": 0.21,
+        "end": 2.56
+      },
+      {
+        "text": "Two muscle bellies connected across the top of",
+        "start": 2.8,
+        "end": 6
+      },
+      {
+        "text": "the head.",
+        "start": 6.02,
+        "end": 6.56
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 7.424,
+        "end": 10.644
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 10.704,
+        "end": 13.924
+      },
+      {
+        "text": "One small group.",
+        "start": 15.224,
+        "end": 16.324
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 16.524,
+        "end": 19.844
+      },
+      {
+        "text": "the lab.",
+        "start": 19.884,
+        "end": 20.644
+      }
+    ]
+  },
+  "intro-eyes-nose": {
+    "duration": 22.08,
+    "shape": 9.587,
+    "action": 9.936,
+    "meaning": 17.663999999999998,
+    "memory": 18.767999999999997,
+    "captions": [
+      {
+        "text": "Let's explore Eyes & nose!",
+        "start": 0.275,
+        "end": 3.36
+      },
+      {
+        "text": "A ring, an eyebrow wrinkler, and two nose",
+        "start": 3.76,
+        "end": 7.92
+      },
+      {
+        "text": "landmarks.",
+        "start": 8.016,
+        "end": 9.439
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 9.587,
+        "end": 12.407
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 12.467,
+        "end": 16.007
+      },
+      {
+        "text": "One small group.",
+        "start": 17.067,
+        "end": 18.567
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 18.747,
+        "end": 21.527
+      },
+      {
+        "text": "the lab.",
+        "start": 21.547,
+        "end": 22.087
+      }
+    ]
+  },
+  "intro-cheeks-smile": {
+    "duration": 18.96,
+    "shape": 6.493,
+    "action": 8.532,
+    "meaning": 15.168000000000001,
+    "memory": 16.116,
+    "captions": [
+      {
+        "text": "Let's explore Cheeks & smile!",
+        "start": 0.136,
+        "end": 2.32
+      },
+      {
+        "text": "Follow the cheek muscles toward the mouth.",
+        "start": 2.446,
+        "end": 5.68
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 6.493,
+        "end": 9.52
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 9.58,
+        "end": 13.04
+      },
+      {
+        "text": "One small group.",
+        "start": 14.042,
+        "end": 14.962
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 15.122,
+        "end": 18.082
+      },
+      {
+        "text": "the lab.",
+        "start": 18.122,
+        "end": 18.962
+      }
+    ]
+  },
+  "intro-lips-chin": {
+    "duration": 17.04,
+    "shape": 6.28,
+    "action": 7.668,
+    "meaning": 13.632,
+    "memory": 14.483999999999998,
+    "captions": [
+      {
+        "text": "Let's explore Lips & chin!",
+        "start": 0.136,
+        "end": 2.6
+      },
+      {
+        "text": "Separate the lip movers from the mouth-corner movers.",
+        "start": 2.649,
+        "end": 6.08
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 6.28,
+        "end": 8.72
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 8.78,
+        "end": 12.12
+      },
+      {
+        "text": "One small group.",
+        "start": 12.675,
+        "end": 13.76
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 13.82,
+        "end": 16.4
+      },
+      {
+        "text": "the lab.",
+        "start": 16.42,
+        "end": 17.04
+      }
+    ]
+  },
+  "intro-jaw": {
+    "duration": 19.68,
+    "shape": 8.14,
+    "action": 8.856,
+    "meaning": 15.744,
+    "memory": 16.727999999999998,
+    "captions": [
+      {
+        "text": "Let's explore Chewing muscles!",
+        "start": 0.204,
+        "end": 2.16
+      },
+      {
+        "text": "Four jaw movers: outside, above, and deep inside.",
+        "start": 2.336,
+        "end": 8.079
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 8.14,
+        "end": 11.047
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 11.097,
+        "end": 14.287
+      },
+      {
+        "text": "One small group.",
+        "start": 14.842,
+        "end": 16.327
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 16.487,
+        "end": 19.047
+      },
+      {
+        "text": "the lab.",
+        "start": 19.067,
+        "end": 19.687
+      }
+    ]
+  },
+  "intro-mouth-floor": {
+    "duration": 18.96,
+    "shape": 6.512,
+    "action": 8.532,
+    "meaning": 15.168000000000001,
+    "memory": 16.116,
+    "captions": [
+      {
+        "text": "Let's explore Under the jaw!",
+        "start": 0.21,
+        "end": 2.52
+      },
+      {
+        "text": "Find the two bellies and the floor beneath",
+        "start": 2.576,
+        "end": 5.2
+      },
+      {
+        "text": "the mouth.",
+        "start": 5.22,
+        "end": 6.12
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 6.512,
+        "end": 9.605
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 9.655,
+        "end": 13.485
+      },
+      {
+        "text": "One small group.",
+        "start": 14.135,
+        "end": 14.966
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 15.165,
+        "end": 18.325
+      },
+      {
+        "text": "the lab.",
+        "start": 18.365,
+        "end": 18.965
+      }
+    ]
+  },
+  "intro-neck": {
+    "duration": 17.92,
+    "shape": 7.693,
+    "action": 8.064000000000002,
+    "meaning": 14.336000000000002,
+    "memory": 15.232000000000001,
+    "captions": [
+      {
+        "text": "Let's explore Neck landmarks!",
+        "start": 0.204,
+        "end": 2
+      },
+      {
+        "text": "A prominent strap, a two-belly ribbon, and a",
+        "start": 2.4,
+        "end": 5.92
+      },
+      {
+        "text": "surface sheet.",
+        "start": 5.97,
+        "end": 6.8
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 7.693,
+        "end": 10.16
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 10.21,
+        "end": 13.28
+      },
+      {
+        "text": "One small group.",
+        "start": 14.13,
+        "end": 15.04
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 15.18,
+        "end": 17.28
+      },
+      {
+        "text": "the lab.",
+        "start": 17.32,
+        "end": 17.92
+      }
+    ]
+  },
+  "intro-scapula": {
+    "duration": 15.44,
+    "shape": 5.327,
+    "action": 6.9479999999999995,
+    "meaning": 12.352,
+    "memory": 13.123999999999999,
+    "captions": [
+      {
+        "text": "Let's explore Shoulder-blade movers!",
+        "start": 0.136,
+        "end": 1.92
+      },
+      {
+        "text": "Six landmarks that position the shoulder blade.",
+        "start": 2.08,
+        "end": 4.72
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 5.327,
+        "end": 7.76
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 7.81,
+        "end": 10.48
+      },
+      {
+        "text": "One small group.",
+        "start": 11.342,
+        "end": 12.482
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 12.562,
+        "end": 14.802
+      },
+      {
+        "text": "the lab.",
+        "start": 14.842,
+        "end": 15.442
+      }
+    ]
+  },
+  "intro-abdomen": {
+    "duration": 18.88,
+    "shape": 7.326,
+    "action": 8.496,
+    "meaning": 15.104,
+    "memory": 16.048,
+    "captions": [
+      {
+        "text": "Let's explore Abdominal wall!",
+        "start": 0.204,
+        "end": 2.32
+      },
+      {
+        "text": "Four muscle layers and two connective-tissue landmarks.",
+        "start": 2.464,
+        "end": 6.72
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 7.326,
+        "end": 10.166
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 10.216,
+        "end": 13.766
+      },
+      {
+        "text": "One small group.",
+        "start": 14.441,
+        "end": 15.527
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 15.666,
+        "end": 18.246
+      },
+      {
+        "text": "the lab.",
+        "start": 18.266,
+        "end": 18.886
+      }
+    ]
+  },
+  "intro-back": {
+    "duration": 17.36,
+    "shape": 6.59,
+    "action": 7.812,
+    "meaning": 13.888,
+    "memory": 14.755999999999998,
+    "captions": [
+      {
+        "text": "Let's explore Deep back!",
+        "start": 0.136,
+        "end": 1.68
+      },
+      {
+        "text": "Learn the back columns from lateral to medial.",
+        "start": 1.8,
+        "end": 5.92
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 6.59,
+        "end": 8.96
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 9.01,
+        "end": 11.92
+      },
+      {
+        "text": "One small group.",
+        "start": 12.717,
+        "end": 13.687
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 13.807,
+        "end": 16.247
+      },
+      {
+        "text": "the lab.",
+        "start": 16.267,
+        "end": 17.367
+      }
+    ]
+  },
+  "intro-shoulder": {
+    "duration": 17.12,
+    "shape": 6.685,
+    "action": 7.704000000000001,
+    "meaning": 13.696000000000002,
+    "memory": 14.552,
+    "captions": [
+      {
+        "text": "Let's explore Shoulder & upper arm!",
+        "start": 0.12,
+        "end": 2.4
+      },
+      {
+        "text": "Five big clues around the shoulder and armpit.",
+        "start": 2.592,
+        "end": 6
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 6.685,
+        "end": 9.605
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 9.645,
+        "end": 12.165
+      },
+      {
+        "text": "One small group.",
+        "start": 13.08,
+        "end": 13.925
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 14.065,
+        "end": 16.565
+      },
+      {
+        "text": "the lab.",
+        "start": 16.585,
+        "end": 17.125
+      }
+    ]
+  },
+  "intro-rotator-cuff": {
+    "duration": 17.44,
+    "shape": 7.853,
+    "action": 7.848000000000001,
+    "meaning": 13.952000000000002,
+    "memory": 14.824,
+    "captions": [
+      {
+        "text": "Let's explore Rotator cuff — SITS!",
+        "start": 0.136,
+        "end": 3.28
+      },
+      {
+        "text": "SITS: four stabilizers around the shoulder joint.",
+        "start": 3.56,
+        "end": 7.12
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 7.853,
+        "end": 10.56
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 10.6,
+        "end": 13.36
+      },
+      {
+        "text": "One small group.",
+        "start": 13.496,
+        "end": 14.68
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 14.77,
+        "end": 16.88
+      },
+      {
+        "text": "the lab.",
+        "start": 16.9,
+        "end": 17.44
+      }
+    ]
+  },
+  "intro-elbow": {
+    "duration": 15.92,
+    "shape": 5.727,
+    "action": 7.164,
+    "meaning": 12.736,
+    "memory": 13.532,
+    "captions": [
+      {
+        "text": "Let's explore Elbow movers!",
+        "start": 0.136,
+        "end": 1.84
+      },
+      {
+        "text": "Three elbow benders and one straightener.",
+        "start": 1.96,
+        "end": 4.88
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 5.727,
+        "end": 8.24
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 8.28,
+        "end": 11.4
+      },
+      {
+        "text": "One small group.",
+        "start": 12.022,
+        "end": 12.882
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 13.042,
+        "end": 15.282
+      },
+      {
+        "text": "the lab.",
+        "start": 15.302,
+        "end": 15.922
+      }
+    ]
+  },
+  "intro-forearm-surface": {
+    "duration": 19.6,
+    "shape": 8.207,
+    "action": 8.82,
+    "meaning": 15.680000000000001,
+    "memory": 16.66,
+    "captions": [
+      {
+        "text": "Let's explore Forearm — surface flexors!",
+        "start": 0.136,
+        "end": 3
+      },
+      {
+        "text": "Find the wrist sides, the palm tendon, and",
+        "start": 3.072,
+        "end": 6
+      },
+      {
+        "text": "the diagonal strap.",
+        "start": 6.02,
+        "end": 7.28
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 8.207,
+        "end": 11.04
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 11.09,
+        "end": 13.92
+      },
+      {
+        "text": "One small group.",
+        "start": 14.877,
+        "end": 16.287
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 16.377,
+        "end": 18.807
+      },
+      {
+        "text": "the lab.",
+        "start": 18.847,
+        "end": 19.607
+      }
+    ]
+  },
+  "intro-forearm-deep": {
+    "duration": 21.92,
+    "shape": 10.367,
+    "action": 9.864,
+    "meaning": 17.536,
+    "memory": 18.632,
+    "captions": [
+      {
+        "text": "Let's explore Forearm — fingers & rotation!",
+        "start": 0.136,
+        "end": 3.6
+      },
+      {
+        "text": "Compare finger depth, then find the thumb flexor",
+        "start": 3.72,
+        "end": 7.52
+      },
+      {
+        "text": "and palm-up rotator.",
+        "start": 7.62,
+        "end": 10.16
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 10.367,
+        "end": 13.04
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 13.09,
+        "end": 16.92
+      },
+      {
+        "text": "One small group.",
+        "start": 17.49,
+        "end": 18.32
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 18.46,
+        "end": 21.28
+      },
+      {
+        "text": "the lab.",
+        "start": 21.3,
+        "end": 21.92
+      }
+    ]
+  },
+  "intro-forearm-extensors": {
+    "duration": 20.08,
+    "shape": 8.68,
+    "action": 9.036,
+    "meaning": 16.064,
+    "memory": 17.067999999999998,
+    "captions": [
+      {
+        "text": "Let's explore Forearm — wrist & fingers!",
+        "start": 0.204,
+        "end": 3.96
+      },
+      {
+        "text": "Back-of-forearm names tell you wrist side or finger",
+        "start": 4.064,
+        "end": 7.28
+      },
+      {
+        "text": "target.",
+        "start": 7.36,
+        "end": 8.48
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 8.68,
+        "end": 11.44
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 11.49,
+        "end": 14.56
+      },
+      {
+        "text": "One small group.",
+        "start": 15.467,
+        "end": 16.807
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 16.907,
+        "end": 19.287
+      },
+      {
+        "text": "the lab.",
+        "start": 19.307,
+        "end": 20.087
+      }
+    ]
+  },
+  "intro-thumb": {
+    "duration": 17.6,
+    "shape": 6.367,
+    "action": 7.920000000000001,
+    "meaning": 14.080000000000002,
+    "memory": 14.96,
+    "captions": [
+      {
+        "text": "Let's explore Thumb tendons!",
+        "start": 0.136,
+        "end": 2.6
+      },
+      {
+        "text": "One moves away; two straighten the thumb.",
+        "start": 2.69,
+        "end": 5.76
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 6.367,
+        "end": 9.2
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 9.24,
+        "end": 12.16
+      },
+      {
+        "text": "One small group.",
+        "start": 13.17,
+        "end": 14.4
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 14.48,
+        "end": 16.96
+      },
+      {
+        "text": "the lab.",
+        "start": 16.98,
+        "end": 17.6
+      }
+    ]
+  },
+  "intro-hip-surface": {
+    "duration": 20,
+    "shape": 8.51,
+    "action": 9,
+    "meaning": 16,
+    "memory": 17,
+    "captions": [
+      {
+        "text": "Let's explore Hip — surface & layers!",
+        "start": 0.204,
+        "end": 3.36
+      },
+      {
+        "text": "Three gluteal layers and the outer-thigh tension system.",
+        "start": 3.507,
+        "end": 8.319
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 8.51,
+        "end": 11.2
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 11.25,
+        "end": 14.4
+      },
+      {
+        "text": "One small group.",
+        "start": 15.475,
+        "end": 16.76
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 16.83,
+        "end": 19.36
+      },
+      {
+        "text": "the lab.",
+        "start": 19.38,
+        "end": 20
+      }
+    ]
+  },
+  "intro-hip-flexors": {
+    "duration": 19.92,
+    "shape": 8.144,
+    "action": 8.964,
+    "meaning": 15.936000000000002,
+    "memory": 16.932000000000002,
+    "captions": [
+      {
+        "text": "Let's explore Front of the hip!",
+        "start": 0.136,
+        "end": 2.6
+      },
+      {
+        "text": "Two muscles meet to form one powerful hip-flexor",
+        "start": 2.71,
+        "end": 6.56
+      },
+      {
+        "text": "unit.",
+        "start": 6.672,
+        "end": 7.2
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 8.144,
+        "end": 10.644
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 10.704,
+        "end": 14.484
+      },
+      {
+        "text": "One small group.",
+        "start": 15.399,
+        "end": 16.484
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 16.664,
+        "end": 19.204
+      },
+      {
+        "text": "the lab.",
+        "start": 19.224,
+        "end": 19.924
+      }
+    ]
+  },
+  "intro-hip-deep": {
+    "duration": 20.48,
+    "shape": 8.273,
+    "action": 9.216000000000001,
+    "meaning": 16.384,
+    "memory": 17.408,
+    "captions": [
+      {
+        "text": "Let's explore Hip — deep rotators!",
+        "start": 0.21,
+        "end": 2.96
+      },
+      {
+        "text": "Trace the deep stack from the pear-shaped muscle",
+        "start": 3.12,
+        "end": 6.64
+      },
+      {
+        "text": "downward.",
+        "start": 6.711,
+        "end": 8.079
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 8.273,
+        "end": 11.206
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 11.266,
+        "end": 14.646
+      },
+      {
+        "text": "One small group.",
+        "start": 15.641,
+        "end": 16.806
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 16.886,
+        "end": 19.766
+      },
+      {
+        "text": "the lab.",
+        "start": 19.806,
+        "end": 20.486
+      }
+    ]
+  },
+  "intro-adductors": {
+    "duration": 22.56,
+    "shape": 10.447,
+    "action": 10.152,
+    "meaning": 18.048,
+    "memory": 19.176,
+    "captions": [
+      {
+        "text": "Let's explore Inner thigh — adductors!",
+        "start": 0.145,
+        "end": 3.84
+      },
+      {
+        "text": "Comb, short, long, and large: four inner-thigh clues.",
+        "start": 3.952,
+        "end": 9.44
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 10.447,
+        "end": 13.36
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 13.41,
+        "end": 16.64
+      },
+      {
+        "text": "One small group.",
+        "start": 17.89,
+        "end": 18.72
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 18.94,
+        "end": 21.92
+      },
+      {
+        "text": "the lab.",
+        "start": 21.94,
+        "end": 22.56
+      }
+    ]
+  },
+  "intro-hamstrings": {
+    "duration": 23.12,
+    "shape": 10.67,
+    "action": 10.404,
+    "meaning": 18.496000000000002,
+    "memory": 19.652,
+    "captions": [
+      {
+        "text": "Let's explore Posterior thigh — hamstrings!",
+        "start": 0.204,
+        "end": 4.64
+      },
+      {
+        "text": "Outside, cord-like, and broad: three hamstring landmarks.",
+        "start": 4.74,
+        "end": 10.12
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 10.67,
+        "end": 13.52
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 13.57,
+        "end": 17.32
+      },
+      {
+        "text": "One small group.",
+        "start": 18.035,
+        "end": 19.32
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 19.41,
+        "end": 22.4
+      },
+      {
+        "text": "the lab.",
+        "start": 22.42,
+        "end": 23.12
+      }
+    ]
+  },
+  "intro-shin": {
+    "duration": 20.96,
+    "shape": 7.984,
+    "action": 9.432,
+    "meaning": 16.768,
+    "memory": 17.816,
+    "captions": [
+      {
+        "text": "Let's explore Front & outside of the leg!",
+        "start": 0.136,
+        "end": 3.52
+      },
+      {
+        "text": "Separate the shin muscles from the outer-leg pair.",
+        "start": 3.618,
+        "end": 6.8
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 7.984,
+        "end": 11.044
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 11.094,
+        "end": 14.404
+      },
+      {
+        "text": "One small group.",
+        "start": 15.654,
+        "end": 16.564
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 16.784,
+        "end": 20.324
+      },
+      {
+        "text": "the lab.",
+        "start": 20.364,
+        "end": 20.964
+      }
+    ]
+  },
+  "intro-calf": {
+    "duration": 20.16,
+    "shape": 9.247,
+    "action": 9.072000000000001,
+    "meaning": 16.128,
+    "memory": 17.136,
+    "captions": [
+      {
+        "text": "Let's explore Calf & heel!",
+        "start": 0.136,
+        "end": 2.16
+      },
+      {
+        "text": "Two calf layers, a thin tendon, a heel",
+        "start": 2.44,
+        "end": 6.32
+      },
+      {
+        "text": "cord, and a knee unlocker.",
+        "start": 6.4,
+        "end": 8.32
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 9.247,
+        "end": 12.16
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 12.21,
+        "end": 15.12
+      },
+      {
+        "text": "One small group.",
+        "start": 15.875,
+        "end": 17.28
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 17.4,
+        "end": 19.6
+      },
+      {
+        "text": "the lab.",
+        "start": 19.62,
+        "end": 20.16
+      }
+    ]
+  },
+  "intro-leg-deep": {
+    "duration": 19.6,
+    "shape": 8.146,
+    "action": 8.82,
+    "meaning": 15.680000000000001,
+    "memory": 16.66,
+    "captions": [
+      {
+        "text": "Let's explore Deep posterior leg!",
+        "start": 0.136,
+        "end": 2.72
+      },
+      {
+        "text": "Deep muscles for the arch, small toes, and",
+        "start": 2.896,
+        "end": 6.72
+      },
+      {
+        "text": "big toe.",
+        "start": 6.78,
+        "end": 7.999
+      },
+      {
+        "text": "Watch the focus marker, follow the shape, and",
+        "start": 8.146,
+        "end": 10.806
+      },
+      {
+        "text": "connect each name to its location and action.",
+        "start": 10.866,
+        "end": 13.926
+      },
+      {
+        "text": "One small group.",
+        "start": 14.856,
+        "end": 16.126
+      },
+      {
+        "text": "One more step toward knowing your way around",
+        "start": 16.216,
+        "end": 18.966
+      },
+      {
+        "text": "the lab.",
+        "start": 18.986,
+        "end": 19.606
+      }
+    ]
   }
 }
