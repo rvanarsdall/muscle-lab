@@ -51,7 +51,9 @@
     "maskPixels": 14264,
     "width": 474,
     "height": 600,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": false,
+    "overviewNote": "Whole scalp unit: frontalis and occipitalis joined by the epicranial aponeurosis. The aponeurosis is connective tissue. A pin on the forehead belly asks for frontalis. This overview is not a single-pin quiz station."
   },
   {
     "id": "frontalis",
@@ -101,7 +103,9 @@
     "maskPixels": 17424,
     "width": 474,
     "height": 600,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "occipitalis",
@@ -151,7 +155,9 @@
     "maskPixels": 21444,
     "width": 474,
     "height": 600,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "epicranial-aponeurosis",
@@ -213,7 +219,9 @@
       "galea aponeurotica",
       "galea aponeurosis",
       "epicranial galea aponeurosis"
-    ]
+    ],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "corrugator-supercilii",
@@ -263,7 +271,9 @@
     "maskPixels": 43,
     "width": 474,
     "height": 600,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "orbicularis-oculi",
@@ -313,7 +323,9 @@
     "maskPixels": 1897,
     "width": 548,
     "height": 668,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "nasalis",
@@ -359,7 +371,9 @@
     "maskPixels": 263,
     "width": 530,
     "height": 656,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "procerus",
@@ -401,7 +415,9 @@
     "maskPixels": 12656,
     "width": 800,
     "height": 600,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "buccinator",
@@ -451,7 +467,9 @@
     "maskPixels": 0,
     "width": 600,
     "height": 600,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "risorius",
@@ -493,7 +511,9 @@
     "maskPixels": 156,
     "width": 600,
     "height": 600,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "zygomaticus-major",
@@ -547,7 +567,9 @@
     "maskPixels": 971,
     "width": 467,
     "height": 560,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "zygomaticus-minor",
@@ -601,7 +623,9 @@
     "maskPixels": 501,
     "width": 514,
     "height": 622,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "orbicularis-oris",
@@ -655,7 +679,9 @@
     "maskPixels": 988,
     "width": 535,
     "height": 656,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "depressor-anguli-oris",
@@ -713,7 +739,9 @@
     "maskPixels": 480,
     "width": 554,
     "height": 669,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "depressor-labii-inferioris",
@@ -767,7 +795,9 @@
     "maskPixels": 470,
     "width": 517,
     "height": 635,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "levator-labii-superioris",
@@ -821,7 +851,9 @@
     "maskPixels": 600,
     "width": 513,
     "height": 629,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "mentalis",
@@ -871,7 +903,9 @@
     "maskPixels": 71,
     "width": 600,
     "height": 600,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "masseter",
@@ -917,7 +951,9 @@
     "maskPixels": 654,
     "width": 600,
     "height": 600,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "temporalis",
@@ -959,7 +995,9 @@
     "maskPixels": 15256,
     "width": 647,
     "height": 628,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "lateral-pterygoid",
@@ -1013,7 +1051,9 @@
     "maskPixels": 422,
     "width": 649,
     "height": 628,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "medial-pterygoid",
@@ -1067,7 +1107,9 @@
     "maskPixels": 0,
     "width": 643,
     "height": 627,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "digastric",
@@ -1129,7 +1171,9 @@
     "maskPixels": 387,
     "width": 600,
     "height": 600,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": false,
+    "overviewNote": "Whole two-belly muscle: anterior and posterior bellies joined by an intermediate tendon. Pin quizzes ask for the specific belly indicated; this overview is not a separate station."
   },
   {
     "id": "anterior-belly-of-digastric",
@@ -1195,7 +1239,9 @@
       "digastric anterior belly",
       "anterior digastric",
       "anterior belly of the digastric"
-    ]
+    ],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "posterior-belly-of-digastric",
@@ -1261,7 +1307,9 @@
       "digastric posterior belly",
       "posterior digastric",
       "posterior belly of the digastric"
-    ]
+    ],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "mylohyoid",
@@ -1307,7 +1355,9 @@
     "maskPixels": 481,
     "width": 600,
     "height": 600,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "stylohyoid",
@@ -1353,7 +1403,9 @@
     "maskPixels": 406,
     "width": 600,
     "height": 600,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "sternocleidomastoid",
@@ -1411,7 +1463,9 @@
     "maskPixels": 4393,
     "width": 495,
     "height": 692,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "omohyoid",
@@ -1461,7 +1515,9 @@
     "maskPixels": 6210,
     "width": 524,
     "height": 700,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "platysma",
@@ -1499,7 +1555,9 @@
     "maskPixels": 1020,
     "width": 538,
     "height": 688,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "levator-scapulae",
@@ -1545,7 +1603,9 @@
     "maskPixels": 222,
     "width": 275,
     "height": 673,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "rhomboideus-major",
@@ -1597,7 +1657,9 @@
     "height": 672,
     "aliases": [
       "rhomboid major"
-    ]
+    ],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "rhomboideus-minor",
@@ -1649,7 +1711,9 @@
     "height": 675,
     "aliases": [
       "rhomboid minor"
-    ]
+    ],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "pectoralis-minor",
@@ -1695,7 +1759,9 @@
     "maskPixels": 923,
     "width": 609,
     "height": 610,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "serratus-anterior",
@@ -1753,7 +1819,9 @@
     "maskPixels": 578,
     "width": 435,
     "height": 620,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "trapezius",
@@ -1799,7 +1867,9 @@
     "maskPixels": 8414,
     "width": 380,
     "height": 600,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "external-abdominal-oblique",
@@ -1853,7 +1923,9 @@
     "maskPixels": 3167,
     "width": 569,
     "height": 571,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "internal-abdominal-oblique",
@@ -1895,7 +1967,9 @@
     "maskPixels": 1139,
     "width": 563,
     "height": 581,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "transverse-abdominis",
@@ -1939,7 +2013,9 @@
     "height": 623,
     "aliases": [
       "transversus abdominis"
-    ]
+    ],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "rectus-abdominis",
@@ -1985,7 +2061,9 @@
     "maskPixels": 1250,
     "width": 553,
     "height": 552,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "linea-alba",
@@ -2027,7 +2105,9 @@
     "maskPixels": 0,
     "width": 548,
     "height": 668,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "inguinal-ligament",
@@ -2073,7 +2153,9 @@
     "maskPixels": 0,
     "width": 454,
     "height": 627,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "quadratus-lumborum",
@@ -2119,7 +2201,9 @@
     "maskPixels": 79,
     "width": 520,
     "height": 665,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "erector-spinae",
@@ -2176,7 +2260,9 @@
     "aliases": [
       "sacrospinalis",
       "sacrospinalis erector spinae"
-    ]
+    ],
+    "quizEligible": false,
+    "overviewNote": "Whole muscle group: iliocostalis, longissimus, and spinalis. Pin quizzes ask for the individual column; this overview is not a separate station."
   },
   {
     "id": "iliocostalis",
@@ -2230,7 +2316,9 @@
     "maskPixels": 915,
     "width": 371,
     "height": 700,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "longissimus",
@@ -2280,7 +2368,9 @@
     "maskPixels": 858,
     "width": 371,
     "height": 700,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "spinalis",
@@ -2330,7 +2420,9 @@
     "maskPixels": 918,
     "width": 371,
     "height": 700,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "coracobrachialis",
@@ -2380,7 +2472,9 @@
     "maskPixels": 1160,
     "width": 450,
     "height": 600,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "deltoid",
@@ -2426,7 +2520,9 @@
     "maskPixels": 5191,
     "width": 450,
     "height": 600,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "latissimus-dorsi",
@@ -2476,7 +2572,9 @@
     "maskPixels": 3961,
     "width": 380,
     "height": 600,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "pectoralis-major",
@@ -2518,7 +2616,9 @@
     "maskPixels": 15073,
     "width": 450,
     "height": 600,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "teres-major",
@@ -2564,7 +2664,9 @@
     "maskPixels": 26,
     "width": 288,
     "height": 680,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "supraspinatus",
@@ -2606,7 +2708,9 @@
     "maskPixels": 188,
     "width": 283,
     "height": 670,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "infraspinatus",
@@ -2648,7 +2752,9 @@
     "maskPixels": 149,
     "width": 274,
     "height": 676,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "teres-minor",
@@ -2690,7 +2796,9 @@
     "maskPixels": 242,
     "width": 291,
     "height": 682,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "subscapularis",
@@ -2732,7 +2840,9 @@
     "maskPixels": 2961,
     "width": 600,
     "height": 581,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "biceps-brachii",
@@ -2790,7 +2900,9 @@
     "maskPixels": 4698,
     "width": 450,
     "height": 600,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "brachialis",
@@ -2836,7 +2948,9 @@
     "maskPixels": 1164,
     "width": 450,
     "height": 600,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "brachioradialis",
@@ -2890,7 +3004,9 @@
     "maskPixels": 1760,
     "width": 450,
     "height": 600,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "triceps-brachii",
@@ -2944,7 +3060,9 @@
     "maskPixels": 2023,
     "width": 593,
     "height": 693,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "flexor-carpi-ulnaris",
@@ -2998,7 +3116,9 @@
     "maskPixels": 288,
     "width": 591,
     "height": 667,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "flexor-carpi-radialis",
@@ -3048,7 +3168,9 @@
     "maskPixels": 246,
     "width": 610,
     "height": 659,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "palmaris-longus",
@@ -3090,7 +3212,9 @@
     "maskPixels": 2368,
     "width": 195,
     "height": 600,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "pronator-teres",
@@ -3140,7 +3264,9 @@
     "maskPixels": 812,
     "width": 400,
     "height": 694,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "flexor-digitorum-superficialis",
@@ -3194,7 +3320,9 @@
     "maskPixels": 341,
     "width": 611,
     "height": 666,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "flexor-digitorum-profundus",
@@ -3240,7 +3368,9 @@
     "maskPixels": 357,
     "width": 268,
     "height": 632,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "flexor-pollicis-longus",
@@ -3286,7 +3416,9 @@
     "maskPixels": 357,
     "width": 273,
     "height": 632,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "supinator",
@@ -3328,7 +3460,9 @@
     "maskPixels": 314,
     "width": 368,
     "height": 667,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "extensor-carpi-radialis-longus",
@@ -3378,7 +3512,9 @@
     "maskPixels": 372,
     "width": 410,
     "height": 654,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "extensor-carpi-radialis-brevis",
@@ -3428,7 +3564,9 @@
     "maskPixels": 479,
     "width": 450,
     "height": 600,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "extensor-carpi-ulnaris",
@@ -3478,7 +3616,9 @@
     "maskPixels": 1250,
     "width": 430,
     "height": 668,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "extensor-digitorum",
@@ -3520,7 +3660,9 @@
     "maskPixels": 2469,
     "width": 431,
     "height": 681,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "extensor-digiti-minimi",
@@ -3566,7 +3708,9 @@
     "maskPixels": 892,
     "width": 406,
     "height": 681,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "extensor-indicis",
@@ -3610,7 +3754,9 @@
     "height": 700,
     "aliases": [
       "extensor indices"
-    ]
+    ],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "abductor-pollicis-longus",
@@ -3660,7 +3806,9 @@
     "maskPixels": 492,
     "width": 398,
     "height": 673,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "extensor-pollicis-brevis",
@@ -3710,7 +3858,9 @@
     "maskPixels": 339,
     "width": 446,
     "height": 667,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "extensor-pollicis-longus",
@@ -3760,7 +3910,9 @@
     "maskPixels": 0,
     "width": 370,
     "height": 662,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "gluteus-maximus",
@@ -3802,7 +3954,9 @@
     "maskPixels": 22604,
     "width": 407,
     "height": 671,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "gluteus-medius",
@@ -3848,7 +4002,9 @@
     "maskPixels": 7413,
     "width": 391,
     "height": 674,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "gluteus-minimus",
@@ -3894,7 +4050,9 @@
     "maskPixels": 1247,
     "width": 394,
     "height": 664,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "tensor-fascia-latae",
@@ -3942,7 +4100,9 @@
     "height": 690,
     "aliases": [
       "tensor fasciae latae"
-    ]
+    ],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "iliotibial-band",
@@ -3988,7 +4148,9 @@
     "maskPixels": 0,
     "width": 537,
     "height": 690,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "iliopsoas",
@@ -4046,7 +4208,9 @@
     "maskPixels": 810,
     "width": 273,
     "height": 654,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": false,
+    "overviewNote": "Combined hip-flexor unit: iliacus plus psoas major. Pin quizzes ask for the individual muscle indicated; this overview is not a separate station."
   },
   {
     "id": "iliacus",
@@ -4100,7 +4264,9 @@
     "maskPixels": 822,
     "width": 339,
     "height": 653,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "psoas-major",
@@ -4158,7 +4324,9 @@
     "maskPixels": 480,
     "width": 369,
     "height": 649,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "piriformis",
@@ -4200,7 +4368,9 @@
     "maskPixels": 3208,
     "width": 404,
     "height": 668,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "superior-gemellus",
@@ -4237,7 +4407,9 @@
     "maskPixels": 27083,
     "width": 393,
     "height": 586,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "obturator-internus",
@@ -4274,7 +4446,9 @@
     "maskPixels": 27157,
     "width": 393,
     "height": 586,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "inferior-gemellus",
@@ -4311,7 +4485,9 @@
     "maskPixels": 27166,
     "width": 393,
     "height": 586,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "quadratus-femoris",
@@ -4348,7 +4524,9 @@
     "maskPixels": 27141,
     "width": 393,
     "height": 586,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "pectineus",
@@ -4390,7 +4568,9 @@
     "maskPixels": 156,
     "width": 529,
     "height": 690,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "adductor-brevis",
@@ -4436,7 +4616,9 @@
     "maskPixels": 31,
     "width": 509,
     "height": 690,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "adductor-longus",
@@ -4486,7 +4668,9 @@
     "maskPixels": 325,
     "width": 505,
     "height": 690,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "adductor-magnus",
@@ -4528,7 +4712,9 @@
     "maskPixels": 754,
     "width": 183,
     "height": 637,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "biceps-femoris",
@@ -4586,7 +4772,9 @@
     "maskPixels": 2734,
     "width": 193,
     "height": 680,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "semitendinosus",
@@ -4640,7 +4828,9 @@
     "maskPixels": 1753,
     "width": 191,
     "height": 680,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "semimembranosus",
@@ -4694,7 +4884,9 @@
     "maskPixels": 209,
     "width": 200,
     "height": 680,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "tibialis-anterior",
@@ -4736,7 +4928,9 @@
     "maskPixels": 1516,
     "width": 473,
     "height": 680,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "extensor-digitorum-longus",
@@ -4782,7 +4976,9 @@
     "maskPixels": 778,
     "width": 625,
     "height": 722,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "extensor-hallucis-longus",
@@ -4828,7 +5024,9 @@
     "maskPixels": 237,
     "width": 504,
     "height": 722,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "fibularis-tertius",
@@ -4880,7 +5078,9 @@
     "height": 663,
     "aliases": [
       "peroneus tertius"
-    ]
+    ],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "fibularis-longus",
@@ -4932,7 +5132,9 @@
     "height": 651,
     "aliases": [
       "peroneus longus"
-    ]
+    ],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "fibularis-brevis",
@@ -4984,7 +5186,9 @@
     "height": 647,
     "aliases": [
       "peroneus brevis"
-    ]
+    ],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "gastrocnemius",
@@ -5034,7 +5238,9 @@
     "maskPixels": 4748,
     "width": 190,
     "height": 685,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "soleus",
@@ -5072,7 +5278,9 @@
     "maskPixels": 3251,
     "width": 198,
     "height": 685,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "plantaris",
@@ -5114,7 +5322,9 @@
     "maskPixels": 222,
     "width": 207,
     "height": 685,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "tendo-calcaneus",
@@ -5160,7 +5370,9 @@
       "Achilles tendon",
       "calcaneal tendon",
       "tendo calcaneous"
-    ]
+    ],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "popliteus",
@@ -5198,7 +5410,9 @@
     "maskPixels": 246,
     "width": 180,
     "height": 685,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "tibialis-posterior",
@@ -5248,7 +5462,9 @@
     "maskPixels": 1159,
     "width": 248,
     "height": 642,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "flexor-digitorum-longus",
@@ -5302,7 +5518,9 @@
     "maskPixels": 554,
     "width": 239,
     "height": 640,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   },
   {
     "id": "flexor-hallucis-longus",
@@ -5356,6 +5574,8 @@
     "maskPixels": 533,
     "width": 189,
     "height": 636,
-    "aliases": []
+    "aliases": [],
+    "quizEligible": true,
+    "overviewNote": ""
   }
 ]

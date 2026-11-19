@@ -2,9 +2,9 @@
 
 Source: [BYU–Idaho Exam 3 checklist](https://content.byui.edu/file/b02a5ea8-b24f-4ee9-a90a-0e775347d747/1/Exam%203%20List%20of%20Terms.pdf).
 
-Each listed individual structure has a lesson, voice track, numbered target, recognition round and spelling round. Parent group terms (rotator cuff, hamstrings and quadriceps femoris) are taught through their group summaries and component muscles. Repeated pectoralis major is taught once. Standard anatomical spellings replace typographical errors in the old checklist; accepted synonyms are in curriculum.json.
+Each listed structure has a lesson and voice track. Individual pin targets have recognition and spelling rounds. Parent group terms (rotator cuff, hamstrings and quadriceps femoris) are taught through their group summaries and component muscles. Repeated pectoralis major is taught once. Standard anatomical spellings replace typographical errors in the old checklist; accepted synonyms are in curriculum.json.
 
-The site contains 116 individual targets in 26 groups. Scalenes, intercostals, levator anguli oris, anconeus and pronator quadratus appear in the online menus but not this Exam 3 checklist and are outside this release.
+The site contains 116 lessons in 26 groups, with 112 individual pin targets. Occipitofrontalis, digastric, erector spinae, and iliopsoas are retained as combined-unit overviews rather than single-pin quiz stations; their individual components remain quiz targets. Scalenes, intercostals, levator anguli oris, anconeus and pronator quadratus appear in the online menus but not this Exam 3 checklist and are outside this release.
 
 | Week | Group | Terms |
 |---|---|---|

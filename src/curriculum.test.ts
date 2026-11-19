@@ -22,3 +22,15 @@ test('the published Exam 3 checklist is covered, including named parts and old s
  const all=[...muscles,...extra];
  for(const name of checklist){if(collective.includes(name))continue;assert.ok(all.some(target=>gradeSpelling(name,target).correct),name);}
 });
+
+test('combined-unit overviews never become single-pin quiz stations',async()=>{
+ const {pinTargets}=await import('./quizTargets.ts');
+ const all=[...muscles,...extra];const quiz=pinTargets(all);const excluded=all.filter(m=>m.quizEligible===false).map(m=>m.id).sort();
+ assert.deepEqual(excluded,['digastric','erector-spinae','iliopsoas','occipitofrontalis']);
+ assert.equal(quiz.length,112);
+ const scalp=groups.find((g:{id:string})=>g.id==='scalp');
+ const scalpPins=pinTargets(scalp.ids.map((id:string)=>all.find(m=>m.id===id)!));
+ assert.deepEqual(scalpPins.map(m=>m.id),['frontalis','occipitalis','epicranial-aponeurosis']);
+ assert.equal(scalpPins.filter(m=>m.pin[0]===70&&m.pin[1]===18).length,1);
+ for(const id of ['occipitofrontalis','digastric','erector-spinae','iliopsoas']){assert.ok(extra.find((m:{id:string})=>m.id===id).overviewNote);assert.ok(all.some(m=>m.id===id));assert.ok(!quiz.some(m=>m.id===id));}
+});
