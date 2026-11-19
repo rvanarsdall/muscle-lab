@@ -42,3 +42,15 @@ Anatomy location reference: https://openstax.org/books/anatomy-and-physiology/pa
 Course source: https://content.byui.edu/file/dc5a9585-91a1-40dd-b73e-0d17e0ba9594/1/leg-muscles-lab/index.html
 
 The course filename `Vastus Medius Anterior.png` supplies the vastus medialis illustration; display text uses the anatomical name. Pin locations were visually checked against all six source images. Highlighted illustrations provide scaffolded identification, not a realistic cadaver practical. No generated anatomy is used.
+
+## Animated tour revision
+
+The six approved scripts now teach identity, location, recognition, action and word meaning in that order. The BYU–Idaho written introduction is the course reference: https://content.byui.edu/file/dc5a9585-91a1-40dd-b73e-0d17e0ba9594/1/leg-muscles-lab/Pages/10_1_1_intro_legs.html. `src/muscleDetails.ts` records a plain-language course cross-check for each muscle and the additional movement/name explanations.
+
+`generate-audio.mjs` uses ElevenLabs' timestamped TTS response. `measure-audio.mjs` measures the resulting files and derives caption and scene-change timing; run it after regenerating audio. `src/timing/` holds character alignment; `tour-timing.json` holds runtime captions and phase starts. No credentials appear in these files.
+
+`MemoryTour.tsx` animates source-image focus outlines, arrows, close-ups, simplified movement sketches, name breakdowns, and a comparison with a second illustration. Outlines are instructional focus regions, not exact muscle segmentations. Movement sketches show one action, not a full biomechanical model. Reduced motion and chapter buttons are provided.
+
+Additional images: Henry Vandyke Carter's public-domain Gray's Anatomy drawings, retrieved from Wikimedia Commons after image search. Original images are retained unmodified; overlays are separate. The gallery and `public/reference/ATTRIBUTION.md` link their source and reuse information. These are illustrations, not specimen photographs.
+
+Watch & Listen offers 0.85×, 1×, 1.25×, 1.5×, 1.75× and 2× tour playback. The selected rate is remembered on the device. Remotion's Player playbackRate drives audio and frames together so captions and annotations remain synchronized.

@@ -1,0 +1,450 @@
+{
+  "intro": {
+    "duration": 26.64,
+    "shape": 5.067,
+    "action": 17.733,
+    "meaning": 11.48,
+    "memory": 22.644,
+    "captions": [
+      {
+        "text": "Let us explore six muscles on the front",
+        "start": 0.21,
+        "end": 3.2
+      },
+      {
+        "text": "and inside of the thigh.",
+        "start": 3.3,
+        "end": 4.801
+      },
+      {
+        "text": "Watch the outline trace each muscle, follow the",
+        "start": 5.067,
+        "end": 9.36
+      },
+      {
+        "text": "arrows, and connect the shape to its name.",
+        "start": 9.429,
+        "end": 12.08
+      },
+      {
+        "text": "We will show where it is, how to",
+        "start": 12.48,
+        "end": 15.36
+      },
+      {
+        "text": "recognize it, what movement it helps produce, and",
+        "start": 15.416,
+        "end": 19.36
+      },
+      {
+        "text": "what its name means.",
+        "start": 19.408,
+        "end": 20.72
+      },
+      {
+        "text": "Same muscle, different pictures.",
+        "start": 20.96,
+        "end": 23.92
+      },
+      {
+        "text": "Let us get started.",
+        "start": 24.16,
+        "end": 25.76
+      }
+    ]
+  },
+  "rectus": {
+    "duration": 34.24,
+    "shape": 10.32,
+    "action": 17.707,
+    "meaning": 22.04,
+    "memory": 28.704,
+    "captions": [
+      {
+        "text": "This is the rectus femoris, one of the",
+        "start": 0.144,
+        "end": 2.56
+      },
+      {
+        "text": "four quadriceps muscles on the front of your",
+        "start": 2.624,
+        "end": 5.44
+      },
+      {
+        "text": "thigh.",
+        "start": 5.507,
+        "end": 6.36
+      },
+      {
+        "text": "It runs from the front of your pelvis",
+        "start": 6.533,
+        "end": 8.56
+      },
+      {
+        "text": "toward your kneecap.",
+        "start": 8.64,
+        "end": 10
+      },
+      {
+        "text": "To identify it, look for the long, central",
+        "start": 10.32,
+        "end": 13.6
+      },
+      {
+        "text": "muscle running mostly straight down the front of",
+        "start": 13.669,
+        "end": 16.56
+      },
+      {
+        "text": "the thigh.",
+        "start": 16.6,
+        "end": 17.44
+      },
+      {
+        "text": "It helps straighten your knee and lift your",
+        "start": 17.707,
+        "end": 20.4
+      },
+      {
+        "text": "thigh at the hip.",
+        "start": 20.467,
+        "end": 21.6
+      },
+      {
+        "text": "“Rectus” means straight, and “femoris” means of the",
+        "start": 22.04,
+        "end": 26.72
+      },
+      {
+        "text": "thigh.",
+        "start": 26.8,
+        "end": 27.52
+      },
+      {
+        "text": "Your memory cue: straight down the front of",
+        "start": 28.704,
+        "end": 31.44
+      },
+      {
+        "text": "the thigh—rectus femoris.",
+        "start": 31.46,
+        "end": 34.24
+      }
+    ]
+  },
+  "lateralis": {
+    "duration": 31.76,
+    "shape": 6.56,
+    "action": 12.747,
+    "meaning": 17.28,
+    "memory": 26.186,
+    "captions": [
+      {
+        "text": "This is the vastus lateralis, a large quadriceps",
+        "start": 0.202,
+        "end": 3.84
+      },
+      {
+        "text": "muscle on the outside of your thigh.",
+        "start": 3.897,
+        "end": 6.44
+      },
+      {
+        "text": "Look for the broad muscle along the outer",
+        "start": 6.56,
+        "end": 9.36
+      },
+      {
+        "text": "edge of the front thigh, extending toward the",
+        "start": 9.424,
+        "end": 11.92
+      },
+      {
+        "text": "knee.",
+        "start": 11.984,
+        "end": 12.56
+      },
+      {
+        "text": "It helps straighten your knee, like when you",
+        "start": 12.747,
+        "end": 15.2
+      },
+      {
+        "text": "kick your lower leg forward.",
+        "start": 15.264,
+        "end": 16.88
+      },
+      {
+        "text": "“Vastus” means large, and “lateralis” means toward the",
+        "start": 17.28,
+        "end": 22.32
+      },
+      {
+        "text": "side, away from the body’s midline.",
+        "start": 22.432,
+        "end": 24.96
+      },
+      {
+        "text": "Your memory cue: the large muscle on the",
+        "start": 26.186,
+        "end": 28.65
+      },
+      {
+        "text": "outside—vastus lateralis.",
+        "start": 28.73,
+        "end": 31.77
+      }
+    ]
+  },
+  "medialis": {
+    "duration": 31.04,
+    "shape": 5.48,
+    "action": 11.52,
+    "meaning": 13.6,
+    "memory": 25.024,
+    "captions": [
+      {
+        "text": "This is the vastus medialis, a quadriceps muscle",
+        "start": 0.134,
+        "end": 3.28
+      },
+      {
+        "text": "on the inner side of the front thigh.",
+        "start": 3.387,
+        "end": 5.2
+      },
+      {
+        "text": "Its easiest landmark is the teardrop-shaped bulge just",
+        "start": 5.48,
+        "end": 9.6
+      },
+      {
+        "text": "above the inside of your knee.",
+        "start": 9.653,
+        "end": 11.28
+      },
+      {
+        "text": "It helps straighten your knee.",
+        "start": 11.52,
+        "end": 13.2
+      },
+      {
+        "text": "“Vastus” means large, and “medialis” means toward the",
+        "start": 13.6,
+        "end": 18.08
+      },
+      {
+        "text": "body’s midline—the imaginary line dividing your body into",
+        "start": 18.144,
+        "end": 22.08
+      },
+      {
+        "text": "left and right halves.",
+        "start": 22.144,
+        "end": 23.44
+      },
+      {
+        "text": "Your memory cue: inner knee, teardrop shape—vastus medialis.",
+        "start": 25.024,
+        "end": 31.04
+      }
+    ]
+  },
+  "intermedius": {
+    "duration": 36.16,
+    "shape": 8.907,
+    "action": 17.36,
+    "meaning": 19.8,
+    "memory": 31.024,
+    "captions": [
+      {
+        "text": "This is the vastus intermedius, a deep quadriceps",
+        "start": 0.336,
+        "end": 4.72
+      },
+      {
+        "text": "muscle on the front of your thigh, close",
+        "start": 4.789,
+        "end": 7.2
+      },
+      {
+        "text": "to the thigh bone.",
+        "start": 7.253,
+        "end": 8.88
+      },
+      {
+        "text": "To identify it, check the layer: it becomes",
+        "start": 8.907,
+        "end": 12.16
+      },
+      {
+        "text": "visible when the muscle covering the center of",
+        "start": 12.22,
+        "end": 14.8
+      },
+      {
+        "text": "the front thigh is lifted away.",
+        "start": 14.82,
+        "end": 17.2
+      },
+      {
+        "text": "It helps straighten your knee.",
+        "start": 17.36,
+        "end": 19.52
+      },
+      {
+        "text": "“Vastus” means large, and “intermedius” means in between,",
+        "start": 19.8,
+        "end": 25.28
+      },
+      {
+        "text": "describing its position between the inner and outer",
+        "start": 25.331,
+        "end": 28.16
+      },
+      {
+        "text": "quadriceps muscles.",
+        "start": 28.24,
+        "end": 29.68
+      },
+      {
+        "text": "Your memory cue: deep in the middle—vastus intermedius.",
+        "start": 31.024,
+        "end": 36.16
+      }
+    ]
+  },
+  "sartorius": {
+    "duration": 42.32,
+    "shape": 7.086,
+    "action": 21.04,
+    "meaning": 30.24,
+    "memory": 37.982,
+    "captions": [
+      {
+        "text": "This is the sartorius, a long, narrow muscle",
+        "start": 0.336,
+        "end": 4.64
+      },
+      {
+        "text": "crossing the front of your thigh.",
+        "start": 4.747,
+        "end": 6.88
+      },
+      {
+        "text": "Follow its diagonal path from the outer front",
+        "start": 7.086,
+        "end": 11.2
+      },
+      {
+        "text": "of your hip to the inner side of",
+        "start": 11.253,
+        "end": 13.84
+      },
+      {
+        "text": "your shin, just below the knee.",
+        "start": 13.872,
+        "end": 16.08
+      },
+      {
+        "text": "That diagonal strap is its identifying feature.",
+        "start": 16.368,
+        "end": 20.72
+      },
+      {
+        "text": "It helps lift your thigh, move and turn",
+        "start": 21.04,
+        "end": 24.56
+      },
+      {
+        "text": "it outward, and bend your knee—movements used when",
+        "start": 24.587,
+        "end": 28.64
+      },
+      {
+        "text": "sitting cross-legged.",
+        "start": 28.69,
+        "end": 29.92
+      },
+      {
+        "text": "Its name comes from the Latin word for",
+        "start": 30.24,
+        "end": 33.04
+      },
+      {
+        "text": "tailor, associated with that sitting position.",
+        "start": 33.131,
+        "end": 37
+      },
+      {
+        "text": "Your memory cue: the diagonal seat belt—sartorius.",
+        "start": 37.982,
+        "end": 42.323
+      }
+    ]
+  },
+  "gracilis": {
+    "duration": 31.12,
+    "shape": 10.347,
+    "action": 17.733,
+    "meaning": 22.76,
+    "memory": 26.224,
+    "captions": [
+      {
+        "text": "This is the gracilis, a long, slender muscle",
+        "start": 0.272,
+        "end": 3.52
+      },
+      {
+        "text": "along the inside of your thigh.",
+        "start": 3.573,
+        "end": 5.92
+      },
+      {
+        "text": "It runs from the lower pelvis to the",
+        "start": 5.947,
+        "end": 7.84
+      },
+      {
+        "text": "inner shin, just below the knee.",
+        "start": 7.88,
+        "end": 10.2
+      },
+      {
+        "text": "To identify it, look for a narrow strap",
+        "start": 10.347,
+        "end": 13.04
+      },
+      {
+        "text": "following the inner edge of the thigh, with",
+        "start": 13.104,
+        "end": 15.6
+      },
+      {
+        "text": "a mostly vertical course.",
+        "start": 15.64,
+        "end": 17.6
+      },
+      {
+        "text": "It helps pull your thigh inward toward your",
+        "start": 17.733,
+        "end": 20.32
+      },
+      {
+        "text": "other leg and bend your knee.",
+        "start": 20.36,
+        "end": 22.32
+      },
+      {
+        "text": "“Gracilis” means slender.",
+        "start": 22.76,
+        "end": 25.28
+      },
+      {
+        "text": "Your memory cue: the slender inner-thigh strap—gracilis.",
+        "start": 26.224,
+        "end": 31.12
+      }
+    ]
+  }
+}
