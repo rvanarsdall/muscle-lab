@@ -4,7 +4,7 @@ import {muscles,courseUrl,videoUrl} from './content';
 import type {Muscle} from './content';
 import {isCorrect,shuffle,loadProgress,recordAnswer} from './quiz';
 const WatchPane=lazy(()=>import('./WatchPane'));
-const asset=(id:string)=>`${import.meta.env.BASE_URL}audio/${id}.mp3`;
+const asset=(id:string)=>`${import.meta.env.BASE_URL}audio/${id}.mp3?v=2`;
 const clean=(text:string)=>text.replace(/\[[^\]]*\]/g,'').replace(/\s+/g,' ').trim();
 type Mode='learn'|'challenge'|'watch';
 type Attempt={id:string;answer:string;correct:boolean;assisted:boolean};
