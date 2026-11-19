@@ -58,3 +58,13 @@ Watch & Listen offers 0.85×, 1×, 1.25×, 1.5×, 1.75× and 2× tour playback. 
 The six course-model outlines and arrow points were recalculated from the colored muscle pixels in each original image. Actual source dimensions are used, including the 546 × 690 sartorius illustration. This corrects the previously offset diagonal-strap outline. All native dropdowns use one inset SVG chevron with reserved text spacing.
 
 Pitch preservation is explicitly enabled both on Remotion Player (for the selected viewing speed) and each Audio clip, including the native-audio fallback. This avoids the default pitch increase at 1.5× or 2×. Reference: https://www.remotion.dev/docs/player/player#preservepitch
+
+## Presentation order
+
+Learn the landmarks, Watch & Listen, and pin-round setup each offer **In order / Shuffle**. Ordered mode follows the original six-muscle presentation. Shuffling keeps every muscle exactly once, and **Shuffle again** always changes the current sequence. The overview remains first in the tour; chapter buttons, narration, captions and muscle numbering follow the selected muscle order. Changing tour order pauses playback and restarts the reordered tour. Speed and pitch preservation remain active. Single-muscle review rounds remain valid.
+
+## Hosting and mobile playback
+
+Canonical repository: https://github.com/rvanarsdall/muscle-lab. GitHub Pages is deployed by `.github/workflows/pages.yml`; enable GitHub Actions as the Pages publishing source. The earlier ChatGPT Sites pilot can remain available during migration.
+
+**Expand lesson** opens a screen-filling player overlay that also works when a phone browser does not support native element fullscreen. The overlay keeps speed controls available, supports Escape/Close, and keeps keyboard focus inside while open. Turning the phone sideways gives a larger landscape view.
