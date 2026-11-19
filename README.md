@@ -27,7 +27,7 @@ Audio generation is an offline authoring operation. `scripts/generate-audio.mjs`
 
 ## Learning behavior
 
-Practice gives feedback and optional landmarks. Correct answers with a hint do not count as unaided recall. Rehearsal withholds feedback and progress updates until the end. Optional 30-second stations record an unanswered question as a miss. Full names are required; capitalization, punctuation and spacing are ignored. Spelling is strict. Missed or assisted answers can be rematched.
+Practice gives feedback and optional landmarks. Correct answers with a hint do not count as unaided recall. Rehearsal withholds feedback and progress updates until the end. Optional 30-second stations record an unanswered question as a miss. Answers are selected from a dropdown containing all six muscle names; spelling is not tested. The learner can choose “I’m not sure yet.” Missed or assisted answers can be rematched.
 
 Progress is stored only in localStorage on the current browser/device, without accounts or microphone recording. Storage failure falls back to session state. Previously missed items remain eligible for review even after later successes; this is a conservative review queue, not a spaced repetition algorithm or mastery assessment.
 
