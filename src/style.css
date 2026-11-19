@@ -13,3 +13,18 @@
 .answer-panel select{display:block;width:100%;padding:15px 38px 15px 14px;border:1px solid #a9bdd5;border-radius:8px;background:#fff;color:#002e5d;font-size:16px;margin-bottom:15px;min-height:52px;appearance:auto}.hero h1 span{color:#003da5}.eyebrow{color:#496786}.memory-hook p{color:#234c7b}.mission-icon{color:#003da5}.sidebar nav button.active{color:#002e5d;background:#fff}.primary:hover{background:#003da5}.tab-number.done{background:#d6e6f8;color:#002e5d}
 .movement-note p{font-size:16px;line-height:1.6;color:#405f80;margin-top:8px}.course-note{font-size:14px;color:#496786;border:1px solid #d5e0f2;padding:14px;border-radius:9px;background:#fff}.course-note summary{cursor:pointer;font-weight:600}.course-note p{margin:12px 0}.course-note a{display:inline-flex;align-items:center;gap:7px;font-size:13px;text-decoration:underline}.tour-chapters{display:flex;gap:8px;overflow:auto;padding:4px 0 15px;margin-top:16px}.tour-chapters button{white-space:nowrap;flex-shrink:0;border:1px solid #c6d8ee;border-radius:7px;padding:10px 12px;background:#edf3fb;color:#002e5d;font-size:14px}.tour-chapters button:hover{background:#d6e6f8}.tour-options{display:flex;justify-content:space-between;align-items:center;gap:15px;flex-wrap:wrap;margin:0 0 15px;font-size:14px;color:#496786}.tour-options label{display:flex;align-items:center;gap:8px}.tour-options input{accent-color:#003da5}.reference-gallery{margin-top:24px;display:grid;grid-template-columns:1fr 1fr;gap:16px}.reference-gallery figure{margin:0;padding:18px;border:1px solid #d5e0f2;border-radius:10px;background:#f8fafc}.reference-gallery img{display:block;height:320px;max-width:100%;object-fit:contain;margin:0 auto 18px}.reference-gallery figcaption{font-size:13px;line-height:1.6;color:#496786}.reference-gallery strong{display:block;font-size:15px;color:#002e5d;margin-bottom:6px}.reference-gallery a{text-decoration:underline}.reference-intro{margin-top:30px}.reference-intro h2{font-size:23px}.reference-intro p{font-size:14px;color:#496786}@media(max-width:600px){.reference-gallery{grid-template-columns:1fr}.reference-gallery img{height:300px}.tour-options{font-size:13px}}
 .tour-options select{font-size:14px;padding:7px 10px;min-height:38px;background:#fff;border-color:#b8cde5;color:#002e5d}.tour-options label{font-weight:500}
+/* One consistent, inset chevron for every native select. */
+select,.audio-bottom select,.tour-options select,.answer-panel select{
+  appearance:none;
+  -webkit-appearance:none;
+  background-color:#fff;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='12' viewBox='0 0 16 12'%3E%3Cpath d='m3 4 5 5 5-5' fill='none' stroke='%23002e5d' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  background-repeat:no-repeat;
+  background-position:right .8rem center;
+  background-size:16px 12px;
+  padding-right:2.7rem;
+  padding-left:.75rem;
+  min-height:38px;
+}
+select:disabled{color:#61768e;background-color:#f0f4f9;cursor:default}
+@media(forced-colors:active){select,.audio-bottom select,.tour-options select,.answer-panel select{appearance:auto;background-image:none}}

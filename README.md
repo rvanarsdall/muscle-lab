@@ -54,3 +54,5 @@ The six approved scripts now teach identity, location, recognition, action and w
 Additional images: Henry Vandyke Carter's public-domain Gray's Anatomy drawings, retrieved from Wikimedia Commons after image search. Original images are retained unmodified; overlays are separate. The gallery and `public/reference/ATTRIBUTION.md` link their source and reuse information. These are illustrations, not specimen photographs.
 
 Watch & Listen offers 0.85×, 1×, 1.25×, 1.5×, 1.75× and 2× tour playback. The selected rate is remembered on the device. Remotion's Player playbackRate drives audio and frames together so captions and annotations remain synchronized.
+
+The six course-model outlines and arrow points were recalculated from the colored muscle pixels in each original image. Actual source dimensions are used, including the 546 × 690 sartorius illustration. This corrects the previously offset diagonal-strap outline. All native dropdowns use one inset SVG chevron with reserved text spacing.
